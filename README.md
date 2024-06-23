@@ -1,2 +1,2 @@
-# Document-Library
-CIT Document Library Resources
+# Document Library
+This repository contains a comprehensive collection of essential resources carefully curated to enhance students' understanding and application of cybersecurity principles. Its digital confines lie meticulously crafted lecture slides, insightful academic papers, expert-authored articles, and real-world case studies illuminating the intricacies of securing digital systems. Additionally, the folder houses thought-provoking articles and documents, all aimed at fostering critical thinking and practical skills development. By delving into this treasure trove of knowledge, students can confidently navigate the ever-evolving landscape of cyber threats and emerge as astute guardians of digital security.
