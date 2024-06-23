@@ -32,4 +32,26 @@ The Federal Risk and Authorization Management Program (FedRAMP®) was establishe
 <br/>
 
 ---
-[]()
+[Guide to DDOS Attacks](https://github.com/DoctorKisow/Document-Library/blob/aa82812459cd0fd9c9452d8587a26d9afb87f95d/Documents/Guide-to-DDoS-Attacks-November-2017.pdf)
+<br/>
+Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (TLP: WHITE) and is permitted to be shared publicly.
+<br/>
+<br/>
+MS-IASC. (2017, November). *TLP: White Guide to ddos attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
+<br/>
+
+---
+[HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/index.html)
+<br/>
+The complete suite of HIPAA Administrative Simplification Regulations can be found at 45 CFR *[Part 160](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160?toc=1), [Part 162](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-162), and [Part 164](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164)*, and includes:
+<br/>
+* Transactions and Code Set Standards<br/>
+* Identifier Standards<br/>
+* Privacy Rule<br/>
+* Security Rule<br/>
+* Enforcement Rule<br/>
+* Breach Notification Rule<br/>
+[View the Combined Regulation Text - PDF](https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/combined/hipaa-simplification-201303.pdf) *(as of March 2013). This unofficial version presents all the regulatory standards in one document (pp. 30-31).*
+<br/>
+
+---
