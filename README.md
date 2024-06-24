@@ -3,6 +3,7 @@
 
 ---
 [#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/7baa282f56faa1373255858afa1d3ed1e4ee508c/Documents/StopRansomware%20Guide%20508c.pdf)
+<br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -14,6 +15,7 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has published a comp
 ---
 [Android Fragmentation - Excel](https://github.com/DoctorKisow/Document-Library/blob/26f5690424b91e36d92be3536f549c9afa99c5d3/Documents/Android%20Fragmentation.xlsx)<br/>
 [Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/7023dd58c98eb66e5e66593981284464286751a8/Documents/Android%20Fragmentation.pdf)
+<br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -25,6 +27,7 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 
 ---
 [Cybersecurity Frameworks](https://github.com/DoctorKisow/Document-Library/tree/11cf64912b84c9a31e5d11eb8467f622eb5900d7/Document%20Library/Cybersecurity%20Frameworks)
+<br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -39,10 +42,12 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 
 ---
 [Cybersecurity Regulation](https://github.com/DoctorKisow/Document-Library/blob/11cf64912b84c9a31e5d11eb8467f622eb5900d7/Document%20Library/Cybersecurity%20Regulation/README.md)
-Cybersecurity regulation encompasses a set of rules, standards, and guidelines established by governments or industry bodies to protect digital systems, networks, and data from cyber threats. Its primary objective is to ensure the confidentiality, integrity, and availability of information and systems in the face of increasingly sophisticated cyber attacks. These regulations typically outline requirements for organizations to implement security controls, conduct risk assessments, and report breaches. By setting clear standards and enforcing compliance, cybersecurity regulation aims to mitigate risks, safeguard sensitive information, and enhance overall resilience against cyber threats in an interconnected world.
+<br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/>
+Cybersecurity regulation encompasses a set of rules, standards, and guidelines established by governments or industry bodies to protect digital systems, networks, and data from cyber threats. Its primary objective is to ensure the confidentiality, integrity, and availability of information and systems in the face of increasingly sophisticated cyber attacks. These regulations typically outline requirements for organizations to implement security controls, conduct risk assessments, and report breaches. By setting clear standards and enforcing compliance, cybersecurity regulation aims to mitigate risks, safeguard sensitive information, and enhance overall resilience against cyber threats in an interconnected world.
 <br/>
 * California Consumer Privacy Act (CCPA)
 * FedRAMP
@@ -54,6 +59,7 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 
 ---
 [C2 Matrix](https://www.thec2matrix.com)
+<br/>
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/>
 A link to a Google spreadsheet containing a list of available command control servers with different capabilities is listed in a matrix [^4].
@@ -63,12 +69,15 @@ A link to a Google spreadsheet containing a list of available command control se
 ---
 [Empire](https://github.com/EmpireProject/Empire)
 <br/>
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/>
 Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent. It is the merge of the previous PowerShell Empire and Python EmPyre projects. The framework offers cryptologically-secure communications and a flexible architecture. On the PowerShell side, Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework. PowerShell Empire premiered at [BSidesLV](https://www.youtube.com/watch?v=Pq9t59w0mUI) in 2015 and Python EmPyre premiered at HackMiami in 2016.
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/>
 
 ---
 [FedRAMP](https://www.fedramp.gov/program-basics/)
+<br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -78,6 +87,7 @@ The Federal Risk and Authorization Management Program (FedRAMP®) was establishe
 
 ---
 [Guide to DDoS Attacks](https://github.com/DoctorKisow/Document-Library/blob/aa82812459cd0fd9c9452d8587a26d9afb87f95d/Documents/Guide-to-DDoS-Attacks-November-2017.pdf)
+<br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -88,15 +98,18 @@ Occasionally, I receive briefings from the Pennsylvania Department of Homeland S
 
 ---
 [The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
-[The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)<br/>
-This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^10],[^11].
+[The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)
+<br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/>
+This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^10],[^11].
+
 [^10]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
 [^11]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
 ---
 [JPCERT](https://www.jpcert.or.jp/english)
+<br/>
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/>
 Similar to the US-CERT, the Japan Computer Emergency Response Team (JPCERT) is an organization that works with service providers, security vendors, and private sector and government agencies to provide incident response capabilities, increase cyber security awareness, conduct research analysis of incidents, and work with other international CERT teams [^12].
@@ -104,6 +117,7 @@ Similar to the US-CERT, the Japan Computer Emergency Response Team (JPCERT) is a
 
 ---
 [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)
+<br/>
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
