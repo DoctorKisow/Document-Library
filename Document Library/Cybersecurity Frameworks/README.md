@@ -33,8 +33,6 @@ The Open Source Security Testing Methodology Manual is a complete methodology fo
 
 [^2]: Herzog, P. (2010). OSSTMM 3 – The Open Source Security Testing Methodology Manual. https://www.isecom.org/OSSTMM.3.pdf
 
-<br/>
-
 ---
 [OWASP WSTG Testing Framework](https://owasp.org/www-project-owtf/)
 <br/>
