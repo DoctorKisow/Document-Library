@@ -11,9 +11,6 @@ The following tags are used throughout this repository:
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
 
----
-[Document Library](https://github.com/DoctorKisow/Document-Library/blob/fa088d62af7edeb126b499cc8e18c340b99a8677/Document%20Library/Document%20Library.md)
-
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Icons: http://www.onlinewebfonts.com/ -->
