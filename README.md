@@ -15,7 +15,7 @@ The following tags are used throughout this repository:
 # Document Library
 Use the following link to continue to the document library:
 <br/><br/>
-[Document Library](Document Library/Document Library.md)
+[Document Library](Document%20Library/Document%20Library.md)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
