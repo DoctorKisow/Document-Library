@@ -24,7 +24,7 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 <br/>
 
 ---
-[NIST Cybersecurity Framework Resources](https://github.com/DoctorKisow/Document-Library/blob/3e4fca76f514f199cefac0c32dbca06c3b0cae1f/Document%20Library/Cybersecurity%20Frameworks/NIST%20Cybersecurity%20Framework%20Resources/README.md)
+[NIST Cybersecurity Framework Resources](./NIST%20Cybersecurity%20Framework%20Resources/NIST%20Cybersecurity%20Framework%20Resources.md)
 <br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
