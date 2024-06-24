@@ -1,19 +1,6 @@
 # Document Library
 *This repository contains a comprehensive collection of essential resources carefully curated to enhance students' understanding and application of cybersecurity principles. Its digital confines lie meticulously crafted lecture slides, insightful academic papers, expert-authored articles, and real-world case studies illuminating the intricacies of securing digital systems. Additionally, the folder houses thought-provoking articles and documents, all aimed at fostering critical thinking and practical skills development. By delving into this treasure trove of knowledge, students can confidently navigate the ever-evolving landscape of cyber threats and emerge as astute guardians of digital security.*
 
-# Usage
-*This repository is systematically organized into several key sections, ensuring a comprehensive and structured approach to learning. The sections are as follows: Cybersecurity Frameworks, Cybersecurity Regulations, and Various Articles of Interest. Each article within these sections will be meticulously tagged to correspond with specific cybersecurity classes, facilitating targeted learning and efficient resource allocation.
-<br/><br/>
-Every article will be assigned one or more tags that indicate its relevance to particular courses. These tags ensure that students and educators can easily identify which materials align with their specific learning objectives and curriculum requirements. While all the information in this repository is broadly relevant to the field of cybersecurity, certain articles are tailored to meet the specific learning outcomes of individual classes.
-<br/><br/>
-This tagging system not only enhances the repository’s utility as an educational tool but also supports a focused and outcome-driven approach to cybersecurity education. By aligning resources with course-specific goals, we aim to provide a more effective and personalized learning experience.*
-<br/><br/>
-The following tags are used throughout this repository: 
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
-
 ---
 [#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/7baa282f56faa1373255858afa1d3ed1e4ee508c/Documents/StopRansomware%20Guide%20508c.pdf)
 <br/>
