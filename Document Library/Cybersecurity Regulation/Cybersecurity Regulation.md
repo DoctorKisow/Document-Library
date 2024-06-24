@@ -4,6 +4,10 @@
 ---
 [California Consumer Privacy Act (CCPA)](https://www.oag.ca.gov/privacy/ccpa)
 <br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/>
 The [California Consumer Privacy Act of 2018 (CCPA)](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5) gives consumers more control over the personal information that businesses collect about them and the [CCPA regulations](https://govt.westlaw.com/calregs/Browse/Home/California/CaliforniaCodeofRegulations?guid=I5E53FC80FEDE11ECA3A49C17D1AA5D7C&originationContext=documenttoc&transitionType=Default&contextData=(sc.Default)) guide how to implement the law [^1]. 
 
 [^1]: California Consumer Privacy Act (CCPA). (2024, March 13). State of California - Department of Justice - Office of the Attorney General. https://www.oag.ca.gov/privacy/ccpa
@@ -11,11 +15,19 @@ The [California Consumer Privacy Act of 2018 (CCPA)](http://leginfo.legislature.
 ---
 [FedRAMP](https://www.fedramp.gov/program-basics/)
 <br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/>
 The Federal Risk and Authorization Management Program (FedRAMP®) was established in 2011 to provide a cost-effective, risk-based approach for the adoption and use of cloud services by the federal government. FedRAMP empowers agencies to use modern cloud technologies, with an emphasis on the security and protection of federal information. In December 2022, the FedRAMP Authorization Act was signed as part of the FY23 National Defense Authorization Act (NDAA). The Act codifies the FedRAMP program as the authoritative standardized approach to security assessment and authorization for cloud computing products and services that process unclassified federal information.
 <br/>
 
 ---
 [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
+<br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
 The General Data Protection Regulation (GDPR) is a comprehensive data protection law enacted by the European Union (EU) to regulate the processing of personal data. Implemented in May 2018, GDPR aims to strengthen individuals' rights regarding their personal information and harmonize data protection laws across EU member states. It requires organizations to obtain explicit consent for data processing, provide transparent information about how data is used, and take measures to ensure data security. GDPR also empowers individuals with rights such as the right to access, rectify, and erase their data. The regulation imposes hefty fines for non-compliance, serving as a deterrent to organizations mishandling personal data and fostering a culture of accountability and data protection [^2].
 <br/>
@@ -24,6 +36,10 @@ The General Data Protection Regulation (GDPR) is a comprehensive data protection
 
 ---
 [HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/index.html)
+<br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
 The complete suite of HIPAA Administrative Simplification Regulations can be found at 45 CFR *[Part 160](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160)*, *[Part 162](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-162)*, and *[Part 164](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164)*, and includes:
 <br/>
@@ -41,6 +57,10 @@ The complete suite of HIPAA Administrative Simplification Regulations can be fou
 ---
 [NYDFS Cybersecurity Regulation](https://github.com/DoctorKisow/Document-Library/blob/a2ec8337fcb1c82c3a9733498601cd37e1fc9454/Document%20Library/Cybersecurity%20Regulation/NYCRR%20500%20Ammendment%202%20(2023).pdf)
 <br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/>
 **NYDFS Cybersecurity Regulation Amendment 2 (2023)**
 <br/>
 New York State Department of Financial Services Cybersecurity Requirements for Financial Services Companies [^4].
@@ -51,6 +71,10 @@ New York State Department of Financial Services Cybersecurity Requirements for F
 ---
 [PCI DSS v4](https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf)
 <br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/>
 The Payment Card Industry Data Security Standard (PCI DSS) was developed to encourage and enhance payment card account data security and facilitate the broad adoption of consistent data security measures globally. PCI DSS provides a baseline of technical and operational requirements designed to protect account data. While specifically designed to focus on environments with payment card account data, PCI DSS can also be used to protect against threats and secure other elements in the payment ecosystem [^5].
 <br/>
 
@@ -58,6 +82,10 @@ The Payment Card Industry Data Security Standard (PCI DSS) was developed to enco
 
 ---
 [The Virginia Consumer Data Protection Act](https://law.lis.virginia.gov/vacode/title59.1/chapter53/)
+<br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
 **The State of Virginia Consumer Data Protection Act** [^6].
 <br/>
