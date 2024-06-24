@@ -34,6 +34,33 @@ The complete suite of HIPAA Administrative Simplification Regulations can be fou
 * Enforcement Rule<br/>
 * Breach Notification Rule<br/>
 
-[View the Combined Regulation Text - PDF](https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/combined/hipaa-simplification-201303.pdf) *This unofficial version presents all the regulatory standards in one document (pp. 30-31).* [^3]
+[View the Combined Regulation Text - PDF](https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/combined/hipaa-simplification-201303.pdf) *This unofficial version presents all the regulatory standards in one document (pp. 30-31)* [^3].
 
 [^3]: Rights, O. F. C. (2022, October 20). Combined Regulation text of all rules. HHS.gov. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/index.html
+
+---
+[NYDFS Cybersecurity Regulation](https://github.com/DoctorKisow/Document-Library/blob/a2ec8337fcb1c82c3a9733498601cd37e1fc9454/Document%20Library/Cybersecurity%20Regulation/NYCRR%20500%20Ammendment%202%20(2023).pdf)
+<br/>
+**NYDFS Cybersecurity Regulation Amendment 2 (2023)**
+<br/>
+New York State Department of Financial Services Cybersecurity Requirements for Financial Services Companies [^4].
+<br/>
+
+[^4]: Amended Cybersecurity Regulation 2(23) Part 500. (2023, November 1). New York Department of Financial Services. Retrieved April 21, 2024, from https://www.dfs.ny.gov/system/files/documents/2023/11/cyber_public_training_deck_20231108.pdf
+
+---
+[PCI DSS v4](https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf)
+<br/>
+The Payment Card Industry Data Security Standard (PCI DSS) was developed to encourage and enhance payment card account data security and facilitate the broad adoption of consistent data security measures globally. PCI DSS provides a baseline of technical and operational requirements designed to protect account data. While specifically designed to focus on environments with payment card account data, PCI DSS can also be used to protect against threats and secure other elements in the payment ecosystem [^5].
+<br/>
+
+[^5]: PCI Security Standards Council. (2022, March). Payment Card Industry Data Security Standard: Requirements and Testing Procedures. https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf
+
+---
+[The Virginia Consumer Data Protection Act](https://law.lis.virginia.gov/vacode/title59.1/chapter53/)
+<br/>
+**The State of Virginia Consumer Data Protection Act** [^6].
+<br/>
+
+[^6]: The Virginia Consumer Data Protection Act. (2023, January 1). Code of Virginia. Retrieved April 21, 2024, from https://law.lis.virginia.gov/vacode/title59.1/chapter53/
+
