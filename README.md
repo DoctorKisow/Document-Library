@@ -18,7 +18,7 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
-[Cybersecurity Frameworks]()
+[Cybersecurity Frameworks](https://github.com/DoctorKisow/Document-Library/blob/9ba33f18d13eda31f893bac90ec14a8f19f9de70/Document%20Library/Cybersecurity%20Frameworks/README.md)
 
 Cybersecurity frameworks are structured sets of guidelines, best practices, and standards designed to help organizations manage and improve their cybersecurity posture. These frameworks serve as comprehensive frameworks that outline systematic approaches to identify, assess, and mitigate cybersecurity risks, as well as establish effective cybersecurity programs. They typically include guidelines for defining cybersecurity policies, implementing security controls, managing incidents, and conducting risk assessments. Cybersecurity frameworks provide organizations with a structured and standardized approach to cybersecurity, helping them align with industry best practices, regulatory requirements, and emerging threats. By adopting and implementing cybersecurity frameworks, organizations can enhance their resilience to cyber threats, protect critical assets and data, and maintain the trust and confidence of their stakeholders.
 
@@ -27,6 +27,18 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 * NIST Cybersecurity Framework
 * OSTMM v3
 * OWASP WSTG Testing Framework
+
+---
+[Cybersecurity Regulation](https://github.com/DoctorKisow/Document-Library/blob/11cf64912b84c9a31e5d11eb8467f622eb5900d7/Document%20Library/Cybersecurity%20Regulation/README.md)
+Cybersecurity regulation encompasses a set of rules, standards, and guidelines established by governments or industry bodies to protect digital systems, networks, and data from cyber threats. Its primary objective is to ensure the confidentiality, integrity, and availability of information and systems in the face of increasingly sophisticated cyber attacks. These regulations typically outline requirements for organizations to implement security controls, conduct risk assessments, and report breaches. By setting clear standards and enforcing compliance, cybersecurity regulation aims to mitigate risks, safeguard sensitive information, and enhance overall resilience against cyber threats in an interconnected world.
+
+* California Consumer Privacy Act (CCPA)
+* FedRAMP
+* General Data Protection Regulation (GDPR)
+* HIPAA Privacy Rule
+* NYDFS Cybersecurity Regulation
+* PCI DSS v4
+* Virginia Consumer Data Protection Act
 
 ---
 [C2 Matrix](https://www.thec2matrix.com)
@@ -53,25 +65,6 @@ The Federal Risk and Authorization Management Program (FedRAMP®) was establishe
 Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (TLP: WHITE) and is permitted to be shared publicly [^5].
 <br/>
 [^5]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
-
----
-[HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/index.html)
-<br/>
-The complete suite of HIPAA Administrative Simplification Regulations can be found at 45 CFR *[Part 160](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160?toc=1)* [^6], *[Part 162](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-162)* [^7], and *[Part 164](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164)* [^8], and includes:
-<br/>
-* Transactions and Code Set Standards<br/>
-* Identifier Standards<br/>
-* Privacy Rule<br/>
-* Security Rule<br/>
-* Enforcement Rule<br/>
-* Breach Notification Rule<br/>
-
-[View the Combined Regulation Text](https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/combined/hipaa-simplification-201303.pdf) *This unofficial version presents all the regulatory standards in one document (pp. 30-31).* [^9]
-
-[^6]: 45 CFR Part 160 -- General Administrative Requirements. (n.d.). https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-160?toc=1
-[^7]: 45 CFR Part 162 -- General Administrative Requirements. (n.d.). https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-162
-[^8]: 45 CFR Part 164 -- General Administrative Requirements. (n.d.). https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164
-[^9]: HIPAA Administrative Simplification. (2013). In https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/combined/hipaa-simplification-201303.pdf. Department of Health and Human Services. https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/combined/hipaa-simplification-201303.pdf
 
 ---
 [The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
