@@ -41,6 +41,19 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 * OWASP WSTG Testing Framework
 
 ---
+### Cybersecurity Kill Chain
+[Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)<br/>
+[Cyber Kill Chain - SANS](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
+<br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/>
+A cybersecurity kill chain is a framework used to understand the stages of a cyberattack, from initial reconnaissance to the final goal of the attacker. Developed by Lockheed Martin, the Cyber Kill Chain® outlines seven steps: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C<sup>2</sup>), and Actions on Objectives. These steps help organizations identify and counteract threats at each phase of an attack. The model is designed to enhance an organization's defense mechanisms by providing a structured approach to analyze and mitigate cyber threats. The SANS Institute's analysis compares the Cyber Kill Chain with the MITRE ATT&CK framework, emphasizing that while both models aim to improve cybersecurity, the Cyber Kill Chain focuses on the linear progression of an attack, making it a valuable tool for understanding and disrupting the adversarial process.[^4], [^5].
+
+[^4]: Cyber Kill chain. (n.d.). Lockheed Martin. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+[^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
+
+---
 [Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
 <br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
@@ -64,9 +77,15 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
-Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (TLP: WHITE) and is permitted to be shared publicly [^4].
+Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (TLP: WHITE) and is permitted to be shared publicly [^6].
 <br/>
-[^4]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
+[^6]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
+
+---
+### Indicators of Compromise
+
+[^7]: CrowdStrike. (2023, August 11). What are Indicators of Compromise? IOC Explained - CrowdStrike. crowdstrike.com. https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/
+[^8]: https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
 
 ---
 [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)
