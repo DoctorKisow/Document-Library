@@ -18,7 +18,7 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
-[Cybersecurity Frameworks](https://github.com/DoctorKisow/Document-Library/blob/9ba33f18d13eda31f893bac90ec14a8f19f9de70/Document%20Library/Cybersecurity%20Frameworks/README.md)
+[Cybersecurity Frameworks](https://github.com/DoctorKisow/Document-Library/tree/11cf64912b84c9a31e5d11eb8467f622eb5900d7/Document%20Library/Cybersecurity%20Frameworks)
 
 Cybersecurity frameworks are structured sets of guidelines, best practices, and standards designed to help organizations manage and improve their cybersecurity posture. These frameworks serve as comprehensive frameworks that outline systematic approaches to identify, assess, and mitigate cybersecurity risks, as well as establish effective cybersecurity programs. They typically include guidelines for defining cybersecurity policies, implementing security controls, managing incidents, and conducting risk assessments. Cybersecurity frameworks provide organizations with a structured and standardized approach to cybersecurity, helping them align with industry best practices, regulatory requirements, and emerging threats. By adopting and implementing cybersecurity frameworks, organizations can enhance their resilience to cyber threats, protect critical assets and data, and maintain the trust and confidence of their stakeholders.
 
