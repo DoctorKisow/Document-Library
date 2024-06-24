@@ -117,4 +117,7 @@ MITRE ATT&CK® is a globally accessible knowledge base of adversary tactics and 
 With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems for a safer world — by bringing communities together to develop more effective cybersecurity. ATT&CK is open and available to any person or organization for use at no charge.
 <br/>
 
----
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- Icons: http://www.onlinewebfonts.com/ -->
+<!-- Shields: https://shields.io/ -->
