@@ -83,9 +83,17 @@ Occasionally, I receive briefings from the Pennsylvania Department of Homeland S
 
 ---
 ### Indicators of Compromise
+[IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
+[What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
+[IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)
+<br/>
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/>
+Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^7],[^8],[^9].
 
 [^7]: CrowdStrike. (2023, August 11). What are Indicators of Compromise? IOC Explained - CrowdStrike. crowdstrike.com. https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/
-[^8]: https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
+[^8]: What are Indicators of Compromise (IoCs)? - An Easy Guide. (2024, April 4). SentinelOne. https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
+[^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
 
 ---
 [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)
@@ -115,9 +123,9 @@ For weeks, a cyber weapon that he’d built with two of his young friends, Paras
 <br/><br/>
 He’d reached a state of numbness, compartmentalizing his dread even as he read Bruce Schneier’s doomsday post and understood that it was describing his own work—and now, even as a White House press secretary assured reporters in a streamed press conference that the Department of Homeland Security was investigating the mass outage that had resulted directly from his actions.
 <br/><br/>
-But what Josiah remembers feeling above all else was simply awe—awe at the scale and chaotic power of the Frankenstein’s monster that he and his friends had unleashed. Awe at how thoroughly it had now escaped their control. Awe that the internet itself was being shaken to its foundations by this thing that three young hackers had built in a flurry of adolescent emotions, whims, rivalries, rationalizations, and mistakes. A thing called Mirai [^5].
+But what Josiah remembers feeling above all else was simply awe—awe at the scale and chaotic power of the Frankenstein’s monster that he and his friends had unleashed. Awe at how thoroughly it had now escaped their control. Awe that the internet itself was being shaken to its foundations by this thing that three young hackers had built in a flurry of adolescent emotions, whims, rivalries, rationalizations, and mistakes. A thing called Mirai [^10].
 <br/><br/>
-[^5]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
+[^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
 ### NSA PRISM PowerPoint Slides
@@ -139,10 +147,10 @@ But what Josiah remembers feeling above all else was simply awe—awe at the sca
 <br/>
 These are copies of National Security Agency (NSA) PowerPoint slides about its PRISM program, leaked by Edward Snowden. They come from two sources:
 
-1. The Washington Post [^6]
-1. Le Monde [^7]
+1. The Washington Post [^11]
+1. Le Monde [^12]
 
-For additional NSA slides leaked by Edward Snowden [^8], see:
+For additional NSA slides leaked by Edward Snowden [^13], see:
 
 1. XKeyscore: http://archive.org/details/NSA-Powerpoint-Slides-XKeyscore
 1. BOUNDLESSINFORMANT: http://archive.org/details/NSA-Boundless-Informant-Slides
@@ -155,9 +163,9 @@ For additional NSA slides leaked by Edward Snowden [^8], see:
 1. Global Heat: http://archive.org/details/NSA-Global-Heat-Map-Surveillance
 1. Released by Brazilian TV: http://archive.org/details/NSA-Slides-O-Globo-Brazil
 
-[^6]: NSA slides explain the PRISM data-collection program. (n.d.). *The Washington Post.* http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/
-[^7]: Monde, L. (2014, March 21). Espionnage de la NSA : tous les documents publiés par “Le Monde.” Le Monde.fr. http://www.lemonde.fr/technologies/article/2013/10/21/espionnage-de-la-nsa-tous-les-documents-publies-par-le-monde_3499986_651865.html
-[^8]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
+[^11]: NSA slides explain the PRISM data-collection program. (n.d.). *The Washington Post.* http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/
+[^12]: Monde, L. (2014, March 21). Espionnage de la NSA : tous les documents publiés par “Le Monde.” Le Monde.fr. http://www.lemonde.fr/technologies/article/2013/10/21/espionnage-de-la-nsa-tous-les-documents-publies-par-le-monde_3499986_651865.html
+[^13]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
 
 ---
 [Rage-quit: Coder unpublished 17 lines of JavaScript and "broke the Internet"](https://github.com/DoctorKisow/Document-Library/blob/6c642da01de86f10c149ad7d14e9c26c41921ba5/Document%20Library/Rage-quit%20Coder%20unpublished%2017%20lines%20of%20JavaScript%20and%20%E2%80%9Cbroke%20the%20Internet%E2%80%9D%20Ars%20Technica.pdf)
@@ -171,8 +179,9 @@ The article "Rage-quit coder unpublished 17 lines of JavaScript and broke the in
 
 Koçulu's decision to unpublish his package stemmed from a dispute with npm over another package he had named "Kik", which conflicted with the name of a popular messaging app. npm sided with the app's developers, prompting Koçulu to remove all his packages in protest.
 
-The sudden removal of "left-pad" caused widespread disruption, breaking thousands of builds and highlighting the dependency problems within the JavaScript ecosystem. The incident sparked discussions about the reliability of open-source software, dependency management, and the responsibilities of maintainers [^9].
-[^9]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
+The sudden removal of "left-pad" caused widespread disruption, breaking thousands of builds and highlighting the dependency problems within the JavaScript ecosystem. The incident sparked discussions about the reliability of open-source software, dependency management, and the responsibilities of maintainers [^14].
+
+[^14]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 
 ---
 [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)
@@ -187,8 +196,8 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 * Blue Teams focus on defending against these attacks and enhancing security measures.
 * Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
 
-The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^10].
-[^10]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
+The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
+[^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
 
 ---
 [Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
@@ -210,8 +219,9 @@ By compiling articles from both peer-reviewed sources and esteemed journalistic 
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/>
 
-Threat Intelligence Platforms (TIP) are emerging technology supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^11].
-[^11]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
+Threat Intelligence Platforms (TIP) are emerging technology supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
+
+[^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
 [The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
@@ -219,10 +229,10 @@ Threat Intelligence Platforms (TIP) are emerging technology supporting organizat
 <br/>
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/>
-This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^12],[^13].
+This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
 
-[^12]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
-[^13]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
+[^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
+[^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
 ---
 [There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/There%E2%80%99s%20No%20Silver%20Bullet%20for%20Cybersecurity.pdf)
@@ -231,9 +241,9 @@ This report outlines the investigation into state-sponsored interference in the 
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
-The Harvard Business Review article "There's No Silver Bullet for Cybersecurity" emphasizes that no single solution can fully address cybersecurity challenges. As advancements in AI, the metaverse, and quantum computing continue, cybersecurity issues will grow in complexity. The article argues that both governments and businesses must collaborate and adopt multifaceted strategies to enhance security. It highlights the importance of continuous innovation, robust policies, and a proactive approach to managing cybersecurity risks [^14].
+The Harvard Business Review article "There's No Silver Bullet for Cybersecurity" emphasizes that no single solution can fully address cybersecurity challenges. As advancements in AI, the metaverse, and quantum computing continue, cybersecurity issues will grow in complexity. The article argues that both governments and businesses must collaborate and adopt multifaceted strategies to enhance security. It highlights the importance of continuous innovation, robust policies, and a proactive approach to managing cybersecurity risks [^19].
 
-[^14]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
+[^19]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
 
 ---
 [Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Think%20Like%20a%20Hacker.pdf)
@@ -241,9 +251,9 @@ The Harvard Business Review article "There's No Silver Bullet for Cybersecurity"
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
-Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^15].
+Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^20].
 
-[^15]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
+[^20]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 
 ---
 [Where to Focus Your Company’s Limited Cybersecurity Budget.](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Where%20to%20Focus%20Your%20Company%E2%80%99s%20Limited%20Cybersecurity%20Budget.pdf)
@@ -251,9 +261,9 @@ Cyber-lawyer Scott Shapiro believes there is more to beating hackers than gettin
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/>
-Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^16].
+Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^21].
 
-[^16]: Isles, A. (2023, May 23). Where to Focus Your Company’s limited cybersecurity budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
+[^21]: Isles, A. (2023, May 23). Where to Focus Your Company’s limited cybersecurity budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
