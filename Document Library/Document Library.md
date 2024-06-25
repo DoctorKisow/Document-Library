@@ -2,36 +2,39 @@
 *This repository contains a comprehensive collection of essential resources carefully curated to enhance students' understanding and application of cybersecurity principles. Its digital confines lie meticulously crafted lecture slides, insightful academic papers, expert-authored articles, and real-world case studies illuminating the intricacies of securing digital systems. Additionally, the folder houses thought-provoking articles and documents, all aimed at fostering critical thinking and practical skills development. By delving into this treasure trove of knowledge, students can confidently navigate the ever-evolving landscape of cyber threats and emerge as astute guardians of digital security.*
 
 ---
-[#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/7baa282f56faa1373255858afa1d3ed1e4ee508c/Documents/StopRansomware%20Guide%20508c.pdf)
-<br/>
+### #StopRansomeware Guide
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
-The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been declassified (TLP: CLEAR) and is permitted to be shared publicly [^1].
-<br/>
+<br/><br/>
+[#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/7baa282f56faa1373255858afa1d3ed1e4ee508c/Documents/StopRansomware%20Guide%20508c.pdf)<br/>
+
+The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been declassified (**TLP: CLEAR**) and is permitted to be shared publicly [^1].
+
 [^1]: CISA (2023, May 23). *#StopRansomware Guide. Cybersecurity and Infrastructure Security Agency.* https://www.cisa.gov/resources-tools/resources/stopransomware-guide
 
 ---
-[Android Fragmentation - Excel](https://github.com/DoctorKisow/Document-Library/blob/26f5690424b91e36d92be3536f549c9afa99c5d3/Documents/Android%20Fragmentation.xlsx)<br/>
-[Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/7023dd58c98eb66e5e66593981284464286751a8/Documents/Android%20Fragmentation.pdf)
-<br/>
+### Android Fragmentation
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
+<br/><br/>
+[Android Fragmentation - Excel](https://github.com/DoctorKisow/Document-Library/blob/26f5690424b91e36d92be3536f549c9afa99c5d3/Documents/Android%20Fragmentation.xlsx)<br/>
+[Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/7023dd58c98eb66e5e66593981284464286751a8/Documents/Android%20Fragmentation.pdf)<br/>
+
 Android fragmentation refers to the phenomenon within the Android ecosystem where the platform's user base is spread across numerous device manufacturers, models, versions, and customized software implementations. This results in a diverse array of hardware capabilities, software versions, and user experiences across Android devices. Fragmentation can present challenges for developers aiming to create apps that perform consistently across the Android ecosystem, as they must contend with varying screen sizes, resolutions, hardware specifications, and software versions. Additionally, device manufacturers and carriers often introduce their customizations and modifications to the Android operating system, further exacerbating fragmentation by creating inconsistencies in user interfaces and feature sets. Addressing fragmentation requires careful consideration of compatibility, testing, and optimization strategies to ensure a seamless user experience across the diverse range of Android devices [^2],[^3].
 
 [^2]: How many Android devices are on Android 13? Fewer than Android 11, unfortunately. (2023, April 13). Android Authority. https://www.androidauthority.com/android-13-distribution-2023-3312803/
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
-[Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
-<br/>
+### Cybersecurity Frameworks
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
+<br/><br/>
+[Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)<br/>
+
 Cybersecurity frameworks are structured sets of guidelines, best practices, and standards designed to help organizations manage and improve their cybersecurity posture. These frameworks serve as comprehensive frameworks that outline systematic approaches to identify, assess, and mitigate cybersecurity risks, as well as establish effective cybersecurity programs. They typically include guidelines for defining cybersecurity policies, implementing security controls, managing incidents, and conducting risk assessments. Cybersecurity frameworks provide organizations with a structured and standardized approach to cybersecurity, helping them align with industry best practices, regulatory requirements, and emerging threats. By adopting and implementing cybersecurity frameworks, organizations can enhance their resilience to cyber threats, protect critical assets and data, and maintain the trust and confidence of their stakeholders.
 
 * Empire Post-Exploitation Framework
@@ -42,26 +45,28 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 
 ---
 ### Cybersecurity Kill Chain
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
 [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)<br/>
 [Cyber Kill Chain - SANS](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
 <br/>
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/>
+
 A cybersecurity kill chain is a framework used to understand the stages of a cyberattack, from initial reconnaissance to the final goal of the attacker. Developed by Lockheed Martin, the Cyber Kill Chain® outlines seven steps: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C<sup>2</sup>), and Actions on Objectives. These steps help organizations identify and counteract threats at each phase of an attack. The model is designed to enhance an organization's defense mechanisms by providing a structured approach to analyze and mitigate cyber threats. The SANS Institute's analysis compares the Cyber Kill Chain with the MITRE ATT&CK framework, emphasizing that while both models aim to improve cybersecurity, the Cyber Kill Chain focuses on the linear progression of an attack, making it a valuable tool for understanding and disrupting the adversarial process.[^4], [^5].
 
 [^4]: Cyber Kill chain. (n.d.). Lockheed Martin. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 [^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
 
 ---
-[Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
-<br/>
+### Cybersecurity Regulation
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
+<br/><br/>
+[Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)<br/>
+
 Cybersecurity regulation encompasses a set of rules, standards, and guidelines established by governments or industry bodies to protect digital systems, networks, and data from cyber threats. Its primary objective is to ensure the confidentiality, integrity, and availability of information and systems in the face of increasingly sophisticated cyber attacks. These regulations typically outline requirements for organizations to implement security controls, conduct risk assessments, and report breaches. By setting clear standards and enforcing compliance, cybersecurity regulation aims to mitigate risks, safeguard sensitive information, and enhance overall resilience against cyber threats in an interconnected world.
-<br/>
+
 * California Consumer Privacy Act (CCPA)
 * FedRAMP
 * General Data Protection Regulation (GDPR)
@@ -71,24 +76,25 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 * Virginia Consumer Data Protection Act
 
 ---
-[Guide to DDoS Attacks](https://github.com/DoctorKisow/Document-Library/blob/aa82812459cd0fd9c9452d8587a26d9afb87f95d/Documents/Guide-to-DDoS-Attacks-November-2017.pdf)
-<br/>
+### Guide to DDoS Attacks
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
-Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (TLP: WHITE) and is permitted to be shared publicly [^6].
-<br/>
+<br/><br/>
+[Guide to DDoS Attacks](https://github.com/DoctorKisow/Document-Library/blob/aa82812459cd0fd9c9452d8587a26d9afb87f95d/Documents/Guide-to-DDoS-Attacks-November-2017.pdf)<br/>
+
+Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (**TLP: WHITE**) and is permitted to be shared publicly [^6].
+
 [^6]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
 
 ---
 ### Indicators of Compromise
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
 [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
 [What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
-[IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)
-<br/>
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/>
+[IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)<br/>
+
 Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^7],[^8],[^9].
 
 [^7]: CrowdStrike. (2023, August 11). What are Indicators of Compromise? IOC Explained - CrowdStrike. crowdstrike.com. https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/
@@ -96,39 +102,22 @@ Indicators of Compromise (IOCs) are digital clues indicating potential security 
 [^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
 
 ---
-[The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)
-<br/>
+### The Mirai Confessions
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
-**Early in the** morning on October 21, 2016, Scott Shapiro got out of bed, opened his Dell laptop to read the day’s news, and found that the internet was broken.
 <br/><br/>
-Not his internet, though at first it struck Shapiro that way as he checked and double-checked his computer’s Wi-Fi connection and his router. The internet.
-<br/><br/>
-The New York Times website was offline, as was Twitter. So too were the websites of The Guardian, The Wall Street Journal, CNN, the BBC, and Fox News. (And WIRED.) When Twitter intermittently sputtered back online, users cataloged an alarming, untold number of other digital services that were also victims of the outage. Amazon, Spotify, Reddit, PayPal, Airbnb, Slack, SoundCloud, HBO, and Netflix were all, to varying degrees, crippled for most of the East Coast of the United States and other patches of the country.
-<br/><br/>
-Shapiro, a very online professor at Yale Law School who was teaching a new class on cyber conflict that year, found the blackout deeply disorienting and isolating. A presidential election unlike any other in US history loomed in just under three weeks. “October surprises” seemed to be piling up: Earlier that month, US intelligence agencies had jointly announced that hacker breaches of the Democratic National Committee and Hillary Clinton’s presidential campaign had in fact been carried out by the Russian government. Meanwhile, Julian Assange’s WikiLeaks had been publishing the leaked emails from those hacks, pounding out a drumbeat of scandalous headlines. Spooked cybersecurity analysts feared that a more climactic cyberattack might strike on Election Day itself, throwing the country into chaos.
-<br/><br/>
-Those anxieties had been acutely primed just a month earlier by a blog post written by the famed cryptographer and security guru Bruce Schneier. It was titled “Someone Is Learning How to Take Down the Internet.”
-<br/><br/>
-“Over the past year or two, someone has been probing the defenses of the companies that run critical pieces of the internet,” Schneier, one of the most highly respected voices in the cybersecurity community, had warned. He described how an unknown force appeared to be repeatedly barraging this key infrastructure with relentless waves of malicious traffic at a scale that had never been seen before. “These probes take the form of precisely calibrated attacks designed to determine exactly how well these companies can defend themselves, and what would be required to take them down. We don’t know who is doing this, but it feels like a large nation-state. China or Russia would be my first guesses.”
-<br/><br/>
-Now it seemed to Shapiro that Schneier’s warning was coming to fruition, right on schedule. “This is the attack,” he remembers thinking. Was it “the big one?” he asked himself. Or was it perhaps a test for the true “big one” that would hit on November 8? “Obviously, it has to be a nation-state,” Shapiro thought. “It has to be the Russians.”
-<br/><br/>
-For Shapiro, the internet outage was a kind of turning point: In the months and years that followed, he would become obsessed with trying to understand how someone could simply stamp out such a large swath of digital connectivity across the world, who would do such a thing, and why. But meanwhile, a little less than 500 miles west of Shapiro’s Connecticut home, in the town of Washington, Pennsylvania, another sort of observer was watching the attack unfold.
-<br/><br/>
-After a typical sleepless night at his keyboard, 19-year-old Josiah White sat staring at the three flatscreen monitors he’d set up on a workbench in a messy basement storage area connected to the bedroom he shared with his brother in their parents’ house. He was surrounded by computer equipment—old hard drives and a friend’s desktop machine he had offered to fix—and boxes of his family’s toys and Christmas tree ornaments.
-<br/><br/>
-For weeks, a cyber weapon that he’d built with two of his young friends, Paras Jha and Dalton Norman, had wreaked havoc across the internet, blasting victims offline in one unprecedented attack after another. As the damage mounted, Josiah had grown accustomed to the thrills, the anxiety, the guilt, the sense that it had all gotten so absurdly out of hand—and the thought that he was now probably being hunted by law enforcement agencies around the world.
-<br/><br/>
-He’d reached a state of numbness, compartmentalizing his dread even as he read Bruce Schneier’s doomsday post and understood that it was describing his own work—and now, even as a White House press secretary assured reporters in a streamed press conference that the Department of Homeland Security was investigating the mass outage that had resulted directly from his actions.
-<br/><br/>
-But what Josiah remembers feeling above all else was simply awe—awe at the scale and chaotic power of the Frankenstein’s monster that he and his friends had unleashed. Awe at how thoroughly it had now escaped their control. Awe that the internet itself was being shaken to its foundations by this thing that three young hackers had built in a flurry of adolescent emotions, whims, rivalries, rationalizations, and mistakes. A thing called Mirai [^10].
-<br/><br/>
+[The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)<br/>
+
+The article "The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story" details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^10].
+
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
 ### NSA PRISM PowerPoint Slides
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
 [PRISM Case Notations](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Case%20Notations.jpg)<br/>
 [PRISM Collection Dataflow](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Dataflow.jpg)<br/>
 [PRISM Collection Details](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Details.jpg)<br/>
@@ -140,11 +129,7 @@ But what Josiah remembers feeling above all else was simply awe—awe at the sca
 [PRISM FAA702 Operations](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/Prism-faa702Operations-washingtonpost.jpg)<br/>
 [PRISM FAA702 Operations PG4](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_04.jpg)<br/>
 [PRISM FAA702 Operations PG7](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_07.jpg)<br/>
-<br/>
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
+
 These are copies of National Security Agency (NSA) PowerPoint slides about its PRISM program, leaked by Edward Snowden. They come from two sources:
 
 1. The Washington Post [^11]
@@ -168,13 +153,13 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 [^13]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
 
 ---
-[Rage-quit: Coder unpublished 17 lines of JavaScript and "broke the Internet"](https://github.com/DoctorKisow/Document-Library/blob/6c642da01de86f10c149ad7d14e9c26c41921ba5/Document%20Library/Rage-quit%20Coder%20unpublished%2017%20lines%20of%20JavaScript%20and%20%E2%80%9Cbroke%20the%20Internet%E2%80%9D%20Ars%20Technica.pdf)
-<br/>
+### Rage-Quit
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
-<br/>
+<br/><br/>
+[Rage-quit: Coder unpublished 17 lines of JavaScript and "broke the Internet"](https://github.com/DoctorKisow/Document-Library/blob/6c642da01de86f10c149ad7d14e9c26c41921ba5/Document%20Library/Rage-quit%20Coder%20unpublished%2017%20lines%20of%20JavaScript%20and%20%E2%80%9Cbroke%20the%20Internet%E2%80%9D%20Ars%20Technica.pdf)<br/>
+
 The article "Rage-quit coder unpublished 17 lines of JavaScript and broke the internet" by Ars Technica describes an incident involving a developer named Azer Koçulu, who removed his small but widely-used JavaScript package called "left-pad" from the npm (Node Package Manager) repository. This package, containing only 17 lines of code, was a dependency for many popular projects, including those managed by major companies.
 
 Koçulu's decision to unpublish his package stemmed from a dispute with npm over another package he had named "Kik", which conflicted with the name of a popular messaging app. npm sided with the app's developers, prompting Koçulu to remove all his packages in protest.
@@ -184,26 +169,29 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 [^14]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 
 ---
-[The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)
-<br/>
+### Difference Between Red, Blue, and Purple Teams, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
-<br/>The article "The Difference Between Red, Blue, and Purple Teams" by Daniel Miessler explains the roles of these teams in cybersecurity.
+<br/><br/>
+[The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
+
+The article "The Difference Between Red, Blue, and Purple Teams" by Daniel Miessler explains the roles of these teams in cybersecurity.
 
 * Red Teams simulate real-world attackers to identify vulnerabilities.
 * Blue Teams focus on defending against these attacks and enhancing security measures.
 * Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
 
 The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
+
 [^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
 
 ---
-[Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
-<br/>
+### Stuxnet Articles
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-<br/>
+<br/><br/>
+[Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)<br/>
+
 Stuxnet Articles contains a comprehensive collection of articles focused on Stuxnet, the infamous computer worm that targeted Iran's nuclear facilities. These articles are carefully curated from peer-reviewed academic sources and reputable journalistic publications. The selection ensures a balanced and credible exploration of Stuxnet, providing insights from both scholarly research and investigative journalism.
 <br/><br/>
 The peer-reviewed sources offer rigorous analyses and technical details about Stuxnet's design, deployment, and impact on cybersecurity. These articles delve into the sophisticated nature of the worm, its mechanisms of propagation, and the unprecedented ways it exploited vulnerabilities in industrial control systems. Additionally, they examine the broader implications of Stuxnet for cybersecurity, international relations, and the future of cyber warfare.
@@ -213,57 +201,72 @@ On the other hand, the journalistic articles provide a narrative-driven perspect
 By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.
 
 ---
-[Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](https://github.com/DoctorKisow/Document-Library/blob/04a3a321a3ee7fccd6ccebbb68a8bc661fd6bdd9/Document%20Library/Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)
-<br/>
+### Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/>
+<br/><br/>
+[Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](https://github.com/DoctorKisow/Document-Library/blob/04a3a321a3ee7fccd6ccebbb68a8bc661fd6bdd9/Document%20Library/Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)<br/>
 
 Threat Intelligence Platforms (TIP) are emerging technology supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
 
 [^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
-[The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
-[The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)
-<br/>
+### The Investigation Into Russian Interference In The 2016 Presidential Election
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-<br/>
+<br/><br/>
+[The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
+[The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)<br/>
+
 This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
 
 [^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
 [^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
 ---
-[There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/There%E2%80%99s%20No%20Silver%20Bullet%20for%20Cybersecurity.pdf)
-<br/>
+### There’s No Silver Bullet for Cybersecurity
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
+<br/><br/>
+[There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/There%E2%80%99s%20No%20Silver%20Bullet%20for%20Cybersecurity.pdf)<br/>
+
 The Harvard Business Review article "There's No Silver Bullet for Cybersecurity" emphasizes that no single solution can fully address cybersecurity challenges. As advancements in AI, the metaverse, and quantum computing continue, cybersecurity issues will grow in complexity. The article argues that both governments and businesses must collaborate and adopt multifaceted strategies to enhance security. It highlights the importance of continuous innovation, robust policies, and a proactive approach to managing cybersecurity risks [^19].
 
 [^19]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
 
 ---
-[Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Think%20Like%20a%20Hacker.pdf)
-<br/>
+### Think Like a Hacker
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
+<br/><br/>
+[Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Think%20Like%20a%20Hacker.pdf)<br/>
+
 Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^20].
 
 [^20]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 
 ---
-[Where to Focus Your Company’s Limited Cybersecurity Budget.](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Where%20to%20Focus%20Your%20Company%E2%80%99s%20Limited%20Cybersecurity%20Budget.pdf)
-<br/>
+### U.S. programmer outsources own job to China, surfs cat videos
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+[U.S. programmer outsources own job to China, surfs cat videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
+
+In 2013, a story emerged about a U.S. software developer who outsourced his own job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
+
+[^21]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
+
+---
+### Where to Focus Your Company’s Limited Cybersecurity Budget
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/>
-Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^21].
+<br/><br/>
+[Where to Focus Your Company’s Limited Cybersecurity Budget](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Where%20to%20Focus%20Your%20Company%E2%80%99s%20Limited%20Cybersecurity%20Budget.pdf)<br/>
 
-[^21]: Isles, A. (2023, May 23). Where to Focus Your Company’s limited cybersecurity budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
+Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^22].
+
+[^22]: Isles, A. (2023, May 23). Where to Focus Your Company’s limited cybersecurity budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
