@@ -109,15 +109,17 @@ Occasionally, I receive briefings from the Pennsylvania Department of Homeland S
 ### Indicators of Compromise
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-:link: [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
-:link: [What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
-:link: [IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)<br/>
+🔗  [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
+🔗  [What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
+🔗 [IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)<br/>
+📄 [Using Indicators of Compromise (IoC) for Incident Response](https://github.com/DoctorKisow/Document-Library/blob/744d9fde0c31f68e818814060d3e0ea3f47686fb/Document%20Library/CISA%20IoC.pdf)
 
-Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^7],[^8],[^9].
+Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^7],[^8],[^9],[^23].
 
 [^7]: CrowdStrike. (2023, August 11). What are Indicators of Compromise? IOC Explained - CrowdStrike. crowdstrike.com. https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/
 [^8]: What are Indicators of Compromise (IoCs)? - An Easy Guide. (2024, April 4). SentinelOne. https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
 [^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
+[^23]: Incident Response Training | CISA. (2024, April 2). Cybersecurity and Infrastructure Security Agency CISA. https://www.cisa.gov/resources-tools/programs/Incident-Response-Training
 
 ---
 ### Investigation Into Russian Interference In The 2016 Presidential Election, The
