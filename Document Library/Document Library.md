@@ -7,7 +7,7 @@
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/7baa282f56faa1373255858afa1d3ed1e4ee508c/Documents/StopRansomware%20Guide%20508c.pdf)<br/>
+:page_facing_up: [#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/7baa282f56faa1373255858afa1d3ed1e4ee508c/Documents/StopRansomware%20Guide%20508c.pdf)<br/>
 
 The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been declassified (**TLP: CLEAR**) and is permitted to be shared publicly [^1].
 
@@ -19,8 +19,8 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has published a comp
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[Android Fragmentation - Excel](https://github.com/DoctorKisow/Document-Library/blob/26f5690424b91e36d92be3536f549c9afa99c5d3/Documents/Android%20Fragmentation.xlsx)<br/>
-[Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/7023dd58c98eb66e5e66593981284464286751a8/Documents/Android%20Fragmentation.pdf)<br/>
+:page_facing_up: [Android Fragmentation - Excel](https://github.com/DoctorKisow/Document-Library/blob/26f5690424b91e36d92be3536f549c9afa99c5d3/Documents/Android%20Fragmentation.xlsx)<br/>
+:page_facing_up: [Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/7023dd58c98eb66e5e66593981284464286751a8/Documents/Android%20Fragmentation.pdf)<br/>
 
 Android fragmentation refers to the phenomenon within the Android ecosystem where the platform's user base is spread across numerous device manufacturers, models, versions, and customized software implementations. This results in a diverse array of hardware capabilities, software versions, and user experiences across Android devices. Fragmentation can present challenges for developers aiming to create apps that perform consistently across the Android ecosystem, as they must contend with varying screen sizes, resolutions, hardware specifications, and software versions. Additionally, device manufacturers and carriers often introduce their customizations and modifications to the Android operating system, further exacerbating fragmentation by creating inconsistencies in user interfaces and feature sets. Addressing fragmentation requires careful consideration of compatibility, testing, and optimization strategies to ensure a seamless user experience across the diverse range of Android devices [^2],[^3].
 
@@ -28,7 +28,7 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
-### Cybersecurity Frameworks
+### :file_folder: Cybersecurity Frameworks
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -48,8 +48,8 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-[Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)<br/>
-[Cyber Kill Chain - SANS](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
+:link: [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)<br/>
+:link: [Cyber Kill Chain - SANS](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
 <br/>
 
 A cybersecurity kill chain is a framework used to understand the stages of a cyberattack, from initial reconnaissance to the final goal of the attacker. Developed by Lockheed Martin, the Cyber Kill Chain® outlines seven steps: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C<sup>2</sup>), and Actions on Objectives. These steps help organizations identify and counteract threats at each phase of an attack. The model is designed to enhance an organization's defense mechanisms by providing a structured approach to analyze and mitigate cyber threats. The SANS Institute's analysis compares the Cyber Kill Chain with the MITRE ATT&CK framework, emphasizing that while both models aim to improve cybersecurity, the Cyber Kill Chain focuses on the linear progression of an attack, making it a valuable tool for understanding and disrupting the adversarial process.[^4], [^5].
@@ -58,7 +58,7 @@ A cybersecurity kill chain is a framework used to understand the stages of a cyb
 [^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
 
 ---
-### Cybersecurity Regulation
+### :file_folder: Cybersecurity Regulation
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -76,12 +76,30 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 * Virginia Consumer Data Protection Act
 
 ---
+### Difference Between Red, Blue, and Purple Teams, The
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
+
+The article "The Difference Between Red, Blue, and Purple Teams" by Daniel Miessler explains the roles of these teams in cybersecurity.
+
+* Red Teams simulate real-world attackers to identify vulnerabilities.
+* Blue Teams focus on defending against these attacks and enhancing security measures.
+* Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
+
+The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
+
+[^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
+
+---
 ### Guide to DDoS Attacks
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[Guide to DDoS Attacks](https://github.com/DoctorKisow/Document-Library/blob/aa82812459cd0fd9c9452d8587a26d9afb87f95d/Documents/Guide-to-DDoS-Attacks-November-2017.pdf)<br/>
+:page_facing_up: [Guide to DDoS Attacks](https://github.com/DoctorKisow/Document-Library/blob/aa82812459cd0fd9c9452d8587a26d9afb87f95d/Documents/Guide-to-DDoS-Attacks-November-2017.pdf)<br/>
 
 Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (**TLP: WHITE**) and is permitted to be shared publicly [^6].
 
@@ -91,9 +109,9 @@ Occasionally, I receive briefings from the Pennsylvania Department of Homeland S
 ### Indicators of Compromise
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-[IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
-[What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
-[IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)<br/>
+:link: [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
+:link: [What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
+:link: [IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)<br/>
 
 Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^7],[^8],[^9].
 
@@ -102,33 +120,45 @@ Indicators of Compromise (IOCs) are digital clues indicating potential security 
 [^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
 
 ---
-### The Mirai Confessions
+### Investigation Into Russian Interference In The 2016 Presidential Election, The
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+<br/><br/>
+:page_facing_up: [The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
+:page_facing_up: [The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)<br/>
+
+This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
+
+[^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
+[^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
+
+---
+### Mirai Confessions, The
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)<br/>
+:page_facing_up: [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)<br/>
 
 The article "The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story" details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^10].
 
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
-### NSA PRISM PowerPoint Slides
+### :file_folder: NSA PRISM PowerPoint Slides
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[PRISM Case Notations](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Case%20Notations.jpg)<br/>
-[PRISM Collection Dataflow](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Dataflow.jpg)<br/>
-[PRISM Collection Details](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Details.jpg)<br/>
-[PRISM Dates Began](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Dates%20Began.jpg)<br/>
-[PRISM Introduction](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Introduction.jpg)<br/>
-[PRISM Overview](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Overview.jpg)<br/>
-[PRISM Tasking Process](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tasking%20Process.jpg)<br/>
-[PRISM Tips](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tips.jpg)<br/>
-[PRISM FAA702 Operations](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/Prism-faa702Operations-washingtonpost.jpg)<br/>
-[PRISM FAA702 Operations PG4](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_04.jpg)<br/>
-[PRISM FAA702 Operations PG7](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_07.jpg)<br/>
+:page_facing_up: [PRISM Case Notations](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Case%20Notations.jpg)<br/>
+:page_facing_up: [PRISM Collection Dataflow](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Dataflow.jpg)<br/>
+:page_facing_up: [PRISM Collection Details](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Details.jpg)<br/>
+:page_facing_up: [PRISM Dates Began](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Dates%20Began.jpg)<br/>
+:page_facing_up: [PRISM Introduction](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Introduction.jpg)<br/>
+:page_facing_up: [PRISM Overview](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Overview.jpg)<br/>
+:page_facing_up: [PRISM Tasking Process](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tasking%20Process.jpg)<br/>
+:page_facing_up: [PRISM Tips](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tips.jpg)<br/>
+:page_facing_up: [PRISM FAA702 Operations](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/Prism-faa702Operations-washingtonpost.jpg)<br/>
+:page_facing_up: [PRISM FAA702 Operations PG4](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_04.jpg)<br/>
+:page_facing_up: [PRISM FAA702 Operations PG7](https://github.com/DoctorKisow/Document-Library/blob/7b05514162fdf3c27fe5ac2c542b192de7136bf2/Document%20Library/NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_07.jpg)<br/>
 
 These are copies of National Security Agency (NSA) PowerPoint slides about its PRISM program, leaked by Edward Snowden. They come from two sources:
 
@@ -158,7 +188,7 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[Rage-quit: Coder unpublished 17 lines of JavaScript and "broke the Internet"](https://github.com/DoctorKisow/Document-Library/blob/6c642da01de86f10c149ad7d14e9c26c41921ba5/Document%20Library/Rage-quit%20Coder%20unpublished%2017%20lines%20of%20JavaScript%20and%20%E2%80%9Cbroke%20the%20Internet%E2%80%9D%20Ars%20Technica.pdf)<br/>
+:page_facing_up: [Rage-quit: Coder unpublished 17 lines of JavaScript and "broke the Internet"](https://github.com/DoctorKisow/Document-Library/blob/6c642da01de86f10c149ad7d14e9c26c41921ba5/Document%20Library/Rage-quit%20Coder%20unpublished%2017%20lines%20of%20JavaScript%20and%20%E2%80%9Cbroke%20the%20Internet%E2%80%9D%20Ars%20Technica.pdf)<br/>
 
 The article "Rage-quit coder unpublished 17 lines of JavaScript and broke the internet" by Ars Technica describes an incident involving a developer named Azer Koçulu, who removed his small but widely-used JavaScript package called "left-pad" from the npm (Node Package Manager) repository. This package, containing only 17 lines of code, was a dependency for many popular projects, including those managed by major companies.
 
@@ -169,25 +199,18 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 [^14]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 
 ---
-### Difference Between Red, Blue, and Purple Teams, The
+### Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
+:page_facing_up: [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](https://github.com/DoctorKisow/Document-Library/blob/04a3a321a3ee7fccd6ccebbb68a8bc661fd6bdd9/Document%20Library/Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)<br/>
 
-The article "The Difference Between Red, Blue, and Purple Teams" by Daniel Miessler explains the roles of these teams in cybersecurity.
+Threat Intelligence Platforms (TIPs) are emerging technology-supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
 
-* Red Teams simulate real-world attackers to identify vulnerabilities.
-* Blue Teams focus on defending against these attacks and enhancing security measures.
-* Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
-
-The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
-
-[^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
+[^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
-### Stuxnet Articles
+### :file_folder: Stuxnet Articles
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 [Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)<br/>
@@ -201,35 +224,12 @@ On the other hand, the journalistic articles provide a narrative-driven perspect
 By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.
 
 ---
-### Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-[Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](https://github.com/DoctorKisow/Document-Library/blob/04a3a321a3ee7fccd6ccebbb68a8bc661fd6bdd9/Document%20Library/Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)<br/>
-
-Threat Intelligence Platforms (TIP) are emerging technology supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
-
-[^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
-
----
-### The Investigation Into Russian Interference In The 2016 Presidential Election
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-<br/><br/>
-[The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
-[The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)<br/>
-
-This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
-
-[^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
-[^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
-
----
 ### There’s No Silver Bullet for Cybersecurity
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/There%E2%80%99s%20No%20Silver%20Bullet%20for%20Cybersecurity.pdf)<br/>
+:page_facing_up: [There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/There%E2%80%99s%20No%20Silver%20Bullet%20for%20Cybersecurity.pdf)<br/>
 
 The Harvard Business Review article "There's No Silver Bullet for Cybersecurity" emphasizes that no single solution can fully address cybersecurity challenges. As advancements in AI, the metaverse, and quantum computing continue, cybersecurity issues will grow in complexity. The article argues that both governments and businesses must collaborate and adopt multifaceted strategies to enhance security. It highlights the importance of continuous innovation, robust policies, and a proactive approach to managing cybersecurity risks [^19].
 
@@ -240,7 +240,7 @@ The Harvard Business Review article "There's No Silver Bullet for Cybersecurity"
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Think%20Like%20a%20Hacker.pdf)<br/>
+:page_facing_up: [Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Think%20Like%20a%20Hacker.pdf)<br/>
 
 Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^20].
 
@@ -251,7 +251,7 @@ Cyber-lawyer Scott Shapiro believes there is more to beating hackers than gettin
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-[U.S. programmer outsources own job to China, surfs cat videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
+:link: [U.S. programmer outsources own job to China, surfs cat videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
 
 In 2013, a story emerged about a U.S. software developer who outsourced his own job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
 
@@ -262,7 +262,7 @@ In 2013, a story emerged about a U.S. software developer who outsourced his own 
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[Where to Focus Your Company’s Limited Cybersecurity Budget](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Where%20to%20Focus%20Your%20Company%E2%80%99s%20Limited%20Cybersecurity%20Budget.pdf)<br/>
+:page_facing_up: [Where to Focus Your Company’s Limited Cybersecurity Budget](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/Where%20to%20Focus%20Your%20Company%E2%80%99s%20Limited%20Cybersecurity%20Budget.pdf)<br/>
 
 Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^22].
 
