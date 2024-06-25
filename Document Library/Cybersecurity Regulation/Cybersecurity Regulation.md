@@ -58,16 +58,18 @@ The complete suite of HIPAA Administrative Simplification Regulations can be fou
 [^3]: Rights, O. F. C. (2022, October 20). Combined Regulation text of all rules. HHS.gov. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/index.html
 
 ---
-### NYDFS Cybersecurity Regulation, Ammendment 2 (2023)
+### NYDFS Cybersecurity Regulation, Amendment 2 (2023)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
 :page_facing_up: [NYDFS Cybersecurity Regulation](https://github.com/DoctorKisow/Document-Library/blob/a2ec8337fcb1c82c3a9733498601cd37e1fc9454/Document%20Library/Cybersecurity%20Regulation/NYCRR%20500%20Ammendment%202%20(2023).pdf)<br/>
+📄 [Amended Cybersecurity Regulation Second Amendment 23 NYCRR Part 500](https://github.com/DoctorKisow/Document-Library/blob/e23e23704d6f1ebfde6d9970a53cea311f8b87dd/Document%20Library/Cybersecurity%20Regulation/Amended%20Cybersecurity%20Regulation%20Second%20Amendment%2023%20NYCRR%20Part%20500.pdf)<br/>
 
-The amended New York State Department of Financial Services (NYDFS) Cybersecurity Regulation, effective November 1, 2023, revises 23 NYCRR Part 500 to enhance cybersecurity requirements for entities in the financial services sector. These amendments aim to address the evolving cyber threat landscape by incorporating industry best practices and expanding the scope of covered entities. The regulation mandates comprehensive cybersecurity programs tailored to an entity's risk profile, emphasizing governance, risk assessment, and incident response. It introduces phased compliance deadlines, requiring entities to implement measures such as multi-factor authentication, encryption, and regular cybersecurity training. Additionally, the regulation outlines new requirements for reporting cybersecurity incidents and extortion payments, promoting greater accountability and resilience in protecting sensitive information [^4].
+The amended New York State Department of Financial Services (NYDFS) Cybersecurity Regulation, effective November 1, 2023, revises 23 NYCRR Part 500 to enhance cybersecurity requirements for entities in the financial services sector. These amendments aim to address the evolving cyber threat landscape by incorporating industry best practices and expanding the scope of covered entities. The regulation mandates comprehensive cybersecurity programs tailored to an entity's risk profile, emphasizing governance, risk assessment, and incident response. It introduces phased compliance deadlines, requiring entities to implement measures such as multi-factor authentication, encryption, and regular cybersecurity training. Additionally, the regulation outlines new requirements for reporting cybersecurity incidents and extortion payments, promoting greater accountability and resilience in protecting sensitive information [^4],[^24].
 
 [^4]: Amended Cybersecurity Regulation 2(23) Part 500. (2023, November 1). New York Department of Financial Services. Retrieved April 21, 2024, from https://www.dfs.ny.gov/system/files/documents/2023/11/cyber_public_training_deck_20231108.pdf
+[^24]: Cybersecurity Resource Center. (n.d.). Department of Financial Services. https://www.dfs.ny.gov/industry_guidance/cybersecurity
 
 ---
 ### PCI DSS v4
