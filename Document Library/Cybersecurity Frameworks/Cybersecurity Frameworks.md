@@ -37,7 +37,7 @@ The NIST Cybersecurity Framework Resources Folder serves as a comprehensive repo
 Within this meticulously curated folder, individuals and organizations can access a wealth of materials designed to enhance their understanding and implementation of the NIST Cybersecurity Framework. The contents are organized systematically to cater to the diverse needs of cybersecurity professionals, policymakers, educators, and researchers alike.
 
 ---
-### The Open Source Security Testing Methodology Manual (OSTMM) v3
+### Open Source Security Testing Methodology Manual (OSTMM) v3, The 
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 :page_facing_up: [OSTMM v3](https://github.com/DoctorKisow/Document-Library/blob/62fa10fada85bc8097912964a3fa0856c8eacf43/Document%20Library/Cybersecurity%20Frameworks/OSSTMM.3.pdf)<br/>
