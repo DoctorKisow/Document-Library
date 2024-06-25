@@ -28,7 +28,7 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
-### Cybersecurity Frameworks
+### :file_folder: Cybersecurity Frameworks
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -58,7 +58,7 @@ A cybersecurity kill chain is a framework used to understand the stages of a cyb
 [^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
 
 ---
-### Cybersecurity Regulation
+### :file_folder: Cybersecurity Regulation
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -74,6 +74,24 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 * NYDFS Cybersecurity Regulation
 * PCI DSS v4
 * Virginia Consumer Data Protection Act
+
+---
+### Difference Between Red, Blue, and Purple Teams, The
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+[The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
+
+The article "The Difference Between Red, Blue, and Purple Teams" by Daniel Miessler explains the roles of these teams in cybersecurity.
+
+* Red Teams simulate real-world attackers to identify vulnerabilities.
+* Blue Teams focus on defending against these attacks and enhancing security measures.
+* Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
+
+The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
+
+[^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
 
 ---
 ### Guide to DDoS Attacks
@@ -102,7 +120,19 @@ Indicators of Compromise (IOCs) are digital clues indicating potential security 
 [^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
 
 ---
-### The Mirai Confessions
+### Investigation Into Russian Interference In The 2016 Presidential Election, The
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+<br/><br/>
+[The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
+[The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)<br/>
+
+This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
+
+[^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
+[^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
+
+---
+### Mirai Confessions, The
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
@@ -113,7 +143,7 @@ The article "The Mirai Confessions: Three Young Hackers Who Built a Web-Killing 
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
-### NSA PRISM PowerPoint Slides
+### :file_folder: NSA PRISM PowerPoint Slides
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -169,25 +199,18 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 [^14]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 
 ---
-### Difference Between Red, Blue, and Purple Teams, The
+### Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
+[Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](https://github.com/DoctorKisow/Document-Library/blob/04a3a321a3ee7fccd6ccebbb68a8bc661fd6bdd9/Document%20Library/Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)<br/>
 
-The article "The Difference Between Red, Blue, and Purple Teams" by Daniel Miessler explains the roles of these teams in cybersecurity.
+Threat Intelligence Platforms (TIPs) are emerging technology-supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
 
-* Red Teams simulate real-world attackers to identify vulnerabilities.
-* Blue Teams focus on defending against these attacks and enhancing security measures.
-* Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
-
-The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
-
-[^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
+[^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
-### Stuxnet Articles
+### :file_folder: Stuxnet Articles
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 [Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)<br/>
@@ -199,29 +222,6 @@ The peer-reviewed sources offer rigorous analyses and technical details about St
 On the other hand, the journalistic articles provide a narrative-driven perspective, highlighting the human, political, and historical contexts surrounding the Stuxnet attack. These articles often feature interviews with key figures involved in the incident, detailed timelines of events, and the geopolitical ramifications of the attack. They provide an accessible yet thorough understanding of how Stuxnet came to be, its operational specifics, and its fallout on global cybersecurity policies.
 <br/><br/>
 By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.
-
----
-### Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-[Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](https://github.com/DoctorKisow/Document-Library/blob/04a3a321a3ee7fccd6ccebbb68a8bc661fd6bdd9/Document%20Library/Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)<br/>
-
-Threat Intelligence Platforms (TIP) are emerging technology supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
-
-[^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
-
----
-### The Investigation Into Russian Interference In The 2016 Presidential Election
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-<br/><br/>
-[The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
-[The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](https://github.com/DoctorKisow/Document-Library/blob/9258b4d8e2dd807512e498391ae994c7e9b5ad52/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)<br/>
-
-This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
-
-[^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
-[^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
 ---
 ### There’s No Silver Bullet for Cybersecurity
