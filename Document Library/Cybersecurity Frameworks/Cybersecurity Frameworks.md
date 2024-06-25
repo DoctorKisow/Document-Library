@@ -5,7 +5,7 @@
 ### Empire
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-[Empire](https://github.com/EmpireProject/Empire)<br/>
+:link: [Empire](https://github.com/EmpireProject/Empire)<br/>
 
 Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent. It is the merge of the previous PowerShell Empire and Python EmPyre projects. The framework offers cryptologically-secure communications and a flexible architecture. On the PowerShell side, Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework. PowerShell Empire premiered at [BSidesLV](https://www.youtube.com/watch?v=Pq9t59w0mUI) in 2015 and Python EmPyre premiered at HackMiami in 2016 [^1].
 
@@ -17,7 +17,7 @@ Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windo
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[MITRE ATT&CK](https://attack.mitre.org/)<br/>
+:link: [MITRE ATT&CK](https://attack.mitre.org/)<br/>
 
 MITRE ATT&CK® is a globally accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and the cybersecurity product and service community.
 <br/><br/>
@@ -25,7 +25,7 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 <br/>
 
 ---
-### NIST Cybersecurity Framework
+### :file_folder: NIST Cybersecurity Framework
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -40,7 +40,7 @@ Within this meticulously curated folder, individuals and organizations can acces
 ### The Open Source Security Testing Methodology Manual (OSTMM) v3
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-[OSTMM v3](https://github.com/DoctorKisow/Document-Library/blob/62fa10fada85bc8097912964a3fa0856c8eacf43/Document%20Library/Cybersecurity%20Frameworks/OSSTMM.3.pdf)<br/>
+:page_facing_up: [OSTMM v3](https://github.com/DoctorKisow/Document-Library/blob/62fa10fada85bc8097912964a3fa0856c8eacf43/Document%20Library/Cybersecurity%20Frameworks/OSSTMM.3.pdf)<br/>
 
 The Open Source Security Testing Methodology Manual is a complete methodology for penetration and security testing, security analysis and the measurement of operational security towards building the best possible security defenses for your organization [^2].
 
@@ -52,6 +52,6 @@ The Open Source Security Testing Methodology Manual is a complete methodology fo
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-[OWASP WSTG Testing Framework](https://owasp.org/www-project-owtf/)<br/>
+:link: [OWASP WSTG Testing Framework](https://owasp.org/www-project-owtf/)<br/>
 
 The OWASP WSTG (Web Security Testing Guide) framework is a comprehensive resource developed by the Open Web Application Security Project (OWASP) that provides practical guidance and methodologies for testing the security of web applications. Designed to assist security professionals, developers, and organizations in identifying and mitigating common security vulnerabilities within web applications, the WSTG offers a structured approach to conducting security assessments, penetration testing, and vulnerability analysis. The framework covers a wide range of topics, including authentication, authorization, input validation, session management, and security configuration, and provides detailed testing techniques and best practices for each area. By following the guidelines outlined in the OWASP WSTG, practitioners can effectively assess the security posture of web applications and implement appropriate countermeasures to protect against potential threats and attacks.
