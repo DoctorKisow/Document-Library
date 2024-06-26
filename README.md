@@ -24,7 +24,7 @@ The following icons are used throughout the repository:<br/>
 :link: This icon indicates that the article is directly linked to the article on the Internet.<br/>
 
 ---
-### 📁 [Document Library](Document%20Library/Document%20Library.md)
+### 📁 [Cybersecurity Document Library](Document%20Library/Document%20Library.md#document-library)
 Use this link to continue to the document library.
 
 <!-- Resources -->
