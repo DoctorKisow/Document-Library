@@ -24,10 +24,8 @@ The following icons are used throughout the repository:<br/>
 :link: This icon indicates that the article is directly linked to the article on the Internet.<br/>
 
 ---
-# Document Library
-Use the following link to continue to the document library:
-<br/><br/>
-[Document Library](Document%20Library/Document%20Library.md)
+### 📁 [Document Library](Document%20Library/Document%20Library.md)
+Use this link to continue to the document library.
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
