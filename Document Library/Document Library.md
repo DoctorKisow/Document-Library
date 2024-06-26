@@ -140,7 +140,7 @@ This report outlines the investigation into state-sponsored interference in the 
 <br/><br/>
 :page_facing_up: [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)<br/>
 
-The article "The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story" details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^10].
+This article details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^10].
 
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
@@ -192,7 +192,7 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 <br/><br/>
 :page_facing_up: [Rage-quit: Coder unpublished 17 lines of JavaScript and "broke the Internet"](https://github.com/DoctorKisow/Document-Library/blob/6c642da01de86f10c149ad7d14e9c26c41921ba5/Document%20Library/Rage-quit%20Coder%20unpublished%2017%20lines%20of%20JavaScript%20and%20%E2%80%9Cbroke%20the%20Internet%E2%80%9D%20Ars%20Technica.pdf)<br/>
 
-The article "Rage-quit coder unpublished 17 lines of JavaScript and broke the internet" by Ars Technica describes an incident involving a developer named Azer Koçulu, who removed his small but widely-used JavaScript package called "left-pad" from the npm (Node Package Manager) repository. This package, containing only 17 lines of code, was a dependency for many popular projects, including those managed by major companies.
+This article describes an incident involving a developer named Azer Koçulu, who removed his small but widely-used JavaScript package called "left-pad" from the npm (Node Package Manager) repository. This package, containing only 17 lines of code, was a dependency for many popular projects, including those managed by major companies.
 
 Koçulu's decision to unpublish his package stemmed from a dispute with npm over another package he had named "Kik", which conflicted with the name of a popular messaging app. npm sided with the app's developers, prompting Koçulu to remove all his packages in protest.
 
@@ -233,7 +233,7 @@ By compiling articles from both peer-reviewed sources and esteemed journalistic 
 <br/><br/>
 :page_facing_up: [There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/8d33dbee54e193c9970dbd56956d9ddc4e36c962/Document%20Library/There%E2%80%99s%20No%20Silver%20Bullet%20for%20Cybersecurity.pdf)<br/>
 
-The Harvard Business Review article "There's No Silver Bullet for Cybersecurity" emphasizes that no single solution can fully address cybersecurity challenges. As advancements in AI, the metaverse, and quantum computing continue, cybersecurity issues will grow in complexity. The article argues that both governments and businesses must collaborate and adopt multifaceted strategies to enhance security. It highlights the importance of continuous innovation, robust policies, and a proactive approach to managing cybersecurity risks [^19].
+This article emphasizes that no single solution can fully address cybersecurity challenges. As advancements in AI, the metaverse, and quantum computing continue, cybersecurity issues will grow in complexity. The article argues that both governments and businesses must collaborate and adopt multifaceted strategies to enhance security. It highlights the importance of continuous innovation, robust policies, and a proactive approach to managing cybersecurity risks [^19].
 
 [^19]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
 
@@ -255,7 +255,7 @@ Cyber-lawyer Scott Shapiro believes there is more to beating hackers than gettin
 <br/><br/>
 :link: [U.S. programmer outsources own job to China, surfs cat videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
 
-In 2013, a story emerged about a U.S. software developer who outsourced his own job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
+In 2013, a story emerged about a U.S. software developer who outsourced his job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
 
 [^21]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
 
