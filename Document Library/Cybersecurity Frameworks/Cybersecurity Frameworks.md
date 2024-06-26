@@ -25,12 +25,11 @@ With the creation of ATT&CK, MITRE is fulfilling its mission to solve problems f
 <br/>
 
 ---
-### :file_folder: NIST Cybersecurity Framework
+### :file_folder: [NIST Cybersecurity Framework](./NIST%20Cybersecurity%20Framework%20Resources/NIST%20Cybersecurity%20Framework%20Resources.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-[NIST Cybersecurity Framework Resources](./NIST%20Cybersecurity%20Framework%20Resources/NIST%20Cybersecurity%20Framework%20Resources.md)<br/>
+<br/>
 
 The NIST Cybersecurity Framework Resources Folder serves as a comprehensive repository housing essential materials and resources pertinent to the National Institute of Standards and Technology (NIST) Cybersecurity Framework. Developed by NIST in response to Executive Order 13636, the framework provides organizations with a structured approach to managing and improving their cybersecurity posture, facilitating risk management and resilience across various sectors.
 <br/><br/>
