@@ -83,7 +83,7 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 <br/><br/>
 :link: [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
 
-The article "The Difference Between Red, Blue, and Purple Teams" by Daniel Miessler explains the roles of these teams in cybersecurity.
+This article explains the roles of these teams in cybersecurity:
 
 * Red Teams simulate real-world attackers to identify vulnerabilities.
 * Blue Teams focus on defending against these attacks and enhancing security measures.
