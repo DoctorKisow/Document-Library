@@ -196,6 +196,13 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 [^13]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
 
 ---
+### 📁 <a id="penetration-testing"></a> [Penetration Testing](./Penetration%20Testing/Penetration%20Testing.md)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/>
+
+Penetration testing and penetration testing tools are essential components in evaluating and enhancing an organization's cybersecurity defenses. This folder contains a wealth of information, including detailed methodologies, best practices, and standards for conducting effective penetration tests. It outlines systematic approaches for identifying vulnerabilities, exploiting weaknesses, and assessing the security posture of digital assets. Additionally, the folder includes comprehensive guides on various penetration testing tools, offering insights into their functionalities, configurations, and use cases. By leveraging these resources, cybersecurity professionals can strengthen their ability to identify and mitigate potential threats, ensuring robust protection of critical systems and data.
+
+---
 ### Rage-Quit
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
