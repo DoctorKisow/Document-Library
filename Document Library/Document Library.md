@@ -246,13 +246,13 @@ Cyber-lawyer Scott Shapiro believes there is more to beating hackers than gettin
 [^20]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 
 ---
-### U.S. programmer outsources own job to China, surfs cat videos
+### U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-:link: [U.S. programmer outsources own job to China, surfs cat videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
+:link: [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
 
-In 2013, a story emerged about a U.S. software developer who outsourced his job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
+In 2013, a story emerged about a U.S. software developer who outsourced his job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the Internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
 
 [^21]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
 
