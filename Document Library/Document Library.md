@@ -1,4 +1,4 @@
-# Document Library
+# <a id="document-library"></a>Document Library
 *This repository contains a comprehensive collection of essential resources carefully curated to enhance students' understanding and application of cybersecurity principles. Its digital confines lie meticulously crafted lecture slides, insightful academic papers, expert-authored articles, and real-world case studies illuminating the intricacies of securing digital systems. Additionally, the folder houses thought-provoking articles and documents, all aimed at fostering critical thinking and practical skills development. By delving into this treasure trove of knowledge, students can confidently navigate the ever-evolving landscape of cyber threats and emerge as astute guardians of digital security.*
 
 ---
@@ -28,7 +28,7 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
-### :file_folder: [Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
+### :file_folder: <a id="cybersecurity-frameworks"></a>[Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -210,7 +210,7 @@ Threat Intelligence Platforms (TIPs) are emerging technology-supporting organiza
 [^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
-### :file_folder: [Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
+### :file_folder: <a id="stuxnet-articles"></a>[Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/>
 
