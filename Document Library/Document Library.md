@@ -19,8 +19,8 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has published a comp
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-:page_facing_up: [Android Fragmentation - Excel](https://github.com/DoctorKisow/Document-Library/blob/26f5690424b91e36d92be3536f549c9afa99c5d3/Documents/Android%20Fragmentation.xlsx)<br/>
-:page_facing_up: [Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/7023dd58c98eb66e5e66593981284464286751a8/Documents/Android%20Fragmentation.pdf)<br/>
+💾 [Android Fragmentation - Excel](https://github.com/DoctorKisow/Document-Library/blob/26f5690424b91e36d92be3536f549c9afa99c5d3/Documents/Android%20Fragmentation.xlsx)<br/>
+📄 [Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/7023dd58c98eb66e5e66593981284464286751a8/Documents/Android%20Fragmentation.pdf)<br/>
 
 Android fragmentation refers to the phenomenon within the Android ecosystem where the platform's user base is spread across numerous device manufacturers, models, versions, and customized software implementations. This results in a diverse array of hardware capabilities, software versions, and user experiences across Android devices. Fragmentation can present challenges for developers aiming to create apps that perform consistently across the Android ecosystem, as they must contend with varying screen sizes, resolutions, hardware specifications, and software versions. Additionally, device manufacturers and carriers often introduce their customizations and modifications to the Android operating system, further exacerbating fragmentation by creating inconsistencies in user interfaces and feature sets. Addressing fragmentation requires careful consideration of compatibility, testing, and optimization strategies to ensure a seamless user experience across the diverse range of Android devices [^2],[^3].
 
