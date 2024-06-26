@@ -7,9 +7,9 @@
 ### PowerSploit
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-:link: [Empire](https://github.com/EmpireProject/Empire)<br/>
+:link: [PowerSploit]([https://github.com/EmpireProject/Empire](https://github.com/PowerShellMafia/PowerSploit)<br/>
 
-Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent. It is the merge of the previous PowerShell Empire and Python EmPyre projects. The framework offers cryptologically-secure communications and a flexible architecture. On the PowerShell side, Empire implements the ability to run PowerShell agents without needing powershell.exe, rapidly deployable post-exploitation modules ranging from key loggers to Mimikatz, and adaptable communications to evade network detection, all wrapped up in a usability-focused framework. PowerShell Empire premiered at [BSidesLV](https://www.youtube.com/watch?v=Pq9t59w0mUI) in 2015 and Python EmPyre premiered at HackMiami in 2016 [^1].
+PowerSploit is an archived PowerShell post-exploitation framework designed to assist penetration testers during various assessment phases. It includes modules for executing code, modifying scripts, adding persistence, bypassing antivirus, exfiltrating data, escalating privileges, and performing reconnaissance. Each module comprises multiple scripts that provide specific functionalities, such as DLL injection, token manipulation, keystroke logging, and port scanning. Although no longer actively supported, the repository remains a comprehensive resource for PowerShell-based post-exploitation techniques [^1].
 
-[^1]: EmpireProject. (n.d.). GitHub - EmpireProject/Empire: Empire is a PowerShell and Python post-exploitation agent. GitHub. https://github.com/EmpireProject/Empire
+[^1]: PowerShellMafia. (n.d.). GitHub - PowerShellMafia/PowerSploit: PowerSploit - a PowerShell Post-Exploitation framework. GitHub. https://github.com/PowerShellMafia/PowerSploit
 
