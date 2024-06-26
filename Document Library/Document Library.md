@@ -57,7 +57,7 @@ A cybersecurity kill chain is a framework used to understand the stages of a cyb
 [^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
 
 ---
-### :file_folder: [Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
+### :file_folder: <a id="cybersecurity-regulation"></a>[Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
