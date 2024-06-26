@@ -28,12 +28,11 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
-### :file_folder: Cybersecurity Frameworks
+### :file_folder: [Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-[Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)<br/>
+<br/>
 
 Cybersecurity frameworks are structured sets of guidelines, best practices, and standards designed to help organizations manage and improve their cybersecurity posture. These frameworks serve as comprehensive frameworks that outline systematic approaches to identify, assess, and mitigate cybersecurity risks, as well as establish effective cybersecurity programs. They typically include guidelines for defining cybersecurity policies, implementing security controls, managing incidents, and conducting risk assessments. Cybersecurity frameworks provide organizations with a structured and standardized approach to cybersecurity, helping them align with industry best practices, regulatory requirements, and emerging threats. By adopting and implementing cybersecurity frameworks, organizations can enhance their resilience to cyber threats, protect critical assets and data, and maintain the trust and confidence of their stakeholders.
 
@@ -58,12 +57,11 @@ A cybersecurity kill chain is a framework used to understand the stages of a cyb
 [^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
 
 ---
-### :file_folder: Cybersecurity Regulation
+### :file_folder: [Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-[Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)<br/>
+<br/>
 
 Cybersecurity regulation encompasses a set of rules, standards, and guidelines established by governments or industry bodies to protect digital systems, networks, and data from cyber threats. Its primary objective is to ensure the confidentiality, integrity, and availability of information and systems in the face of increasingly sophisticated cyber attacks. These regulations typically outline requirements for organizations to implement security controls, conduct risk assessments, and report breaches. By setting clear standards and enforcing compliance, cybersecurity regulation aims to mitigate risks, safeguard sensitive information, and enhance overall resilience against cyber threats in an interconnected world.
 
@@ -145,7 +143,7 @@ This article details how three teenage friends created Mirai, a potent malware t
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
-### :file_folder: NSA PRISM PowerPoint Slides
+### NSA PRISM PowerPoint Slides
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -212,10 +210,9 @@ Threat Intelligence Platforms (TIPs) are emerging technology-supporting organiza
 [^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
-### :file_folder: Stuxnet Articles
+### :file_folder: [Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-<br/><br/>
-[Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)<br/>
+<br/>
 
 Stuxnet Articles contains a comprehensive collection of articles focused on Stuxnet, the infamous computer worm that targeted Iran's nuclear facilities. These articles are carefully curated from peer-reviewed academic sources and reputable journalistic publications. The selection ensures a balanced and credible exploration of Stuxnet, providing insights from both scholarly research and investigative journalism.
 <br/><br/>
