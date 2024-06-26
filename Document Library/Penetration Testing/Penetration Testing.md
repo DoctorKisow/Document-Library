@@ -4,7 +4,7 @@
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#penetration-testing)
 
 ---
-### Empire
+### PowerSploit
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 :link: [Empire](https://github.com/EmpireProject/Empire)<br/>
