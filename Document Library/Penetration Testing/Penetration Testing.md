@@ -7,7 +7,7 @@
 ### PowerSploit
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
-:link: [PowerSploit]([https://github.com/EmpireProject/Empire](https://github.com/PowerShellMafia/PowerSploit)<br/>
+:link: [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)<br/>
 
 PowerSploit is an archived PowerShell post-exploitation framework designed to assist penetration testers during various assessment phases. It includes modules for executing code, modifying scripts, adding persistence, bypassing antivirus, exfiltrating data, escalating privileges, and performing reconnaissance. Each module comprises multiple scripts that provide specific functionalities, such as DLL injection, token manipulation, keystroke logging, and port scanning. Although no longer actively supported, the repository remains a comprehensive resource for PowerShell-based post-exploitation techniques [^1].
 
