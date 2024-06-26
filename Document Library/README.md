@@ -6,6 +6,7 @@
     │   └── NIST Cybersecurity Framework Resources
     ├── Cybersecurity Regulation
     ├── NSA PRISM PowerPoint Slides
+    ├── Penetration Testing
     └── Stuxnet Articles
 ```
 
