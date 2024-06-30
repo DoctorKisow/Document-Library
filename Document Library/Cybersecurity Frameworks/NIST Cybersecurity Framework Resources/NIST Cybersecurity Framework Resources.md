@@ -5,7 +5,7 @@ Within this meticulously curated folder, individuals and organizations can acces
 
 ### 📁 [Back to Cybersecurity Frameworks](../../Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md#nist-cybersecurity-framework)
 ---
-### NIST 500-292
+### <a id="nist-500-292"></a>NIST 500-292
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -17,7 +17,7 @@ This special publication outlines the NIST Cloud Computing Reference Architectur
 [^1]: Liu, F., Tong, J., Mao, J., Bohn, R., Messina, J., & Leaf, D. (2011). NIST Cloud Computing Reference Architecture Recommendations of the National Institute of Standards and Technology Special Publication 500-292. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-292.pdf
 
 ---
-### NIST 800-50
+### <a id="nist-800-50"></a>NIST 800-50
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
@@ -28,7 +28,7 @@ NIST Special Publication 800-50, provides a framework for establishing and maint
 [^4]: Wilson, M., & Hash, J. (2003). Building an Information Technology Security Awareness and Training Program Technology Administration. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-50.pdf
 
 ---
-### NIST 800-53R5
+### <a id="nist-800-53r5"></a>NIST 800-53R5
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -40,7 +40,7 @@ This publication provides a catalog of security and privacy controls for informa
 [^5]: Force, J. T. (2020). Security and privacy controls for information systems and organizations. https://doi.org/10.6028/nist.sp.800-53r5
 
 ---
-### NIST 800-88R1
+### <a id="nist-800-88r1"></a>NIST 800-88R1
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -52,7 +52,7 @@ NIST Special Publication 800-88 Revision 1, titled "Guidelines for Media Sanitiz
 [^6]: Kissel, R., Regenscheid, A., Scholl, M., & Stine, K. (2014). Guidelines for Media Sanitization. Guidelines for Media Sanitization. https://doi.org/10.6028/nist.sp.800-88r1
 
 ---
-### NIST 800-115
+### <a id="nist-800-115"></a>NIST 800-115
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
@@ -63,7 +63,7 @@ The purpose of this document is to assist organizations in planning and conducti
 [^2]: Scarfone, K., Souppaya, M., Cody, A., & Orebaugh, A. (2008, September 30). Technical Guide to Information Security Testing and Assessment. Csrc.nist.gov. https://csrc.nist.gov/pubs/sp/800/115/final
 
 ---
-### NIST 800-145
+### <a id="nist-800-145"></a>NIST 800-145
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
@@ -74,7 +74,7 @@ NIST Special Publication 800-145, establishes a standardized definition and fram
 [^3]: Mell, P., & Grance, T. (2011). The NIST Definition of Cloud Computing Recommendations of the National Institute of Standards and Technology. https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf
 
 ---
-### NIST Cybersecurity Framework
+### <a id="nist-cybersecurity-framework"></a>NIST Cybersecurity Framework
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -84,7 +84,7 @@ NIST Special Publication 800-145, establishes a standardized definition and fram
 NIST Cybersecurity Framework is a set of guidelines for mitigating organizational cybersecurity risks, published by the US National Institute of Standards and Technology based on existing standards, guidelines, and practices. The framework "provides a high-level taxonomy of cybersecurity outcomes and a methodology to assess and manage those outcomes", in addition to guidance on the protection of privacy and civil liberties in a cybersecurity context. It has been translated into many languages and is used by several governments and a wide range of businesses and organizations. A 2016 study found that 70% of organizations surveyed see the NIST Cybersecurity Framework as a popular best practice for computer security, but many note that it requires significant investment.
 
 ---
-### NIST Informative References
+### <a id="nist-informative-references"></a>NIST Informative References
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -96,7 +96,7 @@ The NIST CSF 2.0 Informative References page provides a detailed set of guidelin
 [^7]: CSF 2.0 Informative References | NIST. (2024, February 27). NIST. https://www.nist.gov/informative-references
 
 ---
-### NIST National Vulnerability Database
+### <a id="nist-vulnerability-db"></a>NIST National Vulnerability Database
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
