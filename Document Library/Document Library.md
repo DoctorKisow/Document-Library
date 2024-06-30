@@ -2,7 +2,7 @@
 *This GitHub repository **Cybersecurity Document Library**, curated by Dr. Kisow, is an invaluable resource for students seeking to deepen their understanding and application of cybersecurity principles. Within this meticulously organized digital repository, users will find an array of essential materials, including expertly crafted lecture slides, insightful academic papers, and articles authored by leading experts in the field. The collection also features real-world case studies that shed light on the complexities of securing digital systems. Furthermore, the repository includes thought-provoking articles and documents designed to stimulate critical thinking and enhance practical skills. By exploring this extensive repository, students can effectively navigate the dynamic landscape of cyber threats and emerge as proficient defenders of digital security.*
 
 ---
-### #StopRansomeware Guide
+### <a id="doclib-stop-ransomware"></a>#StopRansomeware Guide
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -14,7 +14,7 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has published a comp
 [^1]: CISA (2023, May 23). *#StopRansomware Guide. Cybersecurity and Infrastructure Security Agency.* https://www.cisa.gov/resources-tools/resources/stopransomware-guide
 
 ---
-### Android Fragmentation
+### <a id="doclib-android-fragmentation"></a>Android Fragmentation
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -43,7 +43,7 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 * OWASP WSTG Testing Framework
 
 ---
-### C<sup>2</sup> Matrix
+### <a id="doclib-c2-matrix"></a>C<sup>2</sup> Matrix
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 🔗 [C<sup>2</sup> Matrix](https://www.thec2matrix.com)
@@ -56,7 +56,7 @@ A link to a Google spreadsheet containing a list of available command control se
 [^24]: The C2 Matrix | C2 Matrix. (n.d.). https://www.thec2matrix.com/
 
 ---
-### Cybersecurity Kill Chain
+### <a id="doclib-cybersecurity-kill-chain"></a>Cybersecurity Kill Chain
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
@@ -87,7 +87,7 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 * Virginia Consumer Data Protection Act
 
 ---
-### Difference Between Red, Blue, and Purple Teams, The
+### <a id="doclib-red-blue-purple"></a>Difference Between Red, Blue, and Purple Teams, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -105,7 +105,7 @@ The article emphasizes that effective security relies on the continuous interact
 [^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
 
 ---
-### Guide to DDoS Attacks
+### <a id="doclib-ddos-guide"></a>Guide to DDoS Attacks
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -117,7 +117,7 @@ Occasionally, I receive briefings from the Pennsylvania Department of Homeland S
 [^6]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
 
 ---
-### Indicators of Compromise
+### <a id="doclib-ioc"></a>Indicators of Compromise
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 🔗  [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
@@ -133,7 +133,7 @@ Indicators of Compromise (IOCs) are digital clues indicating potential security 
 [^23]: Incident Response Training | CISA. (2024, April 2). Cybersecurity and Infrastructure Security Agency CISA. https://www.cisa.gov/resources-tools/programs/Incident-Response-Training
 
 ---
-### Investigation Into Russian Interference In The 2016 Presidential Election, The
+### <a id="doclib-muller-report"></a>Investigation Into Russian Interference In The 2016 Presidential Election, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 :page_facing_up: [The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](https://github.com/DoctorKisow/Document-Library/blob/6c45e50bfe9ae7806b0cf87fc75001a54a003883/Documents/The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
@@ -145,7 +145,7 @@ This report outlines the investigation into state-sponsored interference in the 
 [^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
 ---
-### Mirai Confessions, The
+### <a id="doclib-mirai"></a>Mirai Confessions, The
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
@@ -156,7 +156,7 @@ This article details how three teenage friends created Mirai, a potent malware t
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
-### NSA PRISM PowerPoint Slides
+### <a id="doclib-nsa-prism"></a>NSA PRISM PowerPoint Slides
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -203,7 +203,7 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 Penetration testing and penetration testing tools are essential components in evaluating and enhancing an organization's cybersecurity defenses. This folder contains a wealth of information, including detailed methodologies, best practices, and standards for conducting effective penetration tests. It outlines systematic approaches for identifying vulnerabilities, exploiting weaknesses, and assessing the security posture of digital assets. Additionally, the folder includes comprehensive guides on various penetration testing tools, offering insights into their functionalities, configurations, and use cases. By leveraging these resources, cybersecurity professionals can strengthen their ability to identify and mitigate potential threats, ensuring robust protection of critical systems and data.
 
 ---
-### Rage-Quit
+### <a id="doclib-rage-quit"></a>Rage-Quit
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -219,7 +219,7 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 [^14]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 
 ---
-### Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
+### <a id="doclib-cybersecurity-kill-chain-tip"></a>Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
@@ -243,7 +243,7 @@ On the other hand, the journalistic articles provide a narrative-driven perspect
 By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.
 
 ---
-### There’s No Silver Bullet for Cybersecurity
+### <a id="doclib-silver-bullet"></a>There’s No Silver Bullet for Cybersecurity
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -255,7 +255,7 @@ This article emphasizes that no single solution can fully address cybersecurity 
 [^19]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
 
 ---
-### Think Like a Hacker
+### <a id="doclib-think-like-hacker"></a>Think Like a Hacker
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
@@ -266,7 +266,7 @@ Cyber-lawyer Scott Shapiro believes there is more to beating hackers than gettin
 [^20]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 
 ---
-### U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
+### <a id="doclib-programmer-outsources"></a>U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
@@ -277,7 +277,7 @@ In 2013, a story emerged about a U.S. software developer who outsourced his job 
 [^21]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
 
 ---
-### Where to Focus Your Company’s Limited Cybersecurity Budget
+### <a id="doclib-limited-cyber-budget"></a>Where to Focus Your Company’s Limited Cybersecurity Budget
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
