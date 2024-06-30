@@ -3,7 +3,7 @@
 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#cybersecurity-regulation)
 ---
-### California Consumer Privacy Act (CCPA)
+### <a id="cybersecurityreg-ccpa"></a>California Consumer Privacy Act (CCPA)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -15,7 +15,7 @@ The [California Consumer Privacy Act of 2018 (CCPA)](http://leginfo.legislature.
 [^1]: California Consumer Privacy Act (CCPA). (2024, March 13). State of California - Department of Justice - Office of the Attorney General. https://www.oag.ca.gov/privacy/ccpa
 
 ---
-### FedRAMP
+### <a id="cybersecurityreg-fedramp"></a>FedRAMP
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -27,7 +27,7 @@ The Federal Risk and Authorization Management Program (FedRAMP®) was establishe
 [^7]: Program Basics | FedRAMP.gov. (n.d.). https://www.fedramp.gov/program-basics/
 
 ---
-### General Data Protection Regulation (GDPR)
+### <a id="cybersecurityreg-gdpr"></a>General Data Protection Regulation (GDPR)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -39,7 +39,7 @@ The General Data Protection Regulation (GDPR) is a comprehensive data protection
 [^2]: General Data Protection Regulation (GDPR) – Official Legal text. (2022, September 27). General Data Protection Regulation (GDPR). https://gdpr-info.eu/
 
 ---
-### HIPAA Privacy Rule
+### <a id="cybersecurityreg-hipaa"></a>HIPAA Privacy Rule
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -59,7 +59,7 @@ The complete suite of HIPAA Administrative Simplification Regulations can be fou
 [^3]: Rights, O. F. C. (2022, October 20). Combined Regulation text of all rules. HHS.gov. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/index.html
 
 ---
-### NYDFS Cybersecurity Regulation, Amendment 2 (2023)
+### <a id="cybersecurityreg-nydfs"></a>NYDFS Cybersecurity Regulation, Amendment 2 (2023)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -73,7 +73,7 @@ The amended New York State Department of Financial Services (NYDFS) Cybersecurit
 [^24]: Cybersecurity Resource Center. (n.d.). Department of Financial Services. https://www.dfs.ny.gov/industry_guidance/cybersecurity
 
 ---
-### PCI DSS v4
+### <a id="cybersecurityreg-pcidss"></a>PCI DSS v4
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -85,7 +85,7 @@ The Payment Card Industry Data Security Standard (PCI DSS) was developed to enco
 [^5]: PCI Security Standards Council. (2022, March). Payment Card Industry Data Security Standard: Requirements and Testing Procedures. https://docs-prv.pcisecuritystandards.org/PCI%20DSS/Standard/PCI-DSS-v4_0.pdf
 
 ---
-### Virginia Consumer Data Protection Act, The
+### <a id="cybersecurityreg-vcdpa"></a>Virginia Consumer Data Protection Act, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
