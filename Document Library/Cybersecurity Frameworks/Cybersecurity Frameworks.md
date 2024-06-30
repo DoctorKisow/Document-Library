@@ -3,7 +3,7 @@
 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#cybersecurity-frameworks)
 ---
-### Empire
+### <a id="cyberframe-empire"></a>Empire
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 :link: [Empire](https://github.com/EmpireProject/Empire)<br/>
@@ -13,7 +13,7 @@ Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windo
 [^1]: EmpireProject. (n.d.). GitHub - EmpireProject/Empire: Empire is a PowerShell and Python post-exploitation agent. GitHub. https://github.com/EmpireProject/Empire
 
 ---
-### MITRE ATT&CK
+### <a id="cyberframe-mitre"></a>MITRE ATT&CK
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -37,7 +37,7 @@ The NIST Cybersecurity Framework Resources Folder serves as a comprehensive repo
 Within this meticulously curated folder, individuals and organizations can access a wealth of materials designed to enhance their understanding and implementation of the NIST Cybersecurity Framework. The contents are organized systematically to cater to the diverse needs of cybersecurity professionals, policymakers, educators, and researchers alike.
 
 ---
-### Open Source Security Testing Methodology Manual (OSTMM) v3, The 
+### <a id="cyberframe-ostmmv3"></a>Open Source Security Testing Methodology Manual (OSTMM) v3, The 
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 :page_facing_up: [OSTMM v3](https://github.com/DoctorKisow/Document-Library/blob/62fa10fada85bc8097912964a3fa0856c8eacf43/Document%20Library/Cybersecurity%20Frameworks/OSSTMM.3.pdf)<br/>
@@ -47,7 +47,7 @@ The Open Source Security Testing Methodology Manual is a complete methodology fo
 [^2]: Herzog, P. (2010). OSSTMM 3 – The Open Source Security Testing Methodology Manual. https://www.isecom.org/OSSTMM.3.pdf
 
 ---
-### OWASP WSTG Testing Framework
+### <a id="cyberframe-owasp"></a>OWASP WSTG Testing Framework
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
