@@ -29,6 +29,11 @@ The following icons are used throughout the repository:<br/>
 ### License
 This project is licensed under the MIT License.  Please see the [LICENSE.md](LICENSE.md) file for details.
 
+### Copyright Notice
+**Copyright Notice**
+
+This repository contains materials that may be subject to copyrights held by other individuals or organizations. Users are advised to respect all copyright laws and regulations when accessing, using, or distributing these materials. Any third-party content included in this repository is used for educational purposes only and is provided under the fair use doctrine. If you believe that any content in this repository violates your copyright, please contact us immediately so that we can address the issue. By using this repository, you agree to comply with all applicable copyright laws and to respect the intellectual property rights of others.
+
 ### Contact
 For any inquiries, feedback, or takedown requests please contact [Dr. Matthew Kisow](https://www.linkedin.com/in/doctorkisow/).
 
