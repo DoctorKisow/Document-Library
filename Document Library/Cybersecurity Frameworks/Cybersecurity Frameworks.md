@@ -47,6 +47,28 @@ The Open Source Security Testing Methodology Manual is a complete methodology fo
 [^2]: Herzog, P. (2010). OSSTMM 3 – The Open Source Security Testing Methodology Manual. https://www.isecom.org/OSSTMM.3.pdf
 
 ---
+### <a id="cyberframe-owasp-auth-cs"></a>OWASP Authentication Cheat Sheet
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:link: [OWASP Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)<br/>
+
+The OWASP Authentication Cheat Sheet provides a comprehensive guide to implementing secure authentication mechanisms in web applications. It emphasizes the importance of using multi-factor authentication (MFA), recommends avoiding deprecated authentication methods such as password-based logins, and stresses the necessity of secure storage for credentials. The cheat sheet advises on best practices for password policies, session management, and handling authentication errors securely. It also includes recommendations for implementing account recovery processes and integrating third-party authentication services like OAuth and OpenID Connect. Overall, it serves as a crucial resource for developers to ensure robust authentication and protect against common security threats​ [^3].
+
+[^3]: Authentication - OWASP Cheat Sheet Series. (n.d.). https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html
+
+---
+### <a id="cyberframe-owasp-sqlinject-cs"></a>OWASP SQL Injection Prevention
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:link: [OWASP SQL Injection Prevention](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)<br/>
+
+The OWASP SQL Injection Prevention Cheat Sheet provides comprehensive guidelines to defend against SQL injection attacks, a prevalent and dangerous security vulnerability. It emphasizes the use of parameterized queries and prepared statements to safely execute SQL commands. Developers are advised to avoid dynamic SQL generation and instead use Object-Relational Mapping (ORM) frameworks, stored procedures, or safer alternatives like the Hibernate Query Language (HQL). Proper input validation and sanitization are critical, particularly when dealing with user inputs. The cheat sheet also suggests the implementation of a least privilege principle, ensuring that the database user has the minimum necessary permissions. Additionally, regular security testing and code reviews are recommended to identify and rectify potential vulnerabilities early in the development process​​ [^4].
+
+[^4]: SQL Injection Prevention - OWASP Cheat Sheet Series. (n.d.). https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
+
+---
 ### <a id="cyberframe-owasp"></a>OWASP WSTG Testing Framework
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
