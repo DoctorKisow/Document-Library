@@ -10,7 +10,7 @@ By compiling articles from both peer-reviewed sources and esteemed journalistic 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#stuxnet-articles)
 
 ---
-### Control Network Security Lessons from Stuxnet
+### <a id="stuxnet-control-lessons"></a>Control Network Security Lessons from Stuxnet
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 :page_facing_up: [Control Network Security Lessons from Stuxnet](https://github.com/DoctorKisow/Document-Library/blob/c6fa29a394166f1a3286787223018eb7a1af0836/Document%20Library/Stuxnet%20Articles/Control%20Network%20Security%20Lessons%20from%20Stuxnet.PDF)<br/>
@@ -20,7 +20,7 @@ Industrial protocols, like Modbus, have been targeted by threats such as the Stu
 [^3]: Piggin, R. (2011). Control network security lessons from Stuxnet: a UK expert describes how Stuxnet and other threats to industrial infrastructure cyber security are prompting national and international action. Knowledge is power. Control Engineering, 53+. https://link-gale-com.ezproxy.ccac.edu/apps/doc/A260943634/GBIB?u=pitt92539&sid=ebsco&xid=6d94f1f0
 
 ---
-### Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility
+### <a id="stuxnet-dutch-engineer"></a>Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 :page_facing_up: [Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility](https://github.com/DoctorKisow/Document-Library/blob/bc2b7ed2ba142ace0f3c9f9871725955b4eb715c/Document%20Library/Stuxnet%20Articles/Dutch%20Engineer%20Used%20Water%20Pump%20to%20Get%20Stuxnet%20Malware%20Into%20Iranian%20Nuclear%20Facility%20-%20SystemTek%20-%20Technology%20news%20and%20information.pdf)<br/>
@@ -30,7 +30,7 @@ A Dutch engineer, Erik van Sabben, reportedly used a water pump to deploy the St
 [^1]: ‌Dean, K. (2024, January 12). Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility. SystemTek - Technology News and Information. https://www.systemtek.co.uk/2024/01/dutch-engineer-used-water-pump-to-get-stuxnet-malware-into-iranian-nuclear-facility/
 
 ---
-### Real Story of Stuxnet, The
+### <a id="stuxnet-real-story"></a>Real Story of Stuxnet, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 :page_facing_up: [The Real Story of Stuxnet](https://github.com/DoctorKisow/Document-Library/blob/4dfd702756bf3e6d06eb240e4b9bb1e4668e31d7/Document%20Library/Stuxnet%20Articles/Real%20Story%20of%20Stuxnet%2C%20The.pdf)<br/>
@@ -40,7 +40,7 @@ The article "The Real Story of Stuxnet" from IEEE Spectrum provides a detailed a
 [^4]: Kushner, D. (2024, May 24). The real story of Stuxnet. IEEE Spectrum. https://spectrum.ieee.org/the-real-story-of-stuxnet
 
 ---
-### Stuxnet Explained: The First Known Cyberweapon
+### <a id="stuxnet-explained"></a>Stuxnet Explained: The First Known Cyberweapon
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 :link: [Stuxnet Explained: The First Known Cyberweapon](https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html)<br/>
