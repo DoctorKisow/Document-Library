@@ -15,6 +15,18 @@ The [California Consumer Privacy Act of 2018 (CCPA)](http://leginfo.legislature.
 [^1]: California Consumer Privacy Act (CCPA). (2024, March 13). State of California - Department of Justice - Office of the Attorney General. https://www.oag.ca.gov/privacy/ccpa
 
 ---
+### <a id="cybersecurityreg-1789.29"></a>CA Civ Code Section 1798.29
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [CA Civ Code Section 1798.29](https://california.public.law/codes/ca_civ_code_section_1798.29)<br />
+
+California Civil Code Section 1798.29 requires state agencies to notify any California resident whose unencrypted personal information was acquired by an unauthorized person due to a data breach. The notification must be made expediently and may be delayed only for law enforcement needs. The notice must include specific details about the breach and how individuals can protect themselves. If the breach affects over 500 residents, a sample notice must be sent to the Attorney General [^26].
+
+[^26]: Cal. Civ. Code § 1798.29. (n.d.). https://california.public.law/codes/ca_civ_code_section_1798.29
+
+---
 ### <a id="cybersecurityreg-fedramp"></a>FedRAMP
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -22,7 +34,7 @@ The [California Consumer Privacy Act of 2018 (CCPA)](http://leginfo.legislature.
 <br/><br/>
 :link: [FedRAMP](https://www.fedramp.gov/program-basics/)<br/>
 
-The Federal Risk and Authorization Management Program (FedRAMP®) was established in 2011 to provide a cost-effective, risk-based approach for the adoption and use of cloud services by the federal government. FedRAMP empowers agencies to use modern cloud technologies, with an emphasis on the security and protection of federal information. In December 2022, the FedRAMP Authorization Act was signed as part of the FY23 National Defense Authorization Act (NDAA). The Act codifies the FedRAMP program as the authoritative standardized approach to security assessment and authorization for cloud computing products and services that process unclassified federal information [^7].
+The Federal Risk and Authorization Management Program (FedRAMP®) was established in 2011 to provide a cost-effective, risk-based approach for adopting and using cloud services by the federal government. FedRAMP empowers agencies to use modern cloud technologies, emphasizing the security and protection of federal information. In December 2022, the FedRAMP Authorization Act was signed as part of the FY23 National Defense Authorization Act (NDAA). The Act codifies the FedRAMP program as the authoritative standardized approach to security assessment and authorization for cloud computing products and services that process unclassified federal information [^7].
 
 [^7]: Program Basics | FedRAMP.gov. (n.d.). https://www.fedramp.gov/program-basics/
 
@@ -59,6 +71,18 @@ The complete suite of HIPAA Administrative Simplification Regulations can be fou
 [^3]: Rights, O. F. C. (2022, October 20). Combined Regulation text of all rules. HHS.gov. https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/combined-regulation-text/index.html
 
 ---
+### <a id="cybersecurityreg-hitech"></a>HITECH Act Breach Notification Rule
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [HITECH Act Breach Notification Rule]([https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/index.html](https://www.hhs.gov/hipaa/for-professionals/breach-notification/laws-regulations/final-rule-update/hitech/index.html))
+
+The HITECH Breach Notification Interim Final Rule mandates that healthcare providers, health plans, and other HIPAA-covered entities notify individuals when their unsecured health information is breached. Notifications must also be sent to the HHS Secretary and media if the breach affects more than 500 individuals. Business associates must notify the covered entity of breaches. The rule outlines encryption and destruction methods to secure data, exempting entities from notification if these methods are used [^27].
+
+[^27]: Rights, O. F. C. (2021b, June 28). HITECH Breach Notification Interim Final rule. HHS.gov. https://www.hhs.gov/hipaa/for-professionals/breach-notification/laws-regulations/final-rule-update/hitech/index.html
+
+---
 ### <a id="cybersecurityreg-nydfs"></a>NYDFS Cybersecurity Regulation, Amendment 2 (2023)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -71,6 +95,18 @@ The amended New York State Department of Financial Services (NYDFS) Cybersecurit
 
 [^4]: Amended Cybersecurity Regulation 2(23) Part 500. (2023, November 1). New York Department of Financial Services. Retrieved April 21, 2024, from https://www.dfs.ny.gov/system/files/documents/2023/11/cyber_public_training_deck_20231108.pdf
 [^24]: Cybersecurity Resource Center. (n.d.). Department of Financial Services. https://www.dfs.ny.gov/industry_guidance/cybersecurity
+
+---
+### <a id="cybersecurityreg-nygenbuslaw"></a>N.Y. Gen. Bus. Law § 899-AA – Notification
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [N.Y. Gen. Bus. Law § 899-AA – Notification](https://newyork.public.law/laws/n.y._general_business_law_section_899-aa)<br />
+
+New York General Business Law Section 899-AA mandates that any person or business owning or licensing computerized data containing private information must notify affected New York residents of any security breach. The law defines private information and sets forth the notification procedures, which must be prompt and may be delayed only if law enforcement determines it would impede a criminal investigation. It also outlines the methods of notification, the roles of the Attorney General, and the penalties for non-compliance [^25]. 
+
+[^25]: N.Y. Gen. Bus. Law § 899-AA – Notification. (n.d.). https://newyork.public.law/laws/n.y._general_business_law_section_899-aa
 
 ---
 ### <a id="cybersecurityreg-pcidss"></a>PCI DSS v4
