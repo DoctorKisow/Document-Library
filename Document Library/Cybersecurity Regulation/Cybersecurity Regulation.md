@@ -76,7 +76,7 @@ The complete suite of HIPAA Administrative Simplification Regulations can be fou
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-:link: [HITECH Act Breach Notification Rule]([https://www.hhs.gov/hipaa/for-professionals/special-topics/hitech-act-enforcement-interim-final-rule/index.html](https://www.hhs.gov/hipaa/for-professionals/breach-notification/laws-regulations/final-rule-update/hitech/index.html))
+:link: [HITECH Act Breach Notification Rule](https://www.hhs.gov/hipaa/for-professionals/breach-notification/laws-regulations/final-rule-update/hitech/index.html)
 
 The HITECH Breach Notification Interim Final Rule mandates that healthcare providers, health plans, and other HIPAA-covered entities notify individuals when their unsecured health information is breached. Notifications must also be sent to the HHS Secretary and media if the breach affects more than 500 individuals. Business associates must notify the covered entity of breaches. The rule outlines encryption and destruction methods to secure data, exempting entities from notification if these methods are used [^27].
 
