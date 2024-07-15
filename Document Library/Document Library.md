@@ -28,6 +28,18 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
 ---
+### <a id="doclib-corporate-policy-development"></a>Corporate Policy Development
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [NIST Cybersecurity Framework Policy Guide](https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf)
+
+The "NIST Cybersecurity Framework Policy Template Guide" provides organizations with customizable policy templates aligned with the NIST Cybersecurity Framework (CSF). It is designed to help organizations, particularly participants of the Nationwide Cybersecurity Review (NCSR) and members of the Multi-State Information Sharing & Analysis Center (MS-ISAC), develop and enhance their cybersecurity policies. The guide outlines how to apply and adapt the provided templates to specific organizational needs, covering various aspects of cybersecurity such as asset management, risk management, identity management, access control, data security, and incident response. The templates serve as a foundational baseline that can be tailored to meet specific regulatory and operational requirements [^25].
+
+[^25]: NIST Cybersecurity Framework Policy Template Guide. (n.d.). cisecurity.org. Retrieved July 15, 2024, from https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf
+
+---
 ### :file_folder: <a id="cybersecurity-frameworks"></a>[Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
