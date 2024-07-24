@@ -13,3 +13,10 @@ PowerSploit is an archived PowerShell post-exploitation framework designed to as
 
 [^1]: PowerShellMafia. (n.d.). GitHub - PowerShellMafia/PowerSploit: PowerSploit - a PowerShell Post-Exploitation framework. GitHub. https://github.com/PowerShellMafia/PowerSploit
 
+---
+### <a id="pentest-publictesitngreports"></a>Public Penetration Testing Reports
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:link: [Public Penetration Testing Reports]([https://github.com/PowerShellMafia/PowerSploi](https://github.com/juliocesarfort/public-pentesting-reports)<br/>
+
+The GitHub repository "public-pentesting-reports" curated by Julio Cesar Fort offers a comprehensive list of public penetration testing reports from various consulting firms and academic security groups. It serves as a valuable resource for understanding real-world security vulnerabilities and mitigation strategies by providing access to detailed assessments conducted on a wide range of systems and applications. The repository is maintained by Blaze Information Security and is widely used in the cybersecurity community.
