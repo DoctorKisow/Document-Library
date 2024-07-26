@@ -6,7 +6,6 @@
 - [Android Fragmentation](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#android-fragmentation)
 - [Corporate Policy Development](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
-  - 📁 [NIST Cybersecurity Frameworks](Cybersecurity%20Frameworks/NIST%20Cybersecurity%20Framework%20Resources/NIST%20Cybersecurity%20Framework%20Resources.md)
 - [C2 Matrix](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#c2-matrix)
 - [Cybersecurity Kill Chain](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#cybersecurity-kill-chain)
 - 📁 [Cybersecurity Regulation](Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
