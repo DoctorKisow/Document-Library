@@ -14,6 +14,7 @@ Within this meticulously curated folder, individuals and organizations can acces
 - [NIST Cybersecurity Framework](#nist-cybersecurity-framework)
 - [NIST Informative References](#nist-informative-references)
 - [NIST National Vulnerability Database](#nist-vulnerability-db)
+- [REFERENCES](#nist-references)
 
 ### 📁 [Back to Cybersecurity Frameworks](../../Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md#cyberframe-toc)
 
@@ -140,3 +141,6 @@ The NIST CSF 2.0 Informative References page provides a detailed set of guidelin
 The NVD is the U.S. government repository of standards-based vulnerability management data represented using the Security Content Automation Protocol (SCAP). This data enables automation of vulnerability management, security measurement, and compliance. The NVD includes databases of security checklist references, security-related software flaws, product names, and impact metrics.
 
 [[TOC]](#nist-toc)
+
+---
+### <a id="nist-references"></a>REFERENCES
