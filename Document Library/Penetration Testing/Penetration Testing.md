@@ -4,6 +4,7 @@
 ## <a id="pentest-toc"></a>Table of Contents
 - [PowerSploit](#pentest-powersploit)
 - [Public Penetration Testing Reports](#pentest-publictesitngreports)
+- [REFERENCES](#pentest-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#doclib-toc)
 
@@ -27,3 +28,6 @@ PowerSploit is an archived PowerShell post-exploitation framework designed to as
 The GitHub repository "public-pentesting-reports" curated by Julio Cesar Fort offers a comprehensive list of public penetration testing reports from various consulting firms and academic security groups. It serves as a valuable resource for understanding real-world security vulnerabilities and mitigation strategies by providing access to detailed assessments conducted on a wide range of systems and applications. The repository is maintained by Blaze Information Security and is widely used in the cybersecurity community.
 
 [[TOC]](#pentest-toc)
+
+---
+### <a id="pentest-references"></a>REFERENCES
