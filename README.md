@@ -8,7 +8,7 @@ The repository serves as a supplemental material provider for several cybersecur
 - [Copyright Notice](#default-copyright)
 - [Contact](#default-contact)
   
-###  📁 [Cybersecurity Document Library](Document%20Library.md)
+###  📁 [Cybersecurity Document Library](Document%20Library/Document%20Library.md)
 
 ### <a id="default-tags"></a>Tags
 Every article will be assigned one or more tags that indicate its relevance to particular courses. These tags ensure that students can easily identify which materials align with their specific learning objectives and curriculum requirements. While all the information in this repository is broadly relevant to the field of cybersecurity, certain articles are tailored to meet the specific learning outcomes of individual classes. This tagging system not only enhances this repository’s utility as an educational tool but also supports a focused and outcome-driven approach to cybersecurity education. By aligning resources with course-specific goals, I aim to provide a more effective and personalized learning experience.
