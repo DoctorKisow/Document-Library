@@ -12,7 +12,7 @@
 - [N.Y. Gen. Bus. Law § 899-AA – Notification](#cybersecurityreg-nygenbuslaw)
 - [PCI DSS v4](#cybersecurityreg-pcidss)
 - [Virginia Consumer Data Protection Act, The](#cybersecurityreg-vcdpa)
-- [REFERENCES]{#cybersecurityreg-references)
+- [REFERENCES](#cybersecurityreg-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#cybersecurity-toc)
 
