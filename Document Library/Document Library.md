@@ -34,7 +34,7 @@
 
 The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been declassified (**TLP: CLEAR**) and is permitted to be shared publicly [^1].
 
-[[TOC]](Document%20Library.md#TOC)
+[[TOC]](#TOC)
 [^1]: CISA (2023, May 23). *#StopRansomware Guide. Cybersecurity and Infrastructure Security Agency.* https://www.cisa.gov/resources-tools/resources/stopransomware-guide
 
 ---
@@ -48,6 +48,7 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has published a comp
 
 Android fragmentation refers to the phenomenon within the Android ecosystem where the platform's user base is spread across numerous device manufacturers, models, versions, and customized software implementations. This results in a diverse array of hardware capabilities, software versions, and user experiences across Android devices. Fragmentation can present challenges for developers aiming to create apps that perform consistently across the Android ecosystem, as they must contend with varying screen sizes, resolutions, hardware specifications, and software versions. Additionally, device manufacturers and carriers often introduce their customizations and modifications to the Android operating system, further exacerbating fragmentation by creating inconsistencies in user interfaces and feature sets. Addressing fragmentation requires careful consideration of compatibility, testing, and optimization strategies to ensure a seamless user experience across the diverse range of Android devices [^2],[^3].
 
+[[TOC]](#TOC)
 [^2]: How many Android devices are on Android 13? Fewer than Android 11, unfortunately. (2023, April 13). Android Authority. https://www.androidauthority.com/android-13-distribution-2023-3312803/
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
@@ -61,6 +62,7 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 
 The "NIST Cybersecurity Framework Policy Template Guide" provides organizations with customizable policy templates aligned with the NIST Cybersecurity Framework (CSF). It is designed to help organizations, particularly participants of the Nationwide Cybersecurity Review (NCSR) and members of the Multi-State Information Sharing & Analysis Center (MS-ISAC), develop and enhance their cybersecurity policies. The guide outlines how to apply and adapt the provided templates to specific organizational needs, covering various aspects of cybersecurity such as asset management, risk management, identity management, access control, data security, and incident response. The templates serve as a foundational baseline that can be tailored to meet specific regulatory and operational requirements [^25].
 
+[[TOC]](#TOC)
 [^25]: NIST Cybersecurity Framework Policy Template Guide. (n.d.). cisecurity.org. Retrieved July 15, 2024, from https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf
 
 ---
@@ -78,6 +80,8 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 * OSTMM v3
 * OWASP WSTG Testing Framework
 
+[[TOC]](#TOC)
+
 ---
 ### <a id="doclib-c2-matrix"></a>C<sup>2</sup> Matrix
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -89,6 +93,7 @@ The C2 Matrix website is a comprehensive resource for understanding Command and 
 
 A link to a Google spreadsheet containing a list of available command control servers with different capabilities is listed in a matrix (p. 354).
 
+[[TOC]](#TOC)
 [^24]: The C2 Matrix | C2 Matrix. (n.d.). https://www.thec2matrix.com/
 
 ---
@@ -102,6 +107,7 @@ A link to a Google spreadsheet containing a list of available command control se
 
 A cybersecurity kill chain is a framework used to understand the stages of a cyberattack, from initial reconnaissance to the final goal of the attacker. Developed by Lockheed Martin, the Cyber Kill Chain® outlines seven steps: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C<sup>2</sup>), and Actions on Objectives. These steps help organizations identify and counteract threats at each phase of an attack. The model is designed to enhance an organization's defense mechanisms by providing a structured approach to analyze and mitigate cyber threats. The SANS Institute's analysis compares the Cyber Kill Chain with the MITRE ATT&CK framework, emphasizing that while both models aim to improve cybersecurity, the Cyber Kill Chain focuses on the linear progression of an attack, making it a valuable tool for understanding and disrupting the adversarial process.[^4], [^5].
 
+[[TOC]](#TOC)
 [^4]: Cyber Kill chain. (n.d.). Lockheed Martin. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 [^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
 
@@ -122,6 +128,8 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 * PCI DSS v4
 * Virginia Consumer Data Protection Act
 
+[[TOC]](#TOC)
+
 ---
 ### <a id="doclib-red-blue-purple"></a>Difference Between Red, Blue, and Purple Teams, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
@@ -138,6 +146,7 @@ This article explains the roles of these teams in cybersecurity:
 
 The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
 
+[[TOC]](#TOC)
 [^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
 
 ---
@@ -150,6 +159,7 @@ The article emphasizes that effective security relies on the continuous interact
 
 Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (**TLP: WHITE**) and is permitted to be shared publicly [^6].
 
+[[TOC]](#TOC)
 [^6]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
 
 ---
@@ -163,6 +173,7 @@ Occasionally, I receive briefings from the Pennsylvania Department of Homeland S
 
 Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^7],[^8],[^9],[^23].
 
+[[TOC]](#TOC)
 [^7]: CrowdStrike. (2023, August 11). What are Indicators of Compromise? IOC Explained - CrowdStrike. crowdstrike.com. https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/
 [^8]: What are Indicators of Compromise (IoCs)? - An Easy Guide. (2024, April 4). SentinelOne. https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
 [^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
@@ -177,6 +188,7 @@ Indicators of Compromise (IOCs) are digital clues indicating potential security 
 
 This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
 
+[[TOC]](#TOC)
 [^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
 [^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
@@ -189,6 +201,7 @@ This report outlines the investigation into state-sponsored interference in the 
 
 This article details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^10].
 
+[[TOC]](#TOC)
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
@@ -227,6 +240,7 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 1. Global Heat: http://archive.org/details/NSA-Global-Heat-Map-Surveillance
 1. Released by Brazilian TV: http://archive.org/details/NSA-Slides-O-Globo-Brazil
 
+[[TOC]](#TOC)
 [^11]: NSA slides explain the PRISM data-collection program. (n.d.). *The Washington Post.* http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/
 [^12]: Monde, L. (2014, March 21). Espionnage de la NSA : tous les documents publiés par “Le Monde.” Le Monde.fr. http://www.lemonde.fr/technologies/article/2013/10/21/espionnage-de-la-nsa-tous-les-documents-publies-par-le-monde_3499986_651865.html
 [^13]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
@@ -237,6 +251,8 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 <br/>
 
 Penetration testing and penetration testing tools are essential components in evaluating and enhancing an organization's cybersecurity defenses. This folder contains a wealth of information, including detailed methodologies, best practices, and standards for conducting effective penetration tests. It outlines systematic approaches for identifying vulnerabilities, exploiting weaknesses, and assessing the security posture of digital assets. Additionally, the folder includes comprehensive guides on various penetration testing tools, offering insights into their functionalities, configurations, and use cases. By leveraging these resources, cybersecurity professionals can strengthen their ability to identify and mitigate potential threats, ensuring robust protection of critical systems and data.
+
+[[TOC]](#TOC)
 
 ---
 ### <a id="doclib-rage-quit"></a>Rage-Quit
@@ -252,6 +268,7 @@ Koçulu's decision to unpublish his package stemmed from a dispute with npm over
 
 The sudden removal of "left-pad" caused widespread disruption, breaking thousands of builds and highlighting the dependency problems within the JavaScript ecosystem. The incident sparked discussions about the reliability of open-source software, dependency management, and the responsibilities of maintainers [^14].
 
+[[TOC]](#TOC)
 [^14]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 
 ---
@@ -263,6 +280,7 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 
 Threat Intelligence Platforms (TIPs) are emerging technology-supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
 
+[[TOC]](#TOC)
 [^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
@@ -278,6 +296,8 @@ On the other hand, the journalistic articles provide a narrative-driven perspect
 <br/><br/>
 By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.
 
+[[TOC]](#TOC)
+
 ---
 ### <a id="doclib-silver-bullet"></a>There’s No Silver Bullet for Cybersecurity
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
@@ -288,6 +308,7 @@ By compiling articles from both peer-reviewed sources and esteemed journalistic 
 
 This article emphasizes that no single solution can fully address cybersecurity challenges. As advancements in AI, the metaverse, and quantum computing continue, cybersecurity issues will grow in complexity. The article argues that both governments and businesses must collaborate and adopt multifaceted strategies to enhance security. It highlights the importance of continuous innovation, robust policies, and a proactive approach to managing cybersecurity risks [^19].
 
+[[TOC]](#TOC)
 [^19]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
 
 ---
@@ -299,6 +320,7 @@ This article emphasizes that no single solution can fully address cybersecurity 
 
 Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^20].
 
+[[TOC]](#TOC)
 [^20]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 
 ---
@@ -310,6 +332,7 @@ Cyber-lawyer Scott Shapiro believes there is more to beating hackers than gettin
 
 In 2013, a story emerged about a U.S. software developer who outsourced his job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the Internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
 
+[[TOC]](#TOC)
 [^21]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
 
 ---
@@ -321,6 +344,7 @@ In 2013, a story emerged about a U.S. software developer who outsourced his job 
 
 Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^22].
 
+[[TOC]](#TOC)
 [^22]: Isles, A. (2023, May 23). Where to Focus Your Company’s limited cybersecurity budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
 
 <!-- Resources -->
