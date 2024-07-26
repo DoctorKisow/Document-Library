@@ -2,27 +2,27 @@
 *This GitHub repository **Cybersecurity Document Library**, curated by Dr. Kisow, is an invaluable resource for students seeking to deepen their understanding and application of cybersecurity principles. Within this meticulously organized digital repository, users will find an array of essential materials, including expertly crafted lecture slides, insightful academic papers, and articles authored by leading experts in the field. The collection also features real-world case studies that shed light on the complexities of securing digital systems. Furthermore, the repository includes thought-provoking articles and documents designed to stimulate critical thinking and enhance practical skills. By exploring this extensive repository, students can effectively navigate the dynamic landscape of cyber threats and emerge as proficient defenders of digital security.*
 
 ## <a id="doclib-toc"></a>Table of Contents
-- [#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#stopransomeware-guide)
-- [Android Fragmentation](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#android-fragmentation)
-- [Corporate Policy Development](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#corporate-policy-development)
+- [#StopRansomeware Guide](#stopransomeware-guide)
+- [Android Fragmentation](#android-fragmentation)
+- [Corporate Policy Development](#corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
-- [C2 Matrix](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#c2-matrix)
-- [Cybersecurity Kill Chain](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#cybersecurity-kill-chain)
+- [C2 Matrix](#c2-matrix)
+- [Cybersecurity Kill Chain](#cybersecurity-kill-chain)
 - 📁 [Cybersecurity Regulation](Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
-- [Difference Between Red, Blue and Purple Teams, The](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#cybersecurity-kill-chain)
-- [Guide to DDoS Attacks](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#guide-to-ddos-attacks)
-- [Indicators of Compromise](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#indicators-of-compromise)
-- [Investigation Into Russian Interference In The 2016 Presidential Election, The](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#investigation-into-russian-interference-in-the-2016-presidential-election-the)
-- [Mirai Confessions, The](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#mirai-confessions-the)
-- [NSA PRISM PowerPoint Slides](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#nsa-prism-powerpoint-slides)
+- [Difference Between Red, Blue and Purple Teams, The](#cybersecurity-kill-chain)
+- [Guide to DDoS Attacks](#guide-to-ddos-attacks)
+- [Indicators of Compromise](#indicators-of-compromise)
+- [Investigation Into Russian Interference In The 2016 Presidential Election, The](#investigation-into-russian-interference-in-the-2016-presidential-election-the)
+- [Mirai Confessions, The](#mirai-confessions-the)
+- [NSA PRISM PowerPoint Slides](#nsa-prism-powerpoint-slides)
 - :file_folder: [Penetration Testing](Penetration%20Testing/Penetration%20Testing.md)
-- [Rage Quit](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#rage-quit)
-- [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
+- [Rage Quit](#rage-quit)
+- [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
 - 📁 [Stuxnet Articles](Stuxnet%20Articles/Stuxnet%20Articles.md)
-- [There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#theres-no-silver-bullet-for-cybersecurity)
-- [Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#think-like-a-hacker)
-- [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#us-programmer-outsources-own-job-to-china-surfs-cat-videos)
-- [Where to Focus Your Company’s Limited Cybersecurity Budget](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Document%20Library.md#where-to-focus-your-companys-limited-cybersecurity-budget)
+- [There’s No Silver Bullet for Cybersecurity](#theres-no-silver-bullet-for-cybersecurity)
+- [Think Like a Hacker](#think-like-a-hacker)
+- [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#us-programmer-outsources-own-job-to-china-surfs-cat-videos)
+- [Where to Focus Your Company’s Limited Cybersecurity Budget](#where-to-focus-your-companys-limited-cybersecurity-budget)
 
 ---
 ### <a id="doclib-stop-ransomware"></a>#StopRansomeware Guide
@@ -30,7 +30,7 @@
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-:page_facing_up: [#StopRansomeware Guide](https://github.com/DoctorKisow/Document-Library/blob/7baa282f56faa1373255858afa1d3ed1e4ee508c/Documents/StopRansomware%20Guide%20508c.pdf)<br/>
+:page_facing_up: [#StopRansomeware Guide](StopRansomware%20Guide%20508c.pdf)<br/>
 
 The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been declassified (**TLP: CLEAR**) and is permitted to be shared publicly [^1].
 
