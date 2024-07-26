@@ -23,6 +23,7 @@
 - [Think Like a Hacker](#think-like-a-hacker)
 - [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#us-programmer-outsources-own-job-to-china-surfs-cat-videos)
 - [Where to Focus Your Company’s Limited Cybersecurity Budget](#where-to-focus-your-companys-limited-cybersecurity-budget)
+- [REFERENCES](#doclib-references)
 
 ---
 ### <a id="doclib-stop-ransomware"></a>#StopRansomeware Guide
@@ -347,6 +348,8 @@ Please consider reading this article. Even though this article is only seven pag
 [[TOC]](#doclib-toc)
 [^22]: Isles, A. (2023, May 23). Where to Focus Your Company’s Limited Cybersecurity Budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
 
+---
+## <a id="doclib-references"></a>REFERENCES
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
 <!-- Icons: http://www.onlinewebfonts.com/ -->
