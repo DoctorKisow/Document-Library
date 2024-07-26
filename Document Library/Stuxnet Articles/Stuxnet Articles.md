@@ -12,6 +12,7 @@ By compiling articles from both peer-reviewed sources and esteemed journalistic 
 - [Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility](#stuxnet-dutch-engineer)
 - [Real Story of Stuxnet, The](#stuxnet-real-story)
 - [Stuxnet Explained: The First Known Cyberweapon](#stuxnet-explained)
+- [REFERENCES](#stuxnet-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#doclib-toc)
 
@@ -58,3 +59,6 @@ Stuxnet, discovered in 2010, is recognized as the first known cyber weapon and w
 
 [[TOC]](#stuxnet-toc)
 [^2]: Fruhlinger, J. (2022, August 31). Stuxnet explained: The first known cyberweapon. CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html
+
+---
+### <a id="stuxnet-references"></a>REFERENCES
