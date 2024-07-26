@@ -12,6 +12,7 @@
 - [N.Y. Gen. Bus. Law § 899-AA – Notification](#cybersecurityreg-nygenbuslaw)
 - [PCI DSS v4](#cybersecurityreg-pcidss)
 - [Virginia Consumer Data Protection Act, The](#cybersecurityreg-vcdpa)
+- [REFERENCES]{#cybersecurityreg-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#cybersecurity-toc)
 
@@ -155,3 +156,5 @@ Chapter 53 of Title 59.1 in the Virginia Code outlines the Virginia Consumer Pro
 [[TOC]](#cybersecurityreg-toc)
 [^6]: The Virginia Consumer Data Protection Act. (2023, January 1). Code of Virginia. Retrieved April 21, 2024, from https://law.lis.virginia.gov/vacode/title59.1/chapter53/
 
+---
+### <a id="cybersecurityreg-references"></a>REFERENCES
