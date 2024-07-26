@@ -63,6 +63,18 @@ The purpose of this document is to assist organizations in planning and conducti
 [^2]: Scarfone, K., Souppaya, M., Cody, A., & Orebaugh, A. (2008, September 30). Technical Guide to Information Security Testing and Assessment. Csrc.nist.gov. https://csrc.nist.gov/pubs/sp/800/115/final
 
 ---
+### <a id="nist-800-128"></a>NIST 800-128
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+📄 [Guide for Security-Focused Configuration Management of Information Systems](https://github.com/DoctorKisow/Document-Library/blob/002da830f98c580590004fb84b234b28d0099750/Document%20Library/Cybersecurity%20Frameworks/NIST%20Cybersecurity%20Framework%20Resources/NIST%20800-128.pdf)<br/>
+
+The NIST Special Publication 800-128, titled "Guide for Security-Focused Configuration Management of Information Systems," provides comprehensive guidelines for the security-focused configuration management (SecCM) of federal information systems. This document emphasizes the integration of information security into configuration management processes to ensure adequate security and minimize organizational risks. It outlines the fundamental concepts of SecCM, including planning, implementing configurations, controlling configuration changes, and monitoring. The publication supports NIST SP 800-53 and aims to aid organizations in managing and monitoring information system configurations to maintain security while supporting business functionality [^8].
+
+[^8]: Johnson, A., Dempsey, K., Ross, R., Gupta, S., & Bailey, D. (2019). Guide for security-focused configuration management of information systems. https://doi.org/10.6028/nist.sp.800-128
+
+---
 ### <a id="nist-800-145"></a>NIST 800-145
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
