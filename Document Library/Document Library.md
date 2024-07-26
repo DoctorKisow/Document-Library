@@ -43,7 +43,7 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has published a comp
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-💾 [Android Fragmentation - Excel](Document%20Library/Android%20Fragmentation.xlsx)<br/>
+💾 [Android Fragmentation - Excel](Android%20Fragmentation.xlsx)<br/>
 📄 [Android Fragmentation - PDF](https://github.com/DoctorKisow/Document-Library/blob/main/Documents/Android%20Fragmentation.pdf)<br/>
 
 Android fragmentation refers to the phenomenon within the Android ecosystem where the platform's user base is spread across numerous device manufacturers, models, versions, and customized software implementations. This results in a diverse array of hardware capabilities, software versions, and user experiences across Android devices. Fragmentation can present challenges for developers aiming to create apps that perform consistently across the Android ecosystem, as they must contend with varying screen sizes, resolutions, hardware specifications, and software versions. Additionally, device manufacturers and carriers often introduce their customizations and modifications to the Android operating system, further exacerbating fragmentation by creating inconsistencies in user interfaces and feature sets. Addressing fragmentation requires careful consideration of compatibility, testing, and optimization strategies to ensure a seamless user experience across the diverse range of Android devices [^2],[^3].
