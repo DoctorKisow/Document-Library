@@ -7,7 +7,13 @@ On the other hand, the journalistic articles provide a narrative-driven perspect
 <br/><br/>
 By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.*
 
-### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#stuxnet-articles)
+## <a id="stuxnet-toc"></a>Table of Contents
+- [Control Network Security Lessons from Stuxnet](#stuxnet-control-lessons)
+- [Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility](#stuxnet-dutch-engineer)
+- [Real Story of Stuxnet, The](#stuxnet-real-story)
+- [Stuxnet Explained: The First Known Cyberweapon](#stuxnet-explained)
+
+### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#doclib-toc)
 
 ---
 ### <a id="stuxnet-control-lessons"></a>Control Network Security Lessons from Stuxnet
@@ -17,6 +23,7 @@ By compiling articles from both peer-reviewed sources and esteemed journalistic 
 
 Industrial protocols, like Modbus, have been targeted by threats such as the Stuxnet virus, which attacked Siemens SCADA systems. Stuxnet's complexity and impact were unprecedented, prompting government responses to protect critical infrastructure. Agencies like the U.S. Department of Homeland Security and the UK's CPNI collaborate with service operators to mitigate risks. Examples of cyber threats include attacks on a Queensland sewage plant and power outages caused by cyber-attacks. Stuxnet highlighted vulnerabilities in industrial control systems, showing the potential for significant disruption in critical sectors [^3].
 
+[[TOC]](#stuxnet-toc)
 [^3]: Piggin, R. (2011). Control network security lessons from Stuxnet: a UK expert describes how Stuxnet and other threats to industrial infrastructure cyber security are prompting national and international action. Knowledge is power. Control Engineering, 53+. https://link-gale-com.ezproxy.ccac.edu/apps/doc/A260943634/GBIB?u=pitt92539&sid=ebsco&xid=6d94f1f0
 
 ---
@@ -27,6 +34,7 @@ Industrial protocols, like Modbus, have been targeted by threats such as the Stu
 
 A Dutch engineer, Erik van Sabben, reportedly used a water pump to deploy the Stuxnet malware into an Iranian nuclear facility, according to a Dutch newspaper investigation. Recruited by Dutch intelligence in collaboration with American and Israeli agencies, van Sabben's technical background and business ties to Iran made him a suitable candidate. The malware caused significant damage to Iran's nuclear centrifuges. Van Sabben died in a motorcycle accident shortly after the attack, and the details of his involvement remain partly disputed [^1].
 
+[[TOC]](#stuxnet-toc)
 [^1]: ‌Dean, K. (2024, January 12). Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility. SystemTek - Technology News and Information. https://www.systemtek.co.uk/2024/01/dutch-engineer-used-water-pump-to-get-stuxnet-malware-into-iranian-nuclear-facility/
 
 ---
@@ -37,6 +45,7 @@ A Dutch engineer, Erik van Sabben, reportedly used a water pump to deploy the St
 
 The article "The Real Story of Stuxnet" from IEEE Spectrum provides a detailed account of the discovery and analysis of the Stuxnet worm, highlighting its unprecedented sophistication and the collaborative efforts of cybersecurity experts to unravel it. Stuxnet, detected in 2010, was a highly advanced cyberweapon designed to disrupt Iran's nuclear enrichment program. It employed four zero-day exploits and targeted Siemens industrial control systems. The investigation revealed its nation-state origins, underscoring a new era of cyber warfare with significant geopolitical implications​ [^4].
 
+[[TOC]](#stuxnet-toc)
 [^4]: Kushner, D. (2024, May 24). The real story of Stuxnet. IEEE Spectrum. https://spectrum.ieee.org/the-real-story-of-stuxnet
 
 ---
@@ -47,4 +56,5 @@ The article "The Real Story of Stuxnet" from IEEE Spectrum provides a detailed a
 
 Stuxnet, discovered in 2010, is recognized as the first known cyber weapon and was specifically designed to target Iran's nuclear facilities. Developed jointly by the United States and Israel, Stuxnet exploited multiple zero-day vulnerabilities in Windows and Siemens industrial software to infect and control programmable logic controllers (PLCs) managing centrifuges at the Natanz uranium enrichment plant. The worm altered the operational speeds of these centrifuges, causing physical damage while masking the changes from monitoring systems. This sophisticated malware demonstrated the potential of cyber attacks to cause real-world physical damage and marked a significant escalation in cyber warfare capabilities​ [^2].
 
+[[TOC]](#stuxnet-toc)
 [^2]: Fruhlinger, J. (2022, August 31). Stuxnet explained: The first known cyberweapon. CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html
