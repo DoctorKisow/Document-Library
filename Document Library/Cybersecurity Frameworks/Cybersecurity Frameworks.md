@@ -9,6 +9,7 @@
 - [OWASP Authentication Cheat Sheet](#cyberframe-owasp-auth-cs)
 - [OWASP SQL Injection Prevention](#cyberframe-owasp-sqlinject-cs)
 - [OWASP WSTG Testing Framework](#cyberframe-owasp)
+- [REFERENCES](#cyberframe-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#doclib-toc)
 ---
@@ -96,3 +97,6 @@ The OWASP SQL Injection Prevention Cheat Sheet provides comprehensive guidelines
 The OWASP WSTG (Web Security Testing Guide) framework is a comprehensive resource developed by the Open Web Application Security Project (OWASP) that provides practical guidance and methodologies for testing the security of web applications. Designed to assist security professionals, developers, and organizations in identifying and mitigating common security vulnerabilities within web applications, the WSTG offers a structured approach to conducting security assessments, penetration testing, and vulnerability analysis. The framework covers a wide range of topics, including authentication, authorization, input validation, session management, and security configuration, and provides detailed testing techniques and best practices for each area. By following the guidelines outlined in the OWASP WSTG, practitioners can effectively assess the security posture of web applications and implement appropriate countermeasures to protect against potential threats and attacks.
 
 [[TOC]](#cyberframe-toc)
+
+---
+### <a id="cyberframe-references"></a>REFERENCES
