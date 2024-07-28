@@ -15,7 +15,7 @@
 - [Investigation Into Russian Interference In The 2016 Presidential Election, The](#investigation-into-russian-interference-in-the-2016-presidential-election-the)
 - [Mirai Confessions, The](#mirai-confessions-the)
 - [NSA PRISM PowerPoint Slides](#nsa-prism-powerpoint-slides)
-- :file_folder: [Penetration Testing](Penetration%20Testing/Penetration%20Testing.md)
+- :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
 - [Rage Quit](#rage-quit)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
 - 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
