@@ -14,7 +14,7 @@
 - [Virginia Consumer Data Protection Act, The](#cybersecurityreg-vcdpa)
 - [REFERENCES](#cybersecurityreg-references)
 
-### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#cybersecurity-toc)
+### 📁 [Back to Document Library](../../Document%20Library/README.md#cybersecurity-toc)
 
 ---
 ### <a id="cybersecurityreg-ccpa"></a>California Consumer Privacy Act (CCPA)
