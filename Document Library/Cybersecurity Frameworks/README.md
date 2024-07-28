@@ -4,7 +4,7 @@
 ## <a id="cyberframe-toc"></a>Table of Contents
 - [Empire](#cyberframe-empire)
 - [MITRE ATT&CK](#cyberframe-mitre)
-- 📁 [NIST Cybersecurity Framework](NIST%20Cybersecurity%20Framework%20Resources/NIST%20Cybersecurity%20Framework%20Resources.md)
+- 📁 [NIST Cybersecurity Framework](NIST%20Cybersecurity%20Framework%20Resources/README.md)
 - [Open Source Security Testing Methodology Manual (OSTMM) v3, The](#cyberframe-ostmmv3)
 - [OWASP Authentication Cheat Sheet](#cyberframe-owasp-auth-cs)
 - [OWASP SQL Injection Prevention](#cyberframe-owasp-sqlinject-cs)
