@@ -6,7 +6,7 @@
 - [Public Penetration Testing Reports](#pentest-publictesitngreports)
 - [REFERENCES](#pentest-references)
 
-### 📁 [Back to Document Library](../../Document%20Library/Document%20Library.md#doclib-toc)
+### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
 
 ---
 ### <a id="pentest-powersploit"></a>PowerSploit
