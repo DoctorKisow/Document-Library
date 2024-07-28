@@ -6,7 +6,7 @@
 - [Android Fragmentation](#android-fragmentation)
 - [Corporate Policy Development](#corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
-- [C2 Matrix](#c2-matrix)
+- [C<sup>2</sup> Matrix](#c2-matrix)
 - [Cybersecurity Kill Chain](#cybersecurity-kill-chain)
 - 📁 [Cybersecurity Regulation](Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
 - [Difference Between Red, Blue and Purple Teams, The](#cybersecurity-kill-chain)
