@@ -54,6 +54,7 @@ The article "The Real Story of Stuxnet" from IEEE Spectrum provides a detailed a
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/><br/>
 :link: [Stuxnet Explained: The First Known Cyberweapon](https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html)<br/>
+📄 [Stuxnet Explained: The First Known Cyberweapon](Stuxnet%20Explained%20The%20First%20Known%20Cyberweapon.pdf)<br/>
 
 Stuxnet, discovered in 2010, is recognized as the first known cyber weapon and was specifically designed to target Iran's nuclear facilities. Developed jointly by the United States and Israel, Stuxnet exploited multiple zero-day vulnerabilities in Windows and Siemens industrial software to infect and control programmable logic controllers (PLCs) managing centrifuges at the Natanz uranium enrichment plant. The worm altered the operational speeds of these centrifuges, causing physical damage while masking the changes from monitoring systems. This sophisticated malware demonstrated the potential of cyber attacks to cause real-world physical damage and marked a significant escalation in cyber warfare capabilities​ [^2].
 
