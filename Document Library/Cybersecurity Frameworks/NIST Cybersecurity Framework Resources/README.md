@@ -16,7 +16,7 @@ Within this meticulously curated folder, individuals and organizations can acces
 - [NIST National Vulnerability Database](#nist-vulnerability-db)
 - [REFERENCES](#nist-references)
 
-### 📁 [Back to Cybersecurity Frameworks](../../Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md#cyberframe-toc)
+### 📁 [Back to Cybersecurity Frameworks](../../Cybersecurity%20Frameworks/README.md#cyberframe-toc)
 
 ---
 ### <a id="nist-500-292"></a>NIST 500-292
