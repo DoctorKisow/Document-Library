@@ -90,7 +90,7 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 🔗 [C<sup>2</sup> Matrix](https://www.thec2matrix.com)
 <br/>
 
-The C2 Matrix website is a comprehensive resource for understanding Command and Control (C2) frameworks used in cybersecurity. It offers detailed information on various C2 frameworks, including installation guides, usage instructions, and set up for attack infrastructure in Red and Purple Team exercises. The site features a maintained Google Sheets matrix, lab environment details, and resources for new users. Contributions and feedback are encouraged to enhance the repository [^24].
+The C<sup>2</sup> Matrix website is a comprehensive resource for understanding Command and Control (C<sup>2</sup>) frameworks used in cybersecurity. It offers detailed information on various C<sup>2</sup> frameworks, including installation guides, usage instructions, and setup for attack infrastructure in Red and Purple Team exercises. The site features a maintained Google Sheets matrix, lab environment details, and resources for new users. Contributions and feedback are encouraged to enhance the repository [^24].
 
 A link to a Google spreadsheet containing a list of available command control servers with different capabilities is listed in a matrix (p. 354).
 
