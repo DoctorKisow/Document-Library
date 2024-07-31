@@ -9,9 +9,7 @@ The repository serves as a supplemental material provider for several cybersecur
 - [Copyright Notice](#default-copyright)
 - [Contact](#default-contact)
 
----  
 ###  📁 [Cybersecurity Document Library](Document%20Library/README.md)
-Follow this link for access to the document library.
 
 ---
 ### <a id="default-tags"></a>Tags
