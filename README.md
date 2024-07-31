@@ -1,15 +1,19 @@
 # Cybersecurity Document Library
 The repository serves as a supplemental material provider for several cybersecurity classes taught by Dr. Kisow, enhancing the learning experience by offering a wide range of resources. These materials may include lecture notes, lab exercises, reading lists, and additional reference documents that align with the course curricula. By providing access to current and relevant cybersecurity information, the repository supports students in gaining a deeper understanding of complex topics such as network security, cryptography, ethical hacking, and information assurance. Furthermore, the repository is regularly updated to reflect the latest developments and best practices in the field, ensuring that students have access to the most up-to-date knowledge and tools necessary for their academic and professional success. This centralized resource hub also encourages self-paced learning and allows students to review and reinforce their understanding of key concepts outside the classroom.
 
+---
 ## <a id="default-toc"></a>Table of Contents
 - [Tags](#default-tags)
 - [Icons](#default-icons)
 - [License](#default-license)
 - [Copyright Notice](#default-copyright)
 - [Contact](#default-contact)
-  
-###  📁 [Cybersecurity Document Library](Document%20Library/README.md)
 
+---  
+###  📁 [Cybersecurity Document Library](Document%20Library/README.md)
+Follow this link for access to the document library.
+
+---
 ### <a id="default-tags"></a>Tags
 Every article will be assigned one or more tags that indicate its relevance to particular courses. These tags ensure that students can easily identify which materials align with their specific learning objectives and curriculum requirements. While all the information in this repository is broadly relevant to the field of cybersecurity, certain articles are tailored to meet the specific learning outcomes of individual classes. This tagging system not only enhances this repository’s utility as an educational tool but also supports a focused and outcome-driven approach to cybersecurity education. By aligning resources with course-specific goals, I aim to provide a more effective and personalized learning experience.
 
@@ -20,6 +24,7 @@ The following tags are used throughout this repository:<br/>
 
 [[TOC]](#default-toc)
 
+---
 ### <a id="default-icons"></a>Icons
 The following icons are used throughout the repository:<br/>
 :file_folder: This icon indicates that articles are further categorized into a sub-section of this document library.<br/>
@@ -28,11 +33,13 @@ The following icons are used throughout the repository:<br/>
 
 [[TOC]](#default-toc)
 
+---
 ### <a id="default-license"></a>License
 This project is licensed under the MIT License.  Please see the [LICENSE.md](LICENSE.md) file for details.
 
 [[TOC]](#default-toc)
 
+---
 ### <a id="default-copyright"></a>Copyright Notice
 **Copyright Notice**
 
@@ -40,6 +47,7 @@ This repository contains materials that may be subject to copyrights held by oth
 
 [[TOC]](#default-toc)
 
+---
 ### <a id="default-contact"></a>Contact
 For any inquiries, feedback, or takedown requests please contact [Dr. Matthew Kisow](https://www.linkedin.com/in/doctorkisow/).
 
