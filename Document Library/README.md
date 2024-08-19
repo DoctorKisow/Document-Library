@@ -273,7 +273,7 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 [^14]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 
 ---
-### <a id="doclib-cybersecurity-kill-chain-tip"></a>Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
+### <a id="doclib-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform"></a>Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
