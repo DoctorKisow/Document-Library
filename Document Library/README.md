@@ -151,7 +151,7 @@ The article emphasizes that effective security relies on the continuous interact
 [^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
 
 ---
-### <a id="doclib-ddos-guide"></a>Guide to DDoS Attacks
+### <a id="doclib-guide-to-ddos-attacks"></a>Guide to DDoS Attacks
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
