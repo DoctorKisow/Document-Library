@@ -337,7 +337,7 @@ In 2013, a story emerged about a U.S. software developer who outsourced his job 
 [^21]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
 
 ---
-### <a id="doclib-limited-cyber-budget"></a>Where to Focus Your Company’s Limited Cybersecurity Budget
+### <a id="doclib-where-to-focus-your-companys-limited-cybersecurity-budget"></a>Where to Focus Your Company’s Limited Cybersecurity Budget
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
