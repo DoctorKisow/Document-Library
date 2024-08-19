@@ -26,7 +26,7 @@
 - [REFERENCES](#doclib-references)
 
 ---
-### <a id="doclib-stop-ransomware"></a>#StopRansomeware Guide
+### <a id="doclib-stop-ransomware-guide"></a>#StopRansomeware Guide
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
