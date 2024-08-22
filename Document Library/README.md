@@ -325,7 +325,7 @@ Cyber-lawyer Scott Shapiro believes there is more to beating hackers than gettin
 [^20]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 
 ---
-### <a id="doclib-programmer-outsources"></a>U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
+### <a id="doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos"></a>U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
