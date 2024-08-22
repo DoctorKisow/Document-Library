@@ -4,6 +4,7 @@
 ## <a id="doclib-toc"></a>Table of Contents
 - [#StopRansomeware Guide](#doclib-stopransomeware-guide)
 - [Android Fragmentation](#doclib-android-fragmentation)
+- [CBROPS: The CIA Triad & Security Approaches](#doclib-cia-triad)
 - [Corporate Policy Development](#doclib-corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
 - [C<sup>2</sup> Matrix](#doclib-c2-matrix)
@@ -53,6 +54,20 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^2]: How many Android devices are on Android 13? Fewer than Android 11, unfortunately. (2023, April 13). Android Authority. https://www.androidauthority.com/android-13-distribution-2023-3312803/
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 
+---
+### <a id="doclib-cia-triad"></a>CBROPS: The CIA Triad & Security Approaches
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+🔗 [CBROPS: The CIA Triad & Security Approaches](https://niccs.cisa.gov/education-training/catalog/skillsoft/cbrops-cia-triad-security-approaches)<br />
+🔗 [What is the CIA Triad?](https://www.fortinet.com/resources/cyberglossary/cia-triad)
+
+The CIA Triad—Confidentiality, Integrity, and Availability—is a foundational security model used to guide the development of information security policies. Confidentiality ensures that sensitive data is only accessible to authorized users, integrity ensures the accuracy and trustworthiness of data, and availability ensures that information is accessible when needed by those who require it. The CIA Triad is critical for assessing vulnerabilities and implementing robust security practices to prevent data breaches, unauthorized access, and service disruptions, helping protect the operational continuity of an organization. [^26], [^27].
+
+[[TOC]](#doclib-toc)
+[^26]: CBROPS: The CIA triad & Security Approaches. (2024, May 19). National Initiative for Cybersecurity Careers and Studies. https://niccs.cisa.gov/education-training/catalog/skillsoft/cbrops-cia-triad-security-approaches
+[^27]: What is the CIA Triad and Why is it important? | Fortinet. (n.d.). Fortinet. https://www.fortinet.com/resources/cyberglossary/cia-triad
 ---
 ### <a id="doclib-corporate-policy-development"></a>Corporate Policy Development
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
