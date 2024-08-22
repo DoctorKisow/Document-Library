@@ -194,7 +194,7 @@ This report outlines the investigation into state-sponsored interference in the 
 [^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
 ---
-### <a id="doclib-mirai"></a>Mirai Confessions, The
+### <a id="doclib-mirai-confessions-the"></a>Mirai Confessions, The
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
