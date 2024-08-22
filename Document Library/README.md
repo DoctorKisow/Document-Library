@@ -4,7 +4,7 @@
 ## <a id="doclib-toc"></a>Table of Contents
 - [#StopRansomeware Guide](#doclib-stopransomeware-guide)
 - [Android Fragmentation](#doclib-android-fragmentation)
-- [Corporate Policy Development](#cdoclib-orporate-policy-development)
+- [Corporate Policy Development](#doclib-corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
 - [C<sup>2</sup> Matrix](#doclib-c2-matrix)
 - [Cybersecurity Kill Chain](#doclib-cybersecurity-kill-chain)
@@ -164,7 +164,7 @@ Occasionally, I receive briefings from the Pennsylvania Department of Homeland S
 [^6]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
 
 ---
-### <a id="doclib-ioc"></a>Indicators of Compromise
+### <a id="doclib-indicators-of-compromise"></a>Indicators of Compromise
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 🔗  [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
