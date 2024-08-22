@@ -313,7 +313,7 @@ This article emphasizes that no single solution can fully address cybersecurity 
 [^19]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
 
 ---
-### <a id="doclib-think-like-hacker"></a>Think Like a Hacker
+### <a id="doclib-think-like-a-hacker"></a>Think Like a Hacker
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
