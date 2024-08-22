@@ -206,7 +206,7 @@ This article details how three teenage friends created Mirai, a potent malware t
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
-### <a id="doclib-nsa-prism"></a>NSA PRISM PowerPoint Slides
+### <a id="doclib-nsa-prism-powerpoint-slides"></a>NSA PRISM PowerPoint Slides
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
