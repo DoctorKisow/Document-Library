@@ -4,7 +4,7 @@
 ## <a id="doclib-toc"></a>Table of Contents
 - [#StopRansomeware Guide](#doclib-stopransomeware-guide)
 - [Android Fragmentation](#doclib-android-fragmentation)
-- [CBROPS: The CIA Triad & Security Approaches](#doclib-cia-triad)
+- [CIA Triad](#doclib-cia-triad)
 - [Corporate Policy Development](#doclib-corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
 - [C<sup>2</sup> Matrix](#doclib-c2-matrix)
