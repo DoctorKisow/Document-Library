@@ -300,7 +300,7 @@ By compiling articles from both peer-reviewed sources and esteemed journalistic 
 [[TOC]](#doclib-toc)
 
 ---
-### <a id="doclib-silver-bullet"></a>There’s No Silver Bullet for Cybersecurity
+### <a id="doclib-theres-no-silver-bullet-for-cybersecurity"></a>There’s No Silver Bullet for Cybersecurity
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
