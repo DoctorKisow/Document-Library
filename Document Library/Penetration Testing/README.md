@@ -4,10 +4,21 @@
 ## <a id="pentest-toc"></a>Table of Contents
 - [PowerSploit](#pentest-powersploit)
 - [Public Penetration Testing Reports](#pentest-publictesitngreports)
-- [RockYou2024](#pentest-rockyou-2024)
+- [Passwords](#pentest-password-lists)
 - [REFERENCES](#pentest-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
+
+---
+### <a id="pentest-password-lists"></a>Passwords
+![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)<br/>
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:link: [Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords)<br/>
+
+Daniel Miessler compiled and published multiple password lists using common and scraped passwords from leaks.
+
+[[TOC]](#pentest-toc)
 
 ---
 ### <a id="pentest-powersploit"></a>PowerSploit
@@ -30,15 +41,6 @@ The GitHub repository "public-pentesting-reports," curated by Julio Cesar Fort, 
 
 [[TOC]](#pentest-toc)
 [^2]: Juliocesarfort. (n.d.). GitHub - juliocesarfort/public-pentesting-reports: A list of public penetration test reports published by several consulting firms and academic security groups. GitHub. https://github.com/juliocesarfort/public-pentesting-reports
-
----
-### <a id="pentest-rockyou-2024"></a>RockYou2024
-![Static Badge](https://img.shields.io/badge/NEW%20Content?style=plastic&logo=apachespark&logoColor=black&color=yellow)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-:link: [RockYou2024](https://github.com/exploit-development/RockYou2024)<br/>
-
-
 
 ---
 ### <a id="pentest-references"></a>REFERENCES
