@@ -4,6 +4,7 @@
 ## <a id="pentest-toc"></a>Table of Contents
 - [PowerSploit](#pentest-powersploit)
 - [Public Penetration Testing Reports](#pentest-publictesitngreports)
+- [RockYou2024](#pentest-rockyou-2024)
 - [REFERENCES](#pentest-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
@@ -25,10 +26,19 @@ PowerSploit is an archived PowerShell post-exploitation framework designed to as
 <br/><br/>
 :link: [Public Penetration Testing Reports](https://github.com/juliocesarfort/public-pentesting-reports)<br/>
 
-The GitHub repository "public-pentesting-reports" curated by Julio Cesar Fort offers a comprehensive list of public penetration testing reports from various consulting firms and academic security groups. It serves as a valuable resource for understanding real-world security vulnerabilities and mitigation strategies by providing access to detailed assessments conducted on a wide range of systems and applications. The repository is maintained by Blaze Information Security and is widely used in the cybersecurity community [^2].
+The GitHub repository "public-pentesting-reports," curated by Julio Cesar Fort, offers a comprehensive list of public penetration testing reports from various consulting firms and academic security groups. It is a valuable resource for understanding real-world security vulnerabilities and mitigation strategies by providing access to detailed assessments conducted on various systems and applications. Blaze Information Security maintains the repository and is widely used in cybersecurity [^2].
 
 [[TOC]](#pentest-toc)
 [^2]: Juliocesarfort. (n.d.). GitHub - juliocesarfort/public-pentesting-reports: A list of public penetration test reports published by several consulting firms and academic security groups. GitHub. https://github.com/juliocesarfort/public-pentesting-reports
+
+---
+### <a id="pentest-rockyou-2024"></a>RockYou2024
+![Static Badge](https://img.shields.io/badge/NEW%20Content?style=plastic&logo=apachespark&logoColor=black&color=yellow)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:link: [RockYou2024](https://github.com/exploit-development/RockYou2024)<br/>
+
+
 
 ---
 ### <a id="pentest-references"></a>REFERENCES
