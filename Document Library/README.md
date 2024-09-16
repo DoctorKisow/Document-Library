@@ -19,6 +19,7 @@
 - :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
 - [Rage Quit](#doclib-rage-quit)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#doclib-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
+- [Social Engineering Techniques, Risks, and Controls](#doclib-social-engineering-techniques-risks-and-controls)
 - 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
 - [There’s No Silver Bullet for Cybersecurity](#doclib-theres-no-silver-bullet-for-cybersecurity)
 - [Think Like a Hacker](#doclib-think-like-a-hacker)
@@ -297,6 +298,20 @@ Threat Intelligence Platforms (TIPs) are emerging technology-supporting organiza
 
 [[TOC]](#doclib-toc)
 [^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
+
+---
+### <a id="doclib-social-engineering-techniques-risks-and-controls"></a>Social Engineering Techniques, Risks and Controls
+![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)<br/>
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+📄 [Social Engineering Techniques, Risks and Controls](Social%20Engineering%20Techniques%2C%20Risks%2C%20and%20Controls.pdf)<br/>
+
+This article describes typical social engineering threat sources and techniques, analyzes the associated information security risks, and outlines a range of preventive, detective, and corrective controls to minimize social engineering risks [^27].
+
+[[TOC]](#doclib-toc)
+[^27]: Hinson, G. (2008). Social Engineering Techniques, risks, and controls. EDPACS, 37(4–5), 32–46. https://doi.org/10.1080/07366980801907540
 
 ---
 ### :file_folder: <a id="stuxnet-articles"></a>[Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
