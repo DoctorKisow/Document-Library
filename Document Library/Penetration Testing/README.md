@@ -4,7 +4,7 @@
 ## <a id="pentest-toc"></a>Table of Contents
 - [PowerSploit](#pentest-powersploit)
 - [Public Penetration Testing Reports](#pentest-publictesitngreports)
-- [Passwords](#pentest-password-lists)
+- [Passwords](#pentest-password-lists) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [REFERENCES](#pentest-references)
 
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
