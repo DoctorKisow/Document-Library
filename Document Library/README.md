@@ -19,7 +19,7 @@
 - :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
 - [Rage Quit](#doclib-rage-quit)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#doclib-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
-- [Social Engineering Techniques, Risks, and Controls](#doclib-social-engineering-techniques-risks-and-controls)
+- [Social Engineering Techniques, Risks, and Controls](#doclib-social-engineering-techniques-risks-and-controls) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
 - [There’s No Silver Bullet for Cybersecurity](#doclib-theres-no-silver-bullet-for-cybersecurity)
 - [Think Like a Hacker](#doclib-think-like-a-hacker)
