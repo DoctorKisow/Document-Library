@@ -11,6 +11,7 @@
 - [Cybersecurity Kill Chain](#doclib-cybersecurity-kill-chain)
 - 📁 [Cybersecurity Regulation](Cybersecurity%20Regulation/README.md)
 - [Difference Between Red, Blue and Purple Teams, The](#doclib-red-blue-purple)
+- 📁 [Advanced Cybersecurity Threats and Exploit Research](Advanced%20Cybersecurity%20Threats%20and%20Exploit%20Research/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Guide to DDoS Attacks](#doclib-guide-to-ddos-attacks)
 - [Indicators of Compromise](#doclib-indicators-of-compromise)
 - [Investigation Into Russian Interference In The 2016 Presidential Election, The](#doclib-investigation-into-russian-interference-in-the-2016-presidential-election-the)
