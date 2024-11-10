@@ -141,7 +141,7 @@ The **InfraGard** website, [infragard.org](infragard.org), serves as the officia
 
 InfraGard.org is essential for those involved in critical infrastructure sectors such as energy, healthcare, finance, and communications. It provides a space for knowledge exchange and cooperative strategies to defend against physical and cyber threats. Membership details, benefits, and upcoming events are also featured, supporting its mission to foster a trusted environment for safeguarding essential national assets through proactive and informed community efforts.
 
-🔴 **IMPORTANT** 🔴
+🔴 **IMPORTANT** 🔴<br />
 *While InfraGard offers valuable resources and opportunities for collaboration, students should be aware that access to this platform may be limited. Membership is typically reserved for vetted individuals and professionals involved in protecting critical infrastructure, and gaining access requires an application and approval process that includes background checks. As such, students may not have immediate access or the ability to participate fully in InfraGard’s offerings. However, they are encouraged to explore publicly available materials and stay informed through open resources provided by other cybersecurity organizations.*
 
 [[TOC]](#authoritative-sources-and-standards-toc)
