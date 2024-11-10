@@ -9,6 +9,7 @@ The Authoritative Sources & Standards folder is a comprehensive repository for d
 - [FBI (Federal Bureau of Investigation)](#authoritative-sources-and-standards-fbi)
 - [IEEE (Institute of Electrical and Electronics Engineers)](#authoritative-sources-and-standards-ieee)
 - [ICANN (Internet Corporation for Assigned Names and Numbers)](#authoritative-sources-and-standards-icann)
+- [Infragard](#authoritative-sources-and-standards-infragard)
 - [ISACA (Information Systems Audit and Control Association)](#authoritative-sources-and-standards-isaca)
 - [ISO (International Organization for Standardization)](#authoritative-sources-and-standards-iso)
 - [MITRE Corporation](#authoritative-sources-and-standards-mitre)
@@ -31,9 +32,9 @@ The Authoritative Sources & Standards folder is a comprehensive repository for d
 <br/><br/>
 🔗 [ASA (American Standards Association)](asa.gov)
 
-The American Standards Association (ASA), accessible at asa.gov, is a pivotal source for national and international standards across multiple industries, including technology, engineering, and cybersecurity. This site provides a centralized hub for developing, coordinating, and implementing standards that ensure quality, safety, and interoperability across various sectors.
+The **American Standards Association (ASA)**, accessible at [asa.gov](asa.gov), is a pivotal source for national and international standards across multiple industries, including technology, engineering, and cybersecurity. This site provides a centralized hub for developing, coordinating, and implementing standards that ensure quality, safety, and interoperability across various sectors.
 
-ASA fosters innovation and maintains consistent standards, offering valuable resources for professionals, researchers, and institutions. It collaborates with other organizations and regulatory bodies to develop guidelines that align with global best practices. Users visiting the website can access documentation, guidelines, and updates on newly established or revised standards essential for maintaining compliance and ensuring operational excellence.
+ASA fosters innovation and maintains consistent standards, offering professionals, researchers, and institutions valuable resources. It collaborates with other organizations and regulatory bodies to develop guidelines that align with global best practices. Users visiting the website can access documentation, procedures, and updates on newly established or revised standards essential for maintaining compliance and ensuring operational excellence.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
@@ -46,7 +47,7 @@ ASA fosters innovation and maintains consistent standards, offering valuable res
 <br/><br/>
 🔗 [CISA (Cybersecurity and Infrastructure Security Agency)](cisa.gov)
 
-The Cybersecurity and Infrastructure Security Agency (CISA) website, cisa.gov, serves as the central hub for resources and information related to the protection and resilience of the nation’s critical infrastructure. CISA provides comprehensive guidance, advisories, and updates on cybersecurity threats, mitigation strategies, and incident response protocols to public and private sector stakeholders. The site emphasizes proactive measures and offers tools, training, and resources to support organizations in safeguarding their operations against cyber threats.
+The **Cybersecurity and Infrastructure Security Agency (CISA)** website, [cisa.gov](cisa.gov), serves as the central hub for resources and information related to the protection and resilience of the nation’s critical infrastructure. CISA provides comprehensive guidance, advisories, and updates on cybersecurity threats, mitigation strategies, and incident response protocols to public and private sector stakeholders. The site emphasizes proactive measures and offers tools, training, and resources to support organizations in safeguarding their operations against cyber threats.
 
 CISA’s website is designed to enhance awareness and preparedness by featuring detailed sections on cybersecurity best practices, infrastructure security, emergency communications, and risk management frameworks. It also acts as an authoritative platform for timely alerts and situational reports to help organizations respond swiftly to emerging cyber incidents. CISA’s focus on collaboration and public-private partnerships reinforces its mission to create a secure and resilient infrastructure environment across the nation.
 
@@ -61,9 +62,9 @@ CISA’s website is designed to enhance awareness and preparedness by featuring 
 <br/><br/>
 🔗 [Cyber Command (U.S. Cyber Command)](cybercom.mil)
 
-The U.S. Cyber Command website, cybercom.mil, serves as the primary digital presence for the United States Cyber Command (USCYBERCOM), a unified combatant command under the Department of Defense. This website provides insights into USCYBERCOM’s mission to ensure the nation’s cybersecurity by planning and executing cyberspace operations to defend U.S. interests and infrastructure against cyber threats. It outlines USCYBERCOM’s role in enhancing joint force readiness and contributing to national security through defensive and offensive cyber capabilities.
+The **U.S. Cyber Command** website, [cybercom.mil](cybercom.mil), serves as the primary digital presence for the United States Cyber Command (USCYBERCOM), a unified combatant command under the Department of Defense. This website provides insights into USCYBERCOM’s mission to ensure the nation’s cybersecurity by planning and executing cyberspace operations to defend U.S. interests and infrastructure against cyber threats. It outlines USCYBERCOM’s role in enhancing joint force readiness and contributing to national security through defensive and offensive cyber capabilities.
 
-Cybercom.mil also highlights key initiatives, partnerships, and strategic goals, emphasizing the importance of collaboration with government agencies, military branches, and international allies. The site provides resources, press releases, and updates detailing ongoing cyber operations, policy developments, and technological advancements to maintain a secure cyberspace. This makes the website a vital resource for understanding the scope of U.S. cyber defense efforts and the strategic framework guiding these operations.
+Cybercom.mil also highlights vital initiatives, partnerships, and strategic goals, emphasizing the importance of collaboration with government agencies, military branches, and international allies. The site provides resources, press releases, and updates detailing ongoing cyber operations, policy developments, and technological advancements to maintain a secure cyberspace. This makes the website a vital resource for understanding the scope of U.S. cyber defense efforts and the strategic framework guiding these operations.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
@@ -76,9 +77,9 @@ Cybercom.mil also highlights key initiatives, partnerships, and strategic goals,
 <br/><br/>
 🔗 [DHS (Department of Homeland Security)](dhs.gov)
 
-The Department of Homeland Security (DHS) website, dhs.gov, is the primary portal for information related to the department’s mission of safeguarding the United States against various threats. The site provides an extensive overview of DHS’s diverse operations, encompassing border security, counterterrorism, cybersecurity, disaster response, and immigration services. It serves as an essential resource for understanding the policies, initiatives, and strategic goals that guide the department’s efforts to ensure national safety and resilience.
+The **Department of Homeland Security (DHS)** website, [dhs.gov](dhs.gov), is the primary portal for information related to the department’s mission of safeguarding the United States against various threats. The site provides an extensive overview of DHS’s diverse operations, encompassing border security, counterterrorism, cybersecurity, disaster response, and immigration services. It serves as an essential resource for understanding the policies, initiatives, and strategic goals that guide the department’s efforts to ensure national safety and resilience.
 
-Visitors to dhs.gov can access timely alerts, reports, and guidance on current issues such as cyber threats, public safety concerns, and emergency preparedness. The site also offers resources for individuals and businesses to enhance their security practices, apply for necessary permits or visas, and participate in public safety programs. The website reinforces its role in coordinating comprehensive security measures that span federal, state, and local levels by showcasing the multifaceted approach DHS employs to protect the nation.
+Visitors to dhs.gov can access timely alerts, reports, and guidance on current issues such as cyber threats, public safety concerns, and emergency preparedness. The site also offers resources for individuals and businesses to enhance security practices, apply for necessary permits or visas, and participate in public safety programs. The website reinforces its role in coordinating comprehensive security measures that span federal, state, and local levels by showcasing the multifaceted approach DHS employs to protect the nation.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
@@ -91,7 +92,7 @@ Visitors to dhs.gov can access timely alerts, reports, and guidance on current i
 <br/><br/>
 🔗 [FBI (Federal Bureau of Investigation)](fbi.gov)
 
-The Federal Bureau of Investigation (FBI) website, fbi.gov, is the primary online source for information about the FBI’s mission, operations, and public services. The site provides comprehensive resources detailing the agency’s efforts to protect the United States from various threats, including terrorism, cybercrime, public corruption, organized crime, and other serious criminal activities. It showcases the FBI’s multifaceted approach to maintaining national security and upholding the rule of law, while also supporting local and state law enforcement agencies through training, intelligence sharing, and collaborative efforts.
+The **Federal Bureau of Investigation (FBI)** website, [fbi.gov](fbi.gov), is the primary online source for information about the FBI’s mission, operations, and public services. The site provides comprehensive resources detailing the agency’s efforts to protect the United States from various threats, including terrorism, cybercrime, public corruption, organized crime, and other serious criminal activities. It showcases the FBI’s multifaceted approach to maintaining national security and upholding the rule of law while supporting local and state law enforcement agencies through training, intelligence sharing, and collaborative efforts.
 
 Fbi.gov features sections that cover current investigations, public safety alerts, crime statistics, and lists of most-wanted individuals. It also offers insights into how the FBI addresses emerging threats, engages in counterintelligence, and leverages technology to combat crime. The website is designed to inform and educate the public, providing transparent access to FBI initiatives, press releases, and community outreach programs that foster trust and cooperation with the American public.
 
@@ -106,7 +107,7 @@ Fbi.gov features sections that cover current investigations, public safety alert
 <br/><br/>
 🔗 [IEEE (Institute of Electrical and Electronics Engineers)](ieee.org)
 
-The IEEE (Institute of Electrical and Electronics Engineers) website, ieee.org, is the main hub for information and resources from one of the world's largest technical professional organizations dedicated to advancing technology for the benefit of humanity. The site serves as a platform for engineers, researchers, and electrical engineering, computer science, and information technology professionals. It provides access to many publications, research articles, industry standards, and professional development opportunities.
+The **IEEE (Institute of Electrical and Electronics Engineers)** website, [ieee.org](ieee.org), is the main hub for information and resources from one of the world's largest technical professional organizations dedicated to advancing technology for the benefit of humanity. The site is a platform for engineers, researchers, and electrical engineering, computer science, and information technology professionals. It provides access to many publications, research articles, industry standards, and professional development opportunities.
 
 IEEE.org highlights the organization’s role in developing globally recognized standards that guide technology and innovation. The website features various sections on conferences, educational programs, membership benefits, and technical societies, fostering collaboration and knowledge-sharing among professionals worldwide. With its wealth of technical resources, ieee.org is an essential destination for staying informed about the latest advancements, trends, and best practices in engineering and technology.
 
@@ -121,9 +122,26 @@ IEEE.org highlights the organization’s role in developing globally recognized 
 <br/><br/>
 🔗 [ICANN (Internet Corporation for Assigned Names and Numbers)](icann.org)
 
-The Internet Corporation for Assigned Names and Numbers (ICANN) website, icann.org, is the official platform for understanding the organization's role in coordinating the global internet’s system of unique identifiers, which includes domain names and IP addresses. ICANN’s mission is to ensure a stable, secure, and unified global internet by managing the Domain Name System (DNS) and facilitating policy development in coordination with stakeholders worldwide.
+The **Internet Corporation for Assigned Names and Numbers (ICANN)** website, [icann.org](icann.org), is the official platform for understanding the organization's role in coordinating the global internet’s system of unique identifiers, which includes domain names and IP addresses. ICANN’s mission is to ensure a stable, secure, and unified global internet by managing the Domain Name System (DNS) and facilitating policy development in coordination with stakeholders worldwide.
 
-The site provides access to resources on domain registration policies, technical functions, and governance models that impact how the internet operates. It also features updates on public meetings, discussions, and initiatives to enhance internet accessibility and security. By navigating icann.org, users can learn about ICANN's commitment to promoting an open and collaborative approach to internet management, fostering trust, and supporting innovation through transparent decision-making and engagement with global internet communities.
+The site provides access to resources on domain registration policies, technical functions, and governance models that impact how the Internet operates. It also features updates on public meetings, discussions, and initiatives to enhance internet accessibility and security. By navigating icann.org, users can learn about ICANN's commitment to promoting an open and collaborative approach to internet management, fostering trust, and supporting innovation through transparent decision-making and engagement with global internet communities.
+
+[[TOC]](#authoritative-sources-and-standards-toc)
+
+
+---
+### <a id="authoritative-sources-and-standards-infragard"></a>Infragard
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+🔗 [Infragard](infragard.org)
+
+The **InfraGard** website, [infragard.org](infragard.org), serves as the official platform for a partnership between the FBI and private sector members dedicated to protecting U.S. critical infrastructure. InfraGard connects industry leaders, security professionals, and government representatives to facilitate the sharing of information and intelligence that enhances national security resilience. The site provides resources on how members can collaborate and gain access to FBI training programs, threat advisories, and other pertinent security information.
+
+InfraGard.org is essential for those involved in critical infrastructure sectors such as energy, healthcare, finance, and communications. It provides a space for knowledge exchange and cooperative strategies to defend against physical and cyber threats. Membership details, benefits, and upcoming events are also featured, supporting its mission to foster a trusted environment for safeguarding essential national assets through proactive and informed community efforts.
+
+*While InfraGard offers valuable resources and opportunities for collaboration, students should be aware that access to this platform may be limited. Membership is typically reserved for vetted individuals and professionals involved in protecting critical infrastructure, and gaining access requires an application and approval process that includes background checks. As such, students may not have immediate access or the ability to participate fully in InfraGard’s offerings. However, they are encouraged to explore publicly available materials and stay informed through open resources provided by other cybersecurity organizations.*
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
@@ -136,7 +154,7 @@ The site provides access to resources on domain registration policies, technical
 <br/><br/>
 🔗 [ISACA (Information Systems Audit and Control Association)](isaca.org)
 
-The ISACA website, isaca.org, is the leading online platform for ISACA, a global professional association for individuals and organizations focused on IT governance, risk management, cybersecurity, and assurance. The site is a comprehensive resource for professionals seeking to enhance their knowledge and expertise in information systems auditing, control, security, and IT management. It features extensive educational content, certifications like CISA, CISM, CRISC, and CGEIT, and training programs that help individuals advance their careers and maintain high practice standards.
+The **ISACA** website, [isaca.org](isaca.org), is the leading online platform for ISACA, a global professional association for individuals and organizations focused on IT governance, risk management, cybersecurity, and assurance. The site is a comprehensive resource for professionals seeking to enhance their knowledge and expertise in information systems auditing, control, security, and IT management. It features extensive educational content, certifications like CISA, CISM, CRISC, and CGEIT, and training programs that help individuals advance their careers and maintain high practice standards.
 
 Isaca.org provides access to valuable industry research, publications, frameworks (such as COBIT for IT governance), and community engagement opportunities for IT professionals. The website also includes information about upcoming conferences, webinars, and local chapter events, creating a hub for continuous learning and professional networking. Through its emphasis on certification and global best practices, ISACA’s site supports professionals and organizations in achieving their IT and cybersecurity goals with credibility and confidence.
 
@@ -151,7 +169,7 @@ Isaca.org provides access to valuable industry research, publications, framework
 <br/><br/>
 🔗 [ISO (International Organization for Standardization)](iso.org)
 
-The International Organization for Standardization (ISO) website, iso.org, is a key resource for information on international standards that promote global industry and technology interoperability, quality, and safety. ISO develops and publishes standards that span various sectors, including technology, manufacturing, healthcare, and cybersecurity, ensuring that products and services are safe, reliable, and meet established global benchmarks. The site provides access to an extensive library of standards, news, and updates on standardization activities.
+The **International Organization for Standardization (ISO)** website, [iso.org](iso.org), is a crucial resource for information on international standards that promote global industry and technology interoperability, quality, and safety. ISO develops and publishes standards that span various sectors, including technology, manufacturing, healthcare, and cybersecurity, ensuring that products and services are safe, reliable, and meet established global benchmarks. The site provides access to an extensive library of standards, news, and updates on standardization activities.
 
 Iso.org serves as a hub for professionals, organizations, and researchers seeking to understand and implement best practices in their industries. It offers resources such as certification guidelines, technical committees, and collaborative opportunities for developing new standards. The site reinforces ISO's mission of fostering international cooperation and supporting innovation and sustainability by providing a framework for consistent quality and operational excellence across borders.
 
@@ -166,24 +184,24 @@ Iso.org serves as a hub for professionals, organizations, and researchers seekin
 <br/><br/>
 🔗 [MITRE Corporation](mitre.org)
 
-The MITRE Corporation website, mitre.org, is an informative platform showcasing the organization's efforts in addressing critical challenges across various domains, including defense, cybersecurity, healthcare, and public sector infrastructure. As a not-for-profit entity operating multiple federally funded research and development centers (FFRDCs), MITRE collaborates with government agencies and industry partners to drive innovation and provide strategic solutions to complex national and global issues.
+The **MITRE Corporation** website, [mitre.org](mitre.org), is an informative platform showcasing the organization's efforts in addressing critical challenges across various domains, including defense, cybersecurity, healthcare, and public sector infrastructure. As a not-for-profit entity operating multiple federally funded research and development centers (FFRDCs), MITRE collaborates with government agencies and industry partners to drive innovation and provide strategic solutions to complex national and global issues.
 
-Visitors to the website can explore MITRE’s research initiatives, technological advancements, and thought leadership in artificial intelligence, cyber resilience, and system engineering. The site also provides access to valuable resources such as publications, frameworks, and best practices, including well-known tools like the MITRE ATT&CK® framework, which is widely used to understand adversary tactics and techniques. Mitre.org's content highlights the organization's commitment to advancing security, technological growth, and public interest.
+Visitors to the website can explore MITRE’s research initiatives, technological advancements, and thought leadership in artificial intelligence, cyber resilience, and system engineering. The site also provides access to valuable resources such as publications, frameworks, and best practices, including well-known tools like the MITRE ATT&CK® framework, which are widely used to understand adversary tactics and techniques. Mitre.org's content highlights the organization's commitment to advancing security, technological growth, and public interest.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
 
 ---
-### <a id="authoritative-sources-and-standards-asa"></a>NIST (National Institute of Standards and Technology)
+### <a id="authoritative-sources-and-standards-nist"></a>NIST (National Institute of Standards and Technology)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
 🔗 [NIST (National Institute of Standards and Technology)](nist.gov)
 
-The National Institute of Standards and Technology (NIST) website, nist.gov, is the official online platform for accessing a wealth of resources on standards, research, and best practices across various scientific and technological fields. NIST, part of the U.S. Department of Commerce, promotes innovation and industrial competitiveness by advancing measurement science, standards, and technology to enhance economic security and improve quality of life. The site provides valuable insights into their work, including research publications, tools, and guidelines that support industries such as cybersecurity, engineering, manufacturing, and healthcare.
+The **National Institute of Standards and Technology (NIST)** website, [nist.gov](nist.gov), is the official online platform for accessing a wealth of resources on standards, research, and best practices across various scientific and technological fields. NIST, part of the U.S. Department of Commerce, promotes innovation and industrial competitiveness by advancing measurement science, standards, and technology to enhance economic security and improve quality of life. The site provides valuable insights into their work, including research publications, tools, and guidelines supporting cybersecurity, engineering, manufacturing, and healthcare.
 
-Nist.gov is a comprehensive source for those looking to access detailed frameworks like the NIST Cybersecurity Framework and guidelines on data protection, encryption standards, and risk management. The website also hosts updates on new projects, events, and collaborations with other federal agencies and private sectors. By visiting nist.gov, users can gain a deeper understanding of how NIST contributes to developing reliable standards and innovative practices that underpin the nation's security, resilience, and technological advancement.
+Nist.gov is a comprehensive source for those looking to access detailed frameworks like the NIST Cybersecurity Framework and guidelines on data protection, encryption standards, and risk management. The website also hosts updates on new projects, events, and collaborations with other federal agencies and private sectors. By visiting nist.gov, users can better understand how NIST contributes to developing reliable standards and innovative practices that underpin the nation's security, resilience, and technological advancement.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
@@ -196,7 +214,7 @@ Nist.gov is a comprehensive source for those looking to access detailed framewor
 <br/><br/>
 🔗 [National Centers of Academic Excellence in Cybersecurity (NCAE-C)](nsa.gov/resources/educators/centers-academic-excellence/)
 
-The National Security Agency (NSA)’s Centers of Academic Excellence (CAE) page, found at nsa.gov/resources/educators/centers-academic-excellence/, provides detailed information about the NSA’s initiative to promote higher education and research in cybersecurity. This program recognizes and designates U.S. colleges and universities that have met stringent criteria for cybersecurity programs, creating a network that fosters expertise, academic excellence, and collaboration in this critical field. The aim is to produce a workforce skilled in safeguarding national security and enhancing the resilience of information systems.
+The **National Security Agency (NSA)’s Centers of Academic Excellence (CAE)** page, found at [nsa.gov/resources/educators/centers-academic-excellence/](nsa.gov/resources/educators/centers-academic-excellence/), provides detailed information about the NSA’s initiative to promote higher education and research in cybersecurity. This program recognizes and designates U.S. colleges and universities that have met stringent criteria for cybersecurity programs, creating a network that fosters expertise, academic excellence, and collaboration in this critical field. The aim is to produce a workforce skilled in safeguarding national security and enhancing the resilience of information systems.
 
 The site outlines the benefits of the CAE program, including curriculum guidance, resources for academic institutions, and partnerships that link students and faculty to industry and government opportunities. It is an essential hub for educators, students, and institutions looking to align their programs with national standards and best practices in cybersecurity education. It supports the development of comprehensive knowledge and skills needed to address complex security challenges.
 
@@ -211,9 +229,9 @@ The site outlines the benefits of the CAE program, including curriculum guidance
 <br/><br/>
 🔗 [National Cybersecurity and Communications Integration Center (NCCIC)](cisa.gov/nccic)
 
-The CISA National Cybersecurity and Communications Integration Center (NCCIC) page, accessible at cisa.gov/nccic, provides information on the NCCIC’s role as a critical national hub for cyber defense, incident response, and communications resilience. The NCCIC is a crucial division within the Cybersecurity and Infrastructure Security Agency (CISA), focusing on defending and securing the nation’s critical infrastructure from cyber threats. The page outlines NCCIC’s mission to proactively monitor and respond to cyber incidents, analyze threat intelligence, and coordinate national-level responses to cyber emergencies.
+The **CISA National Cybersecurity and Communications Integration Center (NCCIC)** page, accessible at [cisa.gov/nccic](cisa.gov/nccic), provides information on the NCCIC’s role as a critical national hub for cyber defense, incident response, and communications resilience. The NCCIC is a crucial division within the Cybersecurity and Infrastructure Security Agency (CISA), focusing on defending and securing the nation’s critical infrastructure from cyber threats. The page outlines NCCIC’s mission to proactively monitor and respond to cyber incidents, analyze threat intelligence, and coordinate national-level responses to cyber emergencies.
 
-The website offers resources for public and private sector partners to access cybersecurity best practices, real-time alerts, and tools to bolster their defensive posture. It emphasizes collaboration among federal agencies, industry leaders, and international partners to foster a unified approach to mitigating cyber risks. The NCCIC’s commitment to protecting vital communication channels and providing expert guidance reinforces its role as an essential component of national security and cyber resilience.
+The website offers public and private sector partners resources to access cybersecurity best practices, real-time alerts, and tools to bolster their defensive posture. It emphasizes collaboration among federal agencies, industry leaders, and international partners to foster a unified approach to mitigating cyber risks. The NCCIC’s commitment to protecting vital communication channels and providing expert guidance reinforces its role as an essential component of national security and cyber resilience.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
@@ -226,7 +244,7 @@ The website offers resources for public and private sector partners to access cy
 <br/><br/>
 🔗 [NSA (National Security Agency)](nsa.gov)
 
-The National Security Agency (NSA) website, nsa.gov, is the primary source of information regarding the agency's mission, activities, and resources focused on national security through global monitoring, collection, and data analysis for intelligence and counterintelligence purposes. The NSA plays a crucial role in protecting U.S. government communications and information systems from cyber threats while maintaining an offensive capability to conduct cyber operations when necessary. The site offers information about the agency's functions, history, and partnerships with various stakeholders, including other government agencies and international allies.
+The **National Security Agency (NSA)** website, [nsa.gov](nsa.gov), is the primary source of information regarding the agency's mission, activities, and resources focused on national security through global monitoring, collection, and data analysis for intelligence and counterintelligence purposes. The NSA plays a crucial role in protecting U.S. government communications and information systems from cyber threats while maintaining an offensive capability to conduct cyber operations when necessary. The site offers information about the agency's functions, history, and partnerships with various stakeholders, including other government agencies and international allies.
 
 In addition to detailing the NSA's role in national defense, nsa.gov provides resources for professionals and students interested in cybersecurity and intelligence, including career opportunities, educational partnerships, and programs such as the Centers of Academic Excellence (CAE). The website also highlights research initiatives, advisories, and tools designed to support cybersecurity efforts and promote a well-informed and skilled workforce equipped to address evolving global security challenges.
 
@@ -241,7 +259,7 @@ In addition to detailing the NSA's role in national defense, nsa.gov provides re
 <br/><br/>
 🔗 [OWASP (Open Web Application Security Project)](owasp.org)
 
-The Open Web Application Security Project (OWASP) website, owasp.org, is an essential resource for developers, cybersecurity professionals, and organizations focused on improving the security of software. OWASP is a globally recognized nonprofit organization that provides free and open resources, tools, and documentation to enhance web application security. The site features widely used resources such as the OWASP Top Ten, which lists the most critical web application security risks, and various project tools that help developers identify and mitigate vulnerabilities.
+The **Open Web Application Security Project (OWASP)** website, [owasp.org](owasp.org), is an essential resource for developers, cybersecurity professionals, and organizations focused on improving the security of software. OWASP is a globally recognized nonprofit organization that provides free and open resources, tools, and documentation to enhance web application security. The site features widely used resources such as the OWASP Top Ten, which lists the most critical web application security risks, and various project tools that help developers identify and mitigate vulnerabilities.
 
 Owasp.org is a community-driven platform where professionals and volunteers collaborate on projects, share knowledge, and contribute to developing security tools and best practices. The website also hosts educational materials, guides, and information about training events and conferences, making it a go-to hub for anyone involved in developing or securing web applications. By offering these resources, OWASP supports a proactive approach to building secure, reliable, and resilient software systems.
 
@@ -256,7 +274,7 @@ Owasp.org is a community-driven platform where professionals and volunteers coll
 <br/><br/>
 🔗 [SANS Institute](sans.org)
 
-The SANS Institute website, sans.org, is a leading platform for cybersecurity training, certification, and research. It offers a wide array of courses and programs designed to equip professionals with practical skills and knowledge in various areas of cybersecurity, including ethical hacking, penetration testing, incident response, and digital forensics. SANS is well-known for its globally recognized GIAC (Global Information Assurance Certification) exams, validating cybersecurity expertise and supporting career advancement.
+The **SANS Institute** website, [sans.org](sans.org), is a leading cybersecurity training, certification, and research platform. It offers a wide array of courses and programs designed to equip professionals with practical skills and knowledge in various areas of cybersecurity, including ethical hacking, penetration testing, incident response, and digital forensics. SANS is well-known for its globally recognized GIAC (Global Information Assurance Certification) exams, validating cybersecurity expertise and supporting career advancement.
 
 The site also features valuable resources such as whitepapers, webcasts, and newsletters that provide insights into emerging threats, best practices, and industry trends. Additionally, SANS hosts community-focused initiatives like the Internet Storm Center and various cybersecurity summits, fostering collaboration and knowledge-sharing among professionals and organizations. The comprehensive offerings on sans.org make it a vital tool for anyone seeking to stay informed, trained, and certified in the ever-evolving field of cybersecurity.
 
@@ -271,7 +289,7 @@ The site also features valuable resources such as whitepapers, webcasts, and new
 <br/><br/>
 🔗 [US-CERT (United States Computer Emergency Readiness Team)](us-cert.cisa.gov)
 
-The US-CERT (United States Computer Emergency Readiness Team) website, accessible at us-cert.cisa.gov, is a critical platform operated by the Cybersecurity and Infrastructure Security Agency (CISA). It provides timely information on cybersecurity threats, vulnerabilities, and incidents, supporting the nation’s efforts to protect critical infrastructure and maintain a resilient digital environment. The website offers alerts, bulletins, and analysis reports that effectively help public and private organizations recognize and respond to emerging cyber risks.
+The **US-CERT (United States Computer Emergency Readiness Team)** website, accessible at [us-cert.cisa.gov](us-cert.cisa.gov), is a critical platform operated by the Cybersecurity and Infrastructure Security Agency (CISA). It provides timely information on cybersecurity threats, vulnerabilities, and incidents, supporting the nation’s efforts to protect critical infrastructure and maintain a resilient digital environment. The website offers alerts, bulletins, and analysis reports that help public and private organizations recognize and respond to emerging cyber risks.
 
 US-CERT also serves as a central point for reporting security incidents and sharing best practices for risk mitigation. It includes guides, toolkits, and advisories that aid organizations in improving their cybersecurity posture and fostering collaboration across sectors. The site’s mission is to enhance the security and resilience of the nation’s cybersecurity framework by providing actionable insights, promoting awareness, and facilitating rapid response to cyber threats.
 
