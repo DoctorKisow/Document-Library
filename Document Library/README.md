@@ -38,7 +38,7 @@
 <br/><br/>
 :page_facing_up: [#StopRansomeware Guide](StopRansomware%20Guide%20508c.pdf)<br/>
 
-The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been declassified (**TLP: CLEAR**) and is permitted to be shared publicly [^1].
+The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been classified ![TLP](https://img.shields.io/badge/TLP-CLEAR-white?style=plastic&logo=gitbook&logoColor=white&color=white) and can be shared publicly [^1].
 
 [[TOC]](#doclib-toc)
 [^1]: CISA (2023, May 23). *#StopRansomware Guide. Cybersecurity and Infrastructure Security Agency.* https://www.cisa.gov/resources-tools/resources/stopransomware-guide
@@ -52,7 +52,7 @@ The Cybersecurity and Infrastructure Security Agency (CISA) has published a comp
 💾 [Android Fragmentation - Excel](Android%20Fragmentation.xlsx)<br/>
 📄 [Android Fragmentation - PDF](Android%20Fragmentation.pdf)<br/>
 
-Android fragmentation refers to the phenomenon within the Android ecosystem where the platform's user base is spread across numerous device manufacturers, models, versions, and customized software implementations. This results in a diverse array of hardware capabilities, software versions, and user experiences across Android devices. Fragmentation can present challenges for developers aiming to create apps that perform consistently across the Android ecosystem, as they must contend with varying screen sizes, resolutions, hardware specifications, and software versions. Additionally, device manufacturers and carriers often introduce their customizations and modifications to the Android operating system, further exacerbating fragmentation by creating inconsistencies in user interfaces and feature sets. Addressing fragmentation requires careful consideration of compatibility, testing, and optimization strategies to ensure a seamless user experience across the diverse range of Android devices [^2],[^3].
+Android fragmentation refers to the phenomenon within the Android ecosystem where the platform's user base is spread across numerous device manufacturers, models, versions, and customized software implementations. This results in various hardware capabilities, software versions, and user experiences across Android devices. Fragmentation can present challenges for developers aiming to create apps that perform consistently across the Android ecosystem, as they must contend with varying screen sizes, resolutions, hardware specifications, and software versions. Additionally, device manufacturers and carriers often introduce customizations and modifications to the Android operating system, further exacerbating fragmentation by creating inconsistencies in user interfaces and feature sets. Addressing fragmentation requires careful consideration of compatibility, testing, and optimization strategies to ensure a seamless user experience across the diverse range of Android devices [^2],[^3].
 
 [[TOC]](#doclib-toc)
 [^2]: How many Android devices are on Android 13? Fewer than Android 11, unfortunately. (2023, April 13). Android Authority. https://www.androidauthority.com/android-13-distribution-2023-3312803/
@@ -79,7 +79,7 @@ The CIA Triad—Confidentiality, Integrity, and Availability—is a foundational
 <br/><br/>
 :link: [NIST Cybersecurity Framework Policy Guide](https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf)
 
-The "NIST Cybersecurity Framework Policy Template Guide" provides organizations with customizable policy templates aligned with the NIST Cybersecurity Framework (CSF). It is designed to help organizations, particularly participants of the Nationwide Cybersecurity Review (NCSR) and members of the Multi-State Information Sharing & Analysis Center (MS-ISAC), develop and enhance their cybersecurity policies. The guide outlines how to apply and adapt the provided templates to specific organizational needs, covering various aspects of cybersecurity such as asset management, risk management, identity management, access control, data security, and incident response. The templates serve as a foundational baseline that can be tailored to meet specific regulatory and operational requirements [^25].
+The "NIST Cybersecurity Framework Policy Template Guide" provides organizations customizable policy templates aligned with the NIST Cybersecurity Framework (CSF). It is designed to help organizations develop and enhance their cybersecurity policies, particularly participants of the Nationwide Cybersecurity Review (NCSR) and members of the Multi-State Information Sharing & Analysis Center (MS-ISAC). The guide outlines how to apply and adapt the templates to specific organizational needs, covering various aspects of cybersecurity, such as asset management, risk management, identity management, access control, data security, and incident response. The templates serve as a foundational baseline that can be tailored to meet specific regulatory and operational requirements [^25].
 
 [[TOC]](#doclib-toc)
 [^25]: NIST Cybersecurity Framework Policy Template Guide. (n.d.). cisecurity.org. Retrieved July 15, 2024, from https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf
@@ -176,7 +176,7 @@ The article emphasizes that effective security relies on the continuous interact
 <br/><br/>
 :page_facing_up: [Guide to DDoS Attacks](Guide-to-DDoS-Attacks-November-2017.pdf)<br/>
 
-Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS) and this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how DDoS attacks work and how to prevent them.  This document has been declassified (**TLP: WHITE**) and is permitted to be shared publicly [^6].
+Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS); this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how they work and how to prevent them.  This document has been classified ![TLP](https://img.shields.io/badge/TLP-CLEAR-white?style=plastic&logo=gitbook&logoColor=white&color=white) and is permitted to be shared publicly [^6].
 
 [[TOC]](#doclib-toc)
 [^6]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
