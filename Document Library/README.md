@@ -4,6 +4,7 @@
 ## <a id="doclib-toc"></a>Table of Contents
 - [#StopRansomeware Guide](#doclib-stopransomeware-guide)
 - [Android Fragmentation](#doclib-android-fragmentation)
+- 📁 [Authoritative Sources and Standards](Authoritative%20Sources%20and%20Standards/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [CIA Triad](#doclib-cia-triad)
 - [Corporate Policy Development](#doclib-corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
