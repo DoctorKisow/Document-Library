@@ -4,7 +4,6 @@ The Authoritative Sources & Standards folder is a comprehensive repository for d
 ## <a id="authoritative-sources-and-standards-toc"></a>Table of Contents
 - [ANSI (American National Standards Institute)](#authoritative-sources-and-standards-ansi)
 - [CISA (Cybersecurity and Infrastructure Security Agency)](#authoritative-sources-and-standards-cisa)
-- [Cyber Command (U.S. Cyber Command)](#authoritative-sources-and-standards-cybercom)
 - [DHS (Department of Homeland Security)](#authoritative-sources-and-standards-dhs)
 - [FBI (Federal Bureau of Investigation)](#authoritative-sources-and-standards-fbi)
 - [IEEE (Institute of Electrical and Electronics Engineers)](#authoritative-sources-and-standards-ieee)
@@ -15,7 +14,6 @@ The Authoritative Sources & Standards folder is a comprehensive repository for d
 - [MITRE Corporation](#authoritative-sources-and-standards-mitre)
 - [NIST (National Institute of Standards and Technology)](#authoritative-sources-and-standards-nist)
 - [National Centers of Academic Excellence in Cybersecurity (NCAE-C)](#authoritative-sources-and-standards-ncae)
-- [National Cybersecurity and Communications Integration Center (NCCIC)](#authoritative-sources-and-standards-nccic)
 - [NSA (National Security Agency)](#authoritative-sources-and-standards-nsa)
 - [OWASP (Open Web Application Security Project)](#authoritative-sources-and-standards-owasp)
 - [SANS Institute](#authoritative-sources-and-standards-sans)
@@ -50,21 +48,6 @@ ANSI fosters innovation and maintains consistent standards, offering professiona
 The **Cybersecurity and Infrastructure Security Agency (CISA)** website, [cisa.gov](https://cisa.gov), serves as the central hub for resources and information related to the protection and resilience of the nation’s critical infrastructure. CISA provides comprehensive guidance, advisories, and updates on cybersecurity threats, mitigation strategies, and incident response protocols to public and private sector stakeholders. The site emphasizes proactive measures and offers tools, training, and resources to support organizations in safeguarding their operations against cyber threats.
 
 CISA’s website is designed to enhance awareness and preparedness by featuring detailed sections on cybersecurity best practices, infrastructure security, emergency communications, and risk management frameworks. It also acts as an authoritative platform for timely alerts and situational reports to help organizations respond swiftly to emerging cyber incidents. CISA’s focus on collaboration and public-private partnerships reinforces its mission to create a secure and resilient infrastructure environment across the nation.
-
-[[TOC]](#authoritative-sources-and-standards-toc)
-
-
----
-### <a id="authoritative-sources-and-standards-cybercom"></a>Cyber Command (U.S. Cyber Command)
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-🔗 [Cyber Command (U.S. Cyber Command)](https://cybercom.mil)
-
-The **U.S. Cyber Command** website, [cybercom.mil](https://cybercom.mil), serves as the primary digital presence for the United States Cyber Command (USCYBERCOM), a unified combatant command under the Department of Defense. This website provides insights into USCYBERCOM’s mission to ensure the nation’s cybersecurity by planning and executing cyberspace operations to defend U.S. interests and infrastructure against cyber threats. It outlines USCYBERCOM’s role in enhancing joint force readiness and contributing to national security through defensive and offensive cyber capabilities.
-
-Cybercom.mil also highlights vital initiatives, partnerships, and strategic goals, emphasizing the importance of collaboration with government agencies, military branches, and international allies. The site provides resources, press releases, and updates detailing ongoing cyber operations, policy developments, and technological advancements to maintain a secure cyberspace. This makes the website a vital resource for understanding the scope of U.S. cyber defense efforts and the strategic framework guiding these operations.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
@@ -218,21 +201,6 @@ Nist.gov is a comprehensive source for those looking to access detailed framewor
 The **National Security Agency (NSA)’s Centers of Academic Excellence (CAE)** page, found at [nsa.gov/resources/educators/centers-academic-excellence/](https://nsa.gov/resources/educators/centers-academic-excellence/), provides detailed information about the NSA’s initiative to promote higher education and research in cybersecurity. This program recognizes and designates U.S. colleges and universities that have met stringent criteria for cybersecurity programs, creating a network that fosters expertise, academic excellence, and collaboration in this critical field. The aim is to produce a workforce skilled in safeguarding national security and enhancing the resilience of information systems.
 
 The site outlines the benefits of the CAE program, including curriculum guidance, resources for academic institutions, and partnerships that link students and faculty to industry and government opportunities. It is an essential hub for educators, students, and institutions looking to align their programs with national standards and best practices in cybersecurity education. It supports the development of comprehensive knowledge and skills needed to address complex security challenges.
-
-[[TOC]](#authoritative-sources-and-standards-toc)
-
-
----
-### <a id="authoritative-sources-and-standards-nccic"></a>National Cybersecurity and Communications Integration Center (NCCIC)
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-🔗 [National Cybersecurity and Communications Integration Center (NCCIC)](https://cisa.gov/nccic)
-
-The **CISA National Cybersecurity and Communications Integration Center (NCCIC)** page, accessible at [cisa.gov/nccic](https://cisa.gov/nccic), provides information on the NCCIC’s role as a critical national hub for cyber defense, incident response, and communications resilience. The NCCIC is a crucial division within the Cybersecurity and Infrastructure Security Agency (CISA), focusing on defending and securing the nation’s critical infrastructure from cyber threats. The page outlines NCCIC’s mission to proactively monitor and respond to cyber incidents, analyze threat intelligence, and coordinate national-level responses to cyber emergencies.
-
-The website offers public and private sector partners resources to access cybersecurity best practices, real-time alerts, and tools to bolster their defensive posture. It emphasizes collaboration among federal agencies, industry leaders, and international partners to foster a unified approach to mitigating cyber risks. The NCCIC’s commitment to protecting vital communication channels and providing expert guidance reinforces its role as an essential component of national security and cyber resilience.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
