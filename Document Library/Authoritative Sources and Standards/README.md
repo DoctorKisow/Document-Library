@@ -2,7 +2,7 @@
 The Authoritative Sources & Standards folder is a comprehensive repository for documents, articles, and resources from leading and trusted cybersecurity, engineering, and technology organizations. Its contents are curated to provide students, faculty, and professionals with direct access to high-quality, peer-reviewed, and policy-defining documents essential for academic research, curriculum development, and professional reference. This collection aims to support informed decision-making, enhance knowledge, and maintain adherence to the latest industry standards and guidelines by consolidating these authoritative resources.
 
 ## <a id="authoritative-sources-and-standards-toc"></a>Table of Contents
-- [ASA (American Standards Association)](#authoritative-sources-and-standards-asa)
+- [ANSI (American National Standards Institute)](#authoritative-sources-and-standards-ansi)
 - [CISA (Cybersecurity and Infrastructure Security Agency)](#authoritative-sources-and-standards-cisa)
 - [Cyber Command (U.S. Cyber Command)](#authoritative-sources-and-standards-cybercom)
 - [DHS (Department of Homeland Security)](#authoritative-sources-and-standards-dhs)
@@ -25,16 +25,16 @@ The Authoritative Sources & Standards folder is a comprehensive repository for d
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
 
 ---
-### <a id="authoritative-sources-and-standards-asa"></a>ASA (American Standards Association)
+### <a id="authoritative-sources-and-standards-ansi"></a>ANSI (American National Standards Institute)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-🔗 [ASA (American Standards Association)](https://asa.gov)
+🔗 [ANSI (American National Standards Institute)]([https://asa.gov](https://www.ansi.org)
 
-The **American Standards Association (ASA)**, accessible at [asa.gov](https://asa.gov), is a pivotal source for national and international standards across multiple industries, including technology, engineering, and cybersecurity. This site provides a centralized hub for developing, coordinating, and implementing standards that ensure quality, safety, and interoperability across various sectors.
+The **ANSI (American National Standards Institute)**, accessible at [wansi.org]([https://asa.gov](https://www.ansi.org), is a pivotal source for national and international standards across multiple industries, including technology, engineering, and cybersecurity. This site provides a centralized hub for developing, coordinating, and implementing standards that ensure quality, safety, and interoperability across various sectors.
 
-ASA fosters innovation and maintains consistent standards, offering professionals, researchers, and institutions valuable resources. It collaborates with other organizations and regulatory bodies to develop guidelines that align with global best practices. Users visiting the website can access documentation, procedures, and updates on newly established or revised standards essential for maintaining compliance and ensuring operational excellence.
+ANSI fosters innovation and maintains consistent standards, offering professionals, researchers, and institutions valuable resources. It collaborates with other organizations and regulatory bodies to develop guidelines that align with global best practices. Users visiting the website can access documentation, procedures, and updates on newly established or revised standards essential for maintaining compliance and ensuring operational excellence.
 
 [[TOC]](#authoritative-sources-and-standards-toc)
 
