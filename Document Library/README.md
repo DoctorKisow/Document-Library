@@ -9,6 +9,7 @@
 - [Corporate Policy Development](#doclib-corporate-policy-development)
 - 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
 - [C<sup>2</sup> Matrix](#doclib-c2-matrix)
+- 📁 [Cybersecurity News and Research Hub](Cybersecurity%20News%20and%20Research%20Hub/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Cybersecurity Kill Chain](#doclib-cybersecurity-kill-chain)
 - 📁 [Cybersecurity Regulation](Cybersecurity%20Regulation/README.md)
 - [Difference Between Red, Blue and Purple Teams, The](#doclib-red-blue-purple)
