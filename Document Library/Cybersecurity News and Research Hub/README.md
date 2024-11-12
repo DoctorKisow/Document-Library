@@ -10,6 +10,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 
 ### SOURCES
 - [BleepingComputer](#cybersecurity-news-and-research-hub-bleepingcomputer)
+- [Ars Technica](#cybersecurity-news-and-research-hub-ars)
 
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
 
@@ -29,6 +30,17 @@ Git configuration files, like /.git/config or .gitlab-ci.yml, are essential for 
 [^1]: Toulas, B. (2024, October 30). Hackers steal 15,000 cloud credentials from exposed Git config files. BleepingComputer. https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/
 
 ## SOURCES
+### <a id="cybersecurity-news-and-research-hub-ars"></a>ArsTechnica
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [ArsTechnica](https://arstechnica.com)
+
+Ars Technica is a trusted technology news site that provides in-depth reporting and expert analysis on a wide range of topics, including cybersecurity, science, policy, AI, and gaming. Founded in 1998, it caters to tech enthusiasts and professionals with detailed articles, product reviews, and investigative features. Known for its focus on accuracy and expert-driven insights, Ars Technica also covers legal and cultural aspects of technology, often diving into complex topics with clarity and rigor. It offers a community forum and optional subscriptions for an ad-free experience and exclusive content, making it a comprehensive resource for staying informed about tech industry trends and developments.
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
 ### <a id="cybersecurity-news-and-research-hub-bleepingcomputer"></a>BleepingComputer
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
