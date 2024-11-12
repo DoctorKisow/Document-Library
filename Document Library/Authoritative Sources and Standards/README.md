@@ -30,9 +30,9 @@ The Authoritative Sources & Standards folder is a comprehensive repository for d
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-🔗 [ANSI (American National Standards Institute)]([https://asa.gov](https://www.ansi.org)
+🔗 [ANSI (American National Standards Institute)](https://www.ansi.org)
 
-The **ANSI (American National Standards Institute)**, accessible at [wansi.org]([https://asa.gov](https://www.ansi.org), is a pivotal source for national and international standards across multiple industries, including technology, engineering, and cybersecurity. This site provides a centralized hub for developing, coordinating, and implementing standards that ensure quality, safety, and interoperability across various sectors.
+The **ANSI (American National Standards Institute)**, accessible at [ansi.org](https://www.ansi.org), is a pivotal source for national and international standards across multiple industries, including technology, engineering, and cybersecurity. This site provides a centralized hub for developing, coordinating, and implementing standards that ensure quality, safety, and interoperability across various sectors.
 
 ANSI fosters innovation and maintains consistent standards, offering professionals, researchers, and institutions valuable resources. It collaborates with other organizations and regulatory bodies to develop guidelines that align with global best practices. Users visiting the website can access documentation, procedures, and updates on newly established or revised standards essential for maintaining compliance and ensuring operational excellence.
 
