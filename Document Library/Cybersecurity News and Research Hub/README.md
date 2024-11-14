@@ -111,7 +111,7 @@ The organization also maintains an Action Center, encouraging individuals to par
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-:link: [Krebs on Security]([https://eff.org](https://krebsonsecurity.com))
+:link: [Krebs on Security](https://krebsonsecurity.com)
 
 Krebs on Security is a cybersecurity blog authored by journalist Brian Krebs, offering in-depth reporting and analysis on cybercrime, data breaches, and information security. Established in 2009 after Krebs's tenure at The Washington Post, the blog has become a reputable source for timely and detailed coverage of cybersecurity incidents and trends. 
 
