@@ -16,6 +16,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Ars Technica](#cybersecurity-news-and-research-hub-ars)
 - [BleepingComputer](#cybersecurity-news-and-research-hub-bleepingcomputer)
 - [EFF Sector](#cybersecurity-news-and-research-hub-eff)
+- [Krebs on Security](#cybersecurity-news-and-research-hub-krebs)
 - [WIRED Magazine](#cybersecurity-news-and-research-hub-wired)
   
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
@@ -51,6 +52,7 @@ Listeners can access episodes directly through the podcast's website or via plat
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
+---
 ### <a id="cybersecurity-news-and-research-hub-nosuchpodcast"></a>No Such Podcast
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -75,6 +77,7 @@ Ars Technica is a trusted technology news site that provides in-depth reporting 
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
+---
 ### <a id="cybersecurity-news-and-research-hub-bleepingcomputer"></a>BleepingComputer
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -86,6 +89,7 @@ BleepingComputer, established in 2004 by Lawrence Abrams, is a comprehensive pla
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
+---
 ### <a id="cybersecurity-news-and-research-hub-eff"></a>Eff Sector
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -101,7 +105,23 @@ The organization also maintains an Action Center, encouraging individuals to par
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
+---
+### <a id="cybersecurity-news-and-research-hub-krebs"></a>Krebs on Security
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [Krebs on Security]([https://eff.org](https://krebsonsecurity.com))
 
+Krebs on Security is a cybersecurity blog authored by journalist Brian Krebs, offering in-depth reporting and analysis on cybercrime, data breaches, and information security. Established in 2009 after Krebs's tenure at The Washington Post, the blog has become a reputable source for timely and detailed coverage of cybersecurity incidents and trends. 
+
+The blog covers a wide array of topics, including malware, cybercriminal activities, and vulnerabilities in digital systems. Krebs's investigative approach often uncovers significant security breaches and provides insights into the methodologies of cybercriminals. For instance, he has reported on the misuse of emergency data requests by hackers to obtain sensitive information from technology companies.
+
+Krebs on Security serves as a valuable resource for cybersecurity professionals, offering detailed analyses and updates on the evolving threat landscape. The blog's comprehensive reporting aids organizations and individuals in understanding and mitigating cybersecurity risks. 
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
 ### <a id="cybersecurity-news-and-research-hub-wired"></a>WIRED Magazine
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
