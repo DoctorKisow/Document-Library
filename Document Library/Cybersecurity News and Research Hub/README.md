@@ -41,7 +41,7 @@ Git configuration files, like /.git/config or .gitlab-ci.yml, are essential for 
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-:link: [Defensive Security Podcast]([https://arstechnica.com](https://defensivesecurity.org))
+:link: [Defensive Security Podcast](https://defensivesecurity.org)
 
 The Defensive Security Podcast is a weekly information security podcast hosted by Jerry Bell and Andrew Kalat. Each episode delves into recent high-profile cybersecurity incidents, data breaches, malware infections, and intrusions, aiming to extract actionable lessons for organizations to enhance their security postures. 
 
@@ -56,7 +56,7 @@ Listeners can access episodes directly through the podcast's website or via plat
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-:link: [No Such Podcast]([https://arstechnica.com](https://www.nsa.gov/podcast/)
+:link: [No Such Podcast](https://www.nsa.gov/podcast/)
 
 The National Security Agency (NSA) has launched "No Such Podcast," a series that offers insights into its missions and operations. The podcast features discussions with NSA experts and leaders on topics such as foreign signals intelligence, cybersecurity, and the agency's historical contributions to national security. Episodes cover subjects like the NSA's role in locating Osama bin Laden, advancements in artificial intelligence, and the experiences of women in cryptography. The series aims to demystify the agency's work and provide a deeper understanding of its impact on global security. 
 
