@@ -5,6 +5,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 
 ## <a id="cybersecurity-news-and-research-hub-toc"></a>Table of Contents
 ### ARTICLES
+- [The Global Surveillance Free-for-All in Mobile Ad Data](#cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
 
@@ -22,6 +23,20 @@ This resource aims to support research, enhance classroom discussions, and provi
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
 
 ## ARTICLES
+
+### <a id="cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data"></a>The Global Surveillance Free-for-All in Mobile Ad Data ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
+
+In this article Brian Krebs examines the widespread availability of mobile advertising data and its implications for personal privacy. He highlights a lawsuit filed by Atlas Data Privacy Corp. against Babel Street, a company offering services that allow users to track mobile devices by their Mobile Advertising ID (MAID). This capability enables the monitoring of individuals' movements without their consent, raising significant privacy concerns. Krebs emphasizes the ease with which such surveillance tools can be accessed and utilized, underscoring the urgent need for stricter regulations to protect individuals' privacy in the digital age. [^2].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+[^2]: The Global Surveillance Free-for-All in Mobile AD data. (2024, October 27). https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
+
+---
 ### <a id="cybersecurity-news-and-research-hub-hackers-steal-15000"></a>Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
