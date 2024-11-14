@@ -8,10 +8,16 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
 
+### PODCASTS
+- [Defensive Security](#cybersecurity-news-and-research-hub-defensive)
+- [No Such Podcast](#cybersecurity-news-and-research-hub-nosuchpodcast)
+  
 ### SOURCES
-- [BleepingComputer](#cybersecurity-news-and-research-hub-bleepingcomputer)
 - [Ars Technica](#cybersecurity-news-and-research-hub-ars)
-
+- [BleepingComputer](#cybersecurity-news-and-research-hub-bleepingcomputer)
+- [EFF Sector](#cybersecurity-news-and-research-hub-eff)
+- [WIRED Magazine](#cybersecurity-news-and-research-hub-wired)
+  
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
 
 ## ARTICLES
@@ -28,6 +34,34 @@ Git configuration files, like /.git/config or .gitlab-ci.yml, are essential for 
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 [^1]: Toulas, B. (2024, October 30). Hackers steal 15,000 cloud credentials from exposed Git config files. BleepingComputer. https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/
+
+## PODCASTS
+### <a id="cybersecurity-news-and-research-hub-defensive"></a>Defensive Security
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [Defensive Security Podcast]([https://arstechnica.com](https://defensivesecurity.org))
+
+The Defensive Security Podcast is a weekly information security podcast hosted by Jerry Bell and Andrew Kalat. Each episode delves into recent high-profile cybersecurity incidents, data breaches, malware infections, and intrusions, aiming to extract actionable lessons for organizations to enhance their security postures. 
+
+The podcast covers a broad spectrum of topics, including vulnerability management, threat intelligence, incident response, and emerging security trends. By analyzing real-world cases, the hosts provide insights into the evolving threat landscape and offer practical advice for security professionals. 
+
+Listeners can access episodes directly through the podcast's website or via platforms such as Apple Podcasts and Spotify. The show is recognized for its engaging discussions and the hosts' ability to distill complex security issues into understandable and actionable information.
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+### <a id="cybersecurity-news-and-research-hub-nosuchpodcast"></a>No Such Podcast
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [No Such Podcast]([https://arstechnica.com](https://www.nsa.gov/podcast/)
+
+The National Security Agency (NSA) has launched "No Such Podcast," a series that offers insights into its missions and operations. The podcast features discussions with NSA experts and leaders on topics such as foreign signals intelligence, cybersecurity, and the agency's historical contributions to national security. Episodes cover subjects like the NSA's role in locating Osama bin Laden, advancements in artificial intelligence, and the experiences of women in cryptography. The series aims to demystify the agency's work and provide a deeper understanding of its impact on global security. 
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
 
 ## SOURCES
 ### <a id="cybersecurity-news-and-research-hub-ars"></a>ArsTechnica
@@ -49,6 +83,37 @@ Ars Technica is a trusted technology news site that provides in-depth reporting 
 :link: [BleepingComputer](https://bleepingcomputer.com)
 
 BleepingComputer, established in 2004 by Lawrence Abrams, is a comprehensive platform dedicated to technology news and computer assistance. It offers a wide array of content, including cybersecurity news, tutorials, and virus removal guides, catering to both novice and experienced users. The site features a robust forum where individuals can seek and provide support on various computer-related issues. Notably, BleepingComputer has been recognized for its contributions to cybersecurity, becoming an associate partner of Europol's NoMoreRansom project in 2018, providing valuable ransomware information and decryption tools.
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+### <a id="cybersecurity-news-and-research-hub-eff"></a>Eff Sector
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [EFF Sector](https://eff.org)
+
+The Electronic Frontier Foundation (EFF) is a leading nonprofit organization dedicated to defending civil liberties in the digital realm. Established in 1990, EFF advocates for user privacy, free expression, and innovation through impact litigation, policy analysis, grassroots activism, and technology development. Its mission is to ensure that technology supports freedom, justice, and innovation for all people worldwide. 
+
+EFF's website serves as a comprehensive resource on digital rights issues, offering updates on topics such as privacy, free speech, and security. It features the Deeplinks Blog, which provides in-depth analyses of current events and legal cases affecting digital freedoms. Additionally, the site offers tools like Privacy Badger and HTTPS Everywhere to help users enhance their online privacy and security.
+
+The organization also maintains an Action Center, encouraging individuals to participate in campaigns and initiatives aimed at protecting digital rights. Through its publications, events, and legal efforts, EFF strives to uphold and advance civil liberties in the digital age.
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+
+### <a id="cybersecurity-news-and-research-hub-wired"></a>WIRED Magazine
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [WIRED Magazine](https://wired.com)
+
+Wired.com is the online platform of Wired magazine, a publication that explores the intersection of technology, science, culture, and business. Established in 1994 as HotWired, it was among the first websites to feature original content and advertising, pioneering the use of banner ads.
+
+The website offers a diverse array of content, including in-depth articles, opinion pieces, and multimedia features. It covers topics such as artificial intelligence, cybersecurity, consumer electronics, and the societal impacts of technological advancements. Regular sections include science, business, culture, and gear reviews, providing readers with comprehensive insights into current trends and developments. 
+
+Wired.com also hosts several blogs and podcasts, facilitating discussions on emerging technologies and their implications. The platform maintains a commitment to high-quality journalism, offering both free and subscription-based content to its audience.
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
