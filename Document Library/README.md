@@ -27,7 +27,7 @@
 - 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
 - [Sun Tzu and the Art of Cyberwar](#doclib-sun-tzu) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [There’s No Silver Bullet for Cybersecurity](#doclib-theres-no-silver-bullet-for-cybersecurity)
-- [Think Like a Hacker](#doclib-think-like-a-hacker)
+- [Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/edit/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos)
 - [Where to Focus Your Company’s Limited Cybersecurity Budget](#doclib-where-to-focus-your-companys-limited-cybersecurity-budget)
 - [REFERENCES](#doclib-references)
@@ -350,18 +350,6 @@ This article emphasizes that no single solution can fully address cybersecurity 
 
 [[TOC]](#doclib-toc)
 [^19]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
-
----
-### <a id="doclib-think-like-a-hacker"></a>Think Like a Hacker
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-:page_facing_up: [Think Like a Hacker](Think%20Like%20a%20Hacker.pdf)<br/>
-
-Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^20].
-
-[[TOC]](#doclib-toc)
-[^20]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 
 ---
 ### <a id="doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos"></a>U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
