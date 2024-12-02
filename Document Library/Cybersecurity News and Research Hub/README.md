@@ -11,7 +11,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 
 ### PODCASTS
 - [Defensive Security](#cybersecurity-news-and-research-hub-defensive)
-- [No Such Podcast](#cybersecurity-news-and-research-hub-nosuchpodcast)
+- [No Such Podcast](#cybersecurity-news-and-research-hub-nosuchpodcast) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
   
 ### SOURCES
 - [Ars Technica](#cybersecurity-news-and-research-hub-ars)
