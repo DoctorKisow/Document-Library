@@ -79,8 +79,7 @@ This article details how three teenage friends created Mirai, a potent malware t
 
 Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^5].
 
-[[TOC]](#doclib-toc)
-
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 
 ## PODCASTS
