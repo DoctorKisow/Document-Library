@@ -27,7 +27,7 @@
 - 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
 - [Sun Tzu and the Art of Cyberwar](#doclib-sun-tzu) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [There’s No Silver Bullet for Cybersecurity](#doclib-theres-no-silver-bullet-for-cybersecurity)
-- [Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#think-like-a-hacker)) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
+- [Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#cybersecurity-news-and-research-hub-think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos)
 - [Where to Focus Your Company’s Limited Cybersecurity Budget](#doclib-where-to-focus-your-companys-limited-cybersecurity-budget)
 - [REFERENCES](#doclib-references)
