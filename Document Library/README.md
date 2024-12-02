@@ -2,7 +2,7 @@
 *This GitHub repository **Cybersecurity Document Library**, curated by Dr. Kisow, is an invaluable resource for students seeking to deepen their understanding and application of cybersecurity principles. Within this meticulously organized digital repository, users will find an array of essential materials, including expertly crafted lecture slides, insightful academic papers, and articles authored by leading experts in the field. The collection also features real-world case studies that shed light on the complexities of securing digital systems. Furthermore, the repository includes thought-provoking articles and documents designed to stimulate critical thinking and enhance practical skills. By exploring this extensive repository, students can effectively navigate the dynamic landscape of cyber threats and emerge as proficient defenders of digital security.*
 
 ## <a id="doclib-toc"></a>Table of Contents
-- [#StopRansomeware Guide](#doclib-stopransomeware-guide)
+- 📁 [Advisories and Investigations](Advisories%20and%20Investigations/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Android Fragmentation](#doclib-android-fragmentation)
 - 📁 [Authoritative Sources and Standards](Authoritative%20Sources%20and%20Standards/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [CIA Triad](#doclib-cia-triad)
@@ -16,7 +16,6 @@
 - 📁 [Advanced Cybersecurity Threats and Exploit Research](Advanced%20Cybersecurity%20Threats%20and%20Exploit%20Research/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Guide to DDoS Attacks](#doclib-guide-to-ddos-attacks)
 - [Indicators of Compromise](#doclib-indicators-of-compromise)
-- [Investigation Into Russian Interference In The 2016 Presidential Election, The](#doclib-investigation-into-russian-interference-in-the-2016-presidential-election-the)
 - [NSA PRISM PowerPoint Slides](#doclib-nsa-prism-powerpoint-slides)
 - :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#doclib-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
@@ -24,19 +23,6 @@
 - [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos)
 - [Where to Focus Your Company’s Limited Cybersecurity Budget](#doclib-where-to-focus-your-companys-limited-cybersecurity-budget)
 - [REFERENCES](#doclib-references)
-
----
-### <a id="doclib-stopransomeware-guide"></a>#StopRansomeware Guide
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-:page_facing_up: [#StopRansomeware Guide](StopRansomware%20Guide%20508c.pdf)<br/>
-
-The Cybersecurity and Infrastructure Security Agency (CISA) has published a comprehensive document on preventing ransomware attacks. This document has been classified ![TLP](https://img.shields.io/badge/TLP-CLEAR-white?style=plastic&logo=gitbook&logoColor=white&color=white) and can be shared publicly [^1].
-
-[[TOC]](#doclib-toc)
-[^1]: CISA (2023, May 23). *#StopRansomware Guide. Cybersecurity and Infrastructure Security Agency.* https://www.cisa.gov/resources-tools/resources/stopransomware-guide
 
 ---
 ### <a id="doclib-android-fragmentation"></a>Android Fragmentation
@@ -194,19 +180,6 @@ Indicators of Compromise (IOCs) are digital clues indicating potential security 
 [^8]: What are Indicators of Compromise (IoCs)? - An Easy Guide. (2024, April 4). SentinelOne. https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
 [^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
 [^23]: Incident Response Training | CISA. (2024, April 2). Cybersecurity and Infrastructure Security Agency CISA. https://www.cisa.gov/resources-tools/programs/Incident-Response-Training
-
----
-### <a id="doclib-investigation-into-russian-interference-in-the-2016-presidential-election-the"></a>Investigation Into Russian Interference In The 2016 Presidential Election, The
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-<br/><br/>
-:page_facing_up: [The Investigation Into Russian Interference In The 2016 Presidential Election Volume I](The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20I%20of%20II.pdf)<br/>
-:page_facing_up: [The Investigation Into Russian Interference In The 2016 Presidential Election Volume II](The%20Investigation%20Into%20Russian%20Interference%20In%20The%202016%20Presidential%20Election%20Volume%20II%20of%20II.pdf)<br/>
-
-This report outlines the investigation into state-sponsored interference in the 2016 presidential election [^17],[^18].
-
-[[TOC]](#doclib-toc)
-[^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
-[^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
 
 ---
 ### <a id="doclib-nsa-prism-powerpoint-slides"></a>NSA PRISM PowerPoint Slides
