@@ -17,7 +17,7 @@
 - [Guide to DDoS Attacks](#doclib-guide-to-ddos-attacks)
 - [Indicators of Compromise](#doclib-indicators-of-compromise)
 - [Investigation Into Russian Interference In The 2016 Presidential Election, The](#doclib-investigation-into-russian-interference-in-the-2016-presidential-election-the)
-- [Mirai Confessions, The](#doclib-mirai-confessions-the)
+- [Mirai Confessions, The](https://github.com/DoctorKisow/Document-Library/tree/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub#mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [NO SUCH PODCAST](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#no-such-podcast) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [NSA PRISM PowerPoint Slides](#doclib-nsa-prism-powerpoint-slides)
 - :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
@@ -214,18 +214,6 @@ This report outlines the investigation into state-sponsored interference in the 
 [[TOC]](#doclib-toc)
 [^17]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume I.* https://www.justice.gov/storage/report_volume1.pdf
 [^18]: Mueller, R. S. (2019, March). *United States. Department of Justice. Report On The Investigation Into Russian Interference In The 2016 Presidential Election, Volume II.* https://www.justice.gov/storage/report_volume2.pdf
-
----
-### <a id="doclib-mirai-confessions-the"></a>Mirai Confessions, The
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-:page_facing_up: [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](https://github.com/DoctorKisow/Document-Library/blob/bbb5ec3eb67f40367630ef84e3a6b633c91c04e6/Documents/The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)<br/>
-
-This article details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^10].
-
-[[TOC]](#doclib-toc)
-[^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
 ### <a id="doclib-nsa-prism-powerpoint-slides"></a>NSA PRISM PowerPoint Slides
