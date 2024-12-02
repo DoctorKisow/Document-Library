@@ -11,6 +11,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Indicators of Compromise](#cybersecurity-news-and-research-hub-indicators-of-compromise) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Men Arrested at Courthouse Say They Were Sent to Test Its Security](#cybersecurity-news-and-research-hub-men-arrested-at-courthouse) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Mirai Confessions, The](#cybersecurity-news-and-research-hub-mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [NSA PRISM PowerPoint Slides](#cybersecurity-news-and-research-nsa-prism-powerpoint-slides) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Rage-Quit](#cybersecurity-news-and-research-hub-rage-quit) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#cybersecurity-news-and-research-hub-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Social Engineering Techniques, Risks, and Controls](#cybersecurity-news-and-research-hub-social-engineering-techniques-risks-and-controls) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
@@ -109,6 +110,44 @@ Two cybersecurity professionals, Justin L. Wynn and Gary Demercurio, were arrest
 📄 [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)<br/>
 
 This article details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^4].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
+### <a id="cybersecurity-news-and-research-nsa-prism-powerpoint-slides"></a>NSA PRISM PowerPoint Slides
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:page_facing_up: [PRISM Case Notations](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Case%20Notations.jpg)<br/>
+:page_facing_up: [PRISM Collection Dataflow](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Dataflow.jpg)<br/>
+:page_facing_up: [PRISM Collection Details](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Details.jpg)<br/>
+:page_facing_up: [PRISM Dates Began](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Dates%20Began.jpg)<br/>
+:page_facing_up: [PRISM Introduction](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Introduction.jpg)<br/>
+:page_facing_up: [PRISM Overview](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Overview.jpg)<br/>
+:page_facing_up: [PRISM Tasking Process](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tasking%20Process.jpg)<br/>
+:page_facing_up: [PRISM Tips](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tips.jpg)<br/>
+:page_facing_up: [PRISM FAA702 Operations](NSA%20PRISM%20PowerPoint%20Slides/Prism-faa702Operations-washingtonpost.jpg)<br/>
+:page_facing_up: [PRISM FAA702 Operations PG4](NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_04.jpg)<br/>
+:page_facing_up: [PRISM FAA702 Operations PG7](NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_07.jpg)<br/>
+
+These are copies of National Security Agency (NSA) PowerPoint slides about its PRISM program, leaked by Edward Snowden. They come from two sources:
+
+1. The Washington Post [^18]
+1. Le Monde [^19]
+
+For additional NSA slides leaked by Edward Snowden [^20], see:
+
+1. XKeyscore: http://archive.org/details/NSA-Powerpoint-Slides-XKeyscore
+1. BOUNDLESSINFORMANT: http://archive.org/details/NSA-Boundless-Informant-Slides
+1. Smartphone Encryption: http://archive.org/details/NSA-Smartphone-Encryption-Slides
+1. Brazil and Mexico: http://archive.org/details/NSA-Brazil-Mexico-Greenwald-Snowden
+1. France: http://archive.org/details/NSA-Powerpoint-Slides-France
+1. Netherlands, Italy, Spain, and Germany: http://archive.org/details/NSA-Boundless-Informant-Europe
+1. Indonesia: https://archive.org/details/Australia-NSA-Indonesia
+1. Defense Cryptologic Platform: http://archive.org/details/NSA-Defense-Cryptologic-Platform
+1. Global Heat: http://archive.org/details/NSA-Global-Heat-Map-Surveillance
+1. Released by Brazilian TV: http://archive.org/details/NSA-Slides-O-Globo-Brazil
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
@@ -331,3 +370,6 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^15]: Incident Response Training | CISA. (2024, April 2). Cybersecurity and Infrastructure Security Agency CISA. https://www.cisa.gov/resources-tools/programs/Incident-Response-Training
 [^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation.
 [^17]: Isles, A. (2023, May 23). Where to Focus Your Company’s Limited Cybersecurity Budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
+[^18]: NSA slides explain the PRISM data-collection program. (n.d.). *The Washington Post.* http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/
+[^19]: Monde, L. (2014, March 21). Espionnage de la NSA : tous les documents publiés par “Le Monde.” Le Monde.fr. http://www.lemonde.fr/technologies/article/2013/10/21/espionnage-de-la-nsa-tous-les-documents-publies-par-le-monde_3499986_651865.html
+[^20]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
