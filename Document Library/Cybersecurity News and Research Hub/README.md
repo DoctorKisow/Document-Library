@@ -20,7 +20,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Defensive Security](#cybersecurity-news-and-research-hub-defensive)
 - [No Such Podcast](#cybersecurity-news-and-research-hub-nosuchpodcast) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
   
-### SOURCES
+### REPUTABLE NEWS SOURCES
 - [Ars Technica](#cybersecurity-news-and-research-hub-ars)
 - [BleepingComputer](#cybersecurity-news-and-research-hub-bleepingcomputer)
 - [EFF Sector](#cybersecurity-news-and-research-hub-eff)
@@ -170,7 +170,7 @@ The National Security Agency (NSA) has launched "No Such Podcast," a series that
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 
-## SOURCES
+## REPUTABLE NEWS SOURCES
 ### <a id="cybersecurity-news-and-research-hub-ars"></a>ArsTechnica
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
