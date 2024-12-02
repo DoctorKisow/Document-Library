@@ -47,7 +47,7 @@ The Authoritative Sources & Standards folder is a comprehensive repository for d
 [[TOC]](#doclib-toc)
 
 ---
-### 📁 <a id="cybersecurity-frameworks"></a>[Cybersecurity Frameworks](Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
+### 📁 <a id="cybersecurity-frameworks"></a>[Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -76,7 +76,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 [[TOC]](#doclib-toc)
 
 ---
-### 📁 <a id="cybersecurity-regulation"></a>[Cybersecurity Regulation](Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
+### 📁 <a id="cybersecurity-regulation"></a>[Cybersecurity Regulation](Cybersecurity%20Regulation/README.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
