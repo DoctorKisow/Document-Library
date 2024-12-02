@@ -5,7 +5,9 @@ This resource aims to support research, enhance classroom discussions, and provi
 
 ## <a id="cybersecurity-news-and-research-hub-toc"></a>Table of Contents
 ### ARTICLES
+- [Control Network Security Lessons from Stuxnet](#cybersecurity-news-and-research-hub-control-lessons) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Difference Between Red, Blue and Purple Teams, The](#cybersecurity-news-and-research-hub-red-blue-purple) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility](#cybersecurity-news-and-research-hub-dutch-engineer) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Global Surveillance Free-for-All in Mobile Ad Data, The](#cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Indicators of Compromise](#cybersecurity-news-and-research-hub-indicators-of-compromise) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
@@ -13,8 +15,10 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Mirai Confessions, The](#cybersecurity-news-and-research-hub-mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [NSA PRISM PowerPoint Slides](#cybersecurity-news-and-research-nsa-prism-powerpoint-slides) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Rage-Quit](#cybersecurity-news-and-research-hub-rage-quit) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [Real Story of Stuxnet, The](#cybersecurity-news-and-research-hub-real-story) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#cybersecurity-news-and-research-hub-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Social Engineering Techniques, Risks, and Controls](#cybersecurity-news-and-research-hub-social-engineering-techniques-risks-and-controls) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [Stuxnet Explained: The First Known Cyberweapon](#cybersecurity-news-and-research-hub-explained) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Sun Tzu and the Art of Cyberwar](#cybersecurity-news-and-research-hub-sun-tzu) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [There's No Silver Bullet For Cybersecurity](#cybersecurity-news-and-research-hub-theres-no-silver-bullet-for-cybersecurity) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Think Like A Hacker](#cybersecurity-news-and-research-hub-think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
@@ -37,6 +41,16 @@ This resource aims to support research, enhance classroom discussions, and provi
 
 ## ARTICLES
 ---
+### <a id="cybersecurity-news-and-research-hub-control-lessons"></a>Control Network Security Lessons from Stuxnet
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+<br/><br/>
+:page_facing_up: [Control Network Security Lessons from Stuxnet](Control%20Network%20Security%20Lessons%20from%20Stuxnet.PDF)<br/>
+
+Industrial protocols, like Modbus, have been targeted by threats such as the Stuxnet virus, which attacked Siemens SCADA systems. Stuxnet's complexity and impact were unprecedented, prompting government responses to protect critical infrastructure. Agencies like the U.S. Department of Homeland Security and the UK's CPNI collaborate with service operators to mitigate risks. Examples of cyber threats include attacks on a Queensland sewage plant and power outages caused by cyber-attacks. Stuxnet highlighted vulnerabilities in industrial control systems, showing the potential for significant disruption in critical sectors [^23].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
 ### <a id="cybersecurity-news-and-research-hub-red-blue-purple"></a>Difference Between Red, Blue, and Purple Teams, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -54,6 +68,17 @@ The article emphasizes that effective security relies on the continuous interact
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
+---
+### <a id="cybersecurity-news-and-research-hub-dutch-engineer"></a>Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+<br/><br/>
+:page_facing_up: [Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility](Dutch%20Engineer%20Used%20Water%20Pump%20to%20Get%20Stuxnet%20Malware%20Into%20Iranian%20Nuclear%20Facility%20-%20SystemTek%20-%20Technology%20news%20and%20information.pdf)<br/>
+
+A Dutch engineer, Erik van Sabben, reportedly used a water pump to deploy the Stuxnet malware into an Iranian nuclear facility, according to a Dutch newspaper investigation. Recruited by Dutch intelligence in collaboration with American and Israeli agencies, van Sabben's technical background and business ties to Iran made him a suitable candidate. The malware caused significant damage to Iran's nuclear centrifuges. Van Sabben died in a motorcycle accident shortly after the attack, and the details of his involvement remain partly disputed [^21].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+--- 
 ### <a id="cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data"></a>Global Surveillance Free-for-All in Mobile Ad Data, The ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -168,6 +193,16 @@ The sudden removal of "left-pad" caused widespread disruption, breaking thousand
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 ---
+### <a id="cybersecurity-news-and-research-hub-real-story"></a>Real Story of Stuxnet, The
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+<br/><br/>
+:page_facing_up: [Real Story of Stuxnet, The ](Real%20Story%20of%20Stuxnet%2C%20The.pdf)<br/>
+
+The article "The Real Story of Stuxnet" from IEEE Spectrum provides a detailed account of the discovery and analysis of the Stuxnet worm, highlighting its unprecedented sophistication and the collaborative efforts of cybersecurity experts to unravel it. Stuxnet, detected in 2010, was a highly advanced cyberweapon designed to disrupt Iran's nuclear enrichment program. It employed four zero-day exploits and targeted Siemens industrial control systems. The investigation revealed its nation-state origins, underscoring a new era of cyber warfare with significant geopolitical implications​ [^24].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
 ### <a id="cybersecurity-news-and-research-hub-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform"></a>Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -187,6 +222,17 @@ Threat Intelligence Platforms (TIPs) are emerging technology-supporting organiza
 📄 [Social Engineering Techniques, Risks and Controls](Social%20Engineering%20Techniques%2C%20Risks%2C%20and%20Controls.pdf)<br/>
 
 This article describes typical social engineering threat sources and techniques, analyzes the associated information security risks, and outlines a range of preventive, detective, and corrective controls to minimize social engineering risks [^9].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
+### <a id="cybersecurity-news-and-research-hub-explained"></a>Stuxnet Explained: The First Known Cyberweapon
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+<br/><br/>
+:link: [Stuxnet Explained: The First Known Cyberweapon](https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html)<br/>
+📄 [Stuxnet Explained: The First Known Cyberweapon](Stuxnet%20Explained%20The%20First%20Known%20Cyberweapon.pdf)<br/>
+
+Stuxnet, discovered in 2010, is recognized as the first known cyber weapon and was specifically designed to target Iran's nuclear facilities. Developed jointly by the United States and Israel, Stuxnet exploited multiple zero-day vulnerabilities in Windows and Siemens industrial software to infect and control programmable logic controllers (PLCs) managing centrifuges at the Natanz uranium enrichment plant. The worm altered the operational speeds of these centrifuges, causing physical damage while masking the changes from monitoring systems. This sophisticated malware demonstrated the potential of cyber attacks to cause real-world physical damage and marked a significant escalation in cyber warfare capabilities​ [^22].
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
@@ -373,3 +419,7 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^18]: NSA slides explain the PRISM data-collection program. (n.d.). *The Washington Post.* http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/
 [^19]: Monde, L. (2014, March 21). Espionnage de la NSA : tous les documents publiés par “Le Monde.” Le Monde.fr. http://www.lemonde.fr/technologies/article/2013/10/21/espionnage-de-la-nsa-tous-les-documents-publies-par-le-monde_3499986_651865.html
 [^20]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
+[^21]: ‌Dean, K. (2024, January 12). Dutch Engineer Used Water Pump to Get Stuxnet Malware Into Iranian Nuclear Facility. SystemTek - Technology News and Information. https://www.systemtek.co.uk/2024/01/dutch-engineer-used-water-pump-to-get-stuxnet-malware-into-iranian-nuclear-facility/
+[^22]: Fruhlinger, J. (2022, August 31). Stuxnet explained: The first known cyberweapon. CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html
+[^23]: Piggin, R. (2011). Control network security lessons from Stuxnet: a UK expert describes how Stuxnet and other threats to industrial infrastructure cyber security are prompting national and international action. Knowledge is power. Control Engineering, 53+. https://link-gale-com.ezproxy.ccac.edu/apps/doc/A260943634/GBIB?u=pitt92539&sid=ebsco&xid=6d94f1f0
+[^24]: Kushner, D. (2024, May 24). The real story of Stuxnet. IEEE Spectrum. https://spectrum.ieee.org/the-real-story-of-stuxnet
