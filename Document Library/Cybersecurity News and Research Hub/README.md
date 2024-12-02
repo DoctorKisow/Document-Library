@@ -9,6 +9,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Men Arrested at Courthouse Say They Were Sent to Test Its Security](#cybersecurity-news-and-research-hub-men-arrested-at-courthouse) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Mirai Confessions, The](#cybersecurity-news-and-research-hub-mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [Rage-Quit](#cybersecurity-news-and-research-hub-rage-quit) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [There's No Silver Bullet For Cybersecurity](#cybersecurity-news-and-research-hub-theres-no-silver-bullet-for-cybersecurity) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Think Like A Hacker](#cybersecurity-news-and-research-hub-think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
@@ -70,6 +71,23 @@ Two cybersecurity professionals, Justin L. Wynn and Gary Demercurio, were arrest
 This article details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^4].
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
+### <a id="cybersecurity-news-and-research-hub-rage-quit"></a>Rage-Quit
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:page_facing_up: [Rage-quit: Coder unpublished 17 lines of JavaScript and "broke the Internet"](Rage-quit%20Coder%20unpublished%2017%20lines%20of%20JavaScript%20and%20%E2%80%9Cbroke%20the%20Internet%E2%80%9D%20Ars%20Technica.pdf)<br/>
+
+This article describes an incident involving a developer named Azer Koçulu, who removed his small but widely-used JavaScript package called "left-pad" from the npm (Node Package Manager) repository. This package, containing only 17 lines of code, was a dependency for many popular projects, including those managed by major companies.
+
+Koçulu's decision to unpublish his package stemmed from a dispute with npm over another package he had named "Kik", which conflicted with the name of a popular messaging app. npm sided with the app's developers, prompting Koçulu to remove all his packages in protest.
+
+The sudden removal of "left-pad" caused widespread disruption, breaking thousands of builds and highlighting the dependency problems within the JavaScript ecosystem. The incident sparked discussions about the reliability of open-source software, dependency management, and the responsibilities of maintainers [^7].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
 
 ---
 ### <a id="cybersecurity-news-and-research-hub-theres-no-silver-bullet-for-cybersecurity"></a>There’s No Silver Bullet for Cybersecurity
@@ -204,3 +222,4 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^4]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 [^5]: Adam, D. (2023, May 20). Think like a hacker. New Scientist International, (Edition 20 May 2023), 43–45.
 [^6]: Vartanian, T. P. (2023, April 26). There’s no silver bullet for cybersecurity. Harvard Business Review. https://hbr.org/2023/04/theres-no-silver-bullet-for-cybersecurity
+[^7]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
