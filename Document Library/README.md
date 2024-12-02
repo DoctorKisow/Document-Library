@@ -228,18 +228,6 @@ This article details how three teenage friends created Mirai, a potent malware t
 [^10]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
 
 ---
-### <a id="doclib-no-such-podcast"></a>NO SUCH PODCAST ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-🔗 [NO SUCH PODCAST](https://www.nsa.gov/Podcast/)<br/>
-“No Such Podcast” will bring people to the table from across the agency to discuss our role as a combat support agency, our foreign signals intelligence and cybersecurity missions, and so much more. NSA is known as home to the world’s greatest codemakers and codebreakers—their stories are now being decoded[^28].
-
-[[TOC]](#doclib-toc)
-[^28]: NO SUCH PODCAST. (2024). Retrieved September 20, 2024, from https://www.nsa.gov/Podcast/
-
----
 ### <a id="doclib-nsa-prism-powerpoint-slides"></a>NSA PRISM PowerPoint Slides
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
