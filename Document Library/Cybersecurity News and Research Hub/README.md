@@ -8,14 +8,17 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Difference Between Red, Blue and Purple Teams, The](#cybersecurity-news-and-research-hub-red-blue-purple) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Global Surveillance Free-for-All in Mobile Ad Data, The](#cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [Indicators of Compromise](#cybersecurity-news-and-research-hub-indicators-of-compromise) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Men Arrested at Courthouse Say They Were Sent to Test Its Security](#cybersecurity-news-and-research-hub-men-arrested-at-courthouse) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Mirai Confessions, The](#cybersecurity-news-and-research-hub-mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
-- [Rage-Quit](#cybersecurity-news-and-research-hub-rage-quit) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [Rage-Quit](#cybersecurity-news-and-research-hub-rage-quit) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#cybersecurity-news-and-research-hub-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Social Engineering Techniques, Risks, and Controls](#cybersecurity-news-and-research-hub-social-engineering-techniques-risks-and-controls) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Sun Tzu and the Art of Cyberwar](#cybersecurity-news-and-research-hub-sun-tzu) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [There's No Silver Bullet For Cybersecurity](#cybersecurity-news-and-research-hub-theres-no-silver-bullet-for-cybersecurity) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Think Like A Hacker](#cybersecurity-news-and-research-hub-think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#cybersecurity-news-and-research-hub-us-programmer-outsources-own-job-to-china-surfs-cat-videos) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [Where to Focus Your Company’s Limited Cybersecurity Budget](#cybersecurity-news-and-research-hub-where-to-focus-your-companys-limited-cybersecurity-budget) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
 
 ### PODCASTS
@@ -76,12 +79,27 @@ Git configuration files, like /.git/config or .gitlab-ci.yml, are essential for 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 ---
+### <a id="cybersecurity-news-and-research-hub-indicators-of-compromise"></a>Indicators of Compromise
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+🔗  [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
+🔗  [What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
+🔗 [IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)<br/>
+📄 [Using Indicators of Compromise (IoC) for Incident Response](CISA%20IoC.pdf)
+
+Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^12],[^13],[^14],[^15].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
 ### <a id="cybersecurity-news-and-research-hub-men-arrested-at-courthouse"></a>Men Arrested at Courthouse Say They Were Sent to Test Its Security
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/><br/>
 📄 [Men Arrested at Courthouse Say They Were Sent to Test Its Security](Men%20Arrested%20at%20Courthouse%20Say%20They%20Were%20Sent%20to%20Test%20Its%20Security%20-%20The%20New%20York%20Times.pdf)
 
 Two cybersecurity professionals, Justin L. Wynn and Gary Demercurio, were arrested for allegedly breaking into the Dallas County Courthouse in Iowa under the claim of testing its security. Hired by Iowa's State Court Administration to assess vulnerabilities in electronic court records, their task allegedly included simulating unauthorized access. However, state officials asserted that physical forced entry was not authorized or anticipated as part of the penetration test. The men, who were found with burglary tools, stated their assignment was to evaluate security and law enforcement response times. Their arrest sparked controversy over the scope and communication of security testing protocols, with the state administration apologizing to local authorities and promising cooperation in the investigation[^3].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 ---
 ### <a id="cybersecurity-news-and-research-hub-mirai-confessions-the"></a>Mirai Confessions, The
@@ -107,6 +125,17 @@ This article describes an incident involving a developer named Azer Koçulu, who
 Koçulu's decision to unpublish his package stemmed from a dispute with npm over another package he had named "Kik", which conflicted with the name of a popular messaging app. npm sided with the app's developers, prompting Koçulu to remove all his packages in protest.
 
 The sudden removal of "left-pad" caused widespread disruption, breaking thousands of builds and highlighting the dependency problems within the JavaScript ecosystem. The incident sparked discussions about the reliability of open-source software, dependency management, and the responsibilities of maintainers [^7].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
+### <a id="cybersecurity-news-and-research-hub-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform"></a>Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:page_facing_up: [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)<br/>
+
+Threat Intelligence Platforms (TIPs) are emerging technology-supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
@@ -171,6 +200,16 @@ In 2013, a story emerged about a U.S. software developer who outsourced his job 
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
+---
+### <a id="cybersecurity-news-and-research-hub-where-to-focus-your-companys-limited-cybersecurity-budget"></a>Where to Focus Your Company’s Limited Cybersecurity Budget
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:page_facing_up: [Where to Focus Your Company’s Limited Cybersecurity Budget](Where%20to%20Focus%20Your%20Company%E2%80%99s%20Limited%20Cybersecurity%20Budget.pdf)<br/>
+
+Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^17].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 ## PODCASTS
 ### <a id="cybersecurity-news-and-research-hub-defensive"></a>Defensive Security
@@ -286,3 +325,9 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^9]: Hinson, G. (2008). Social Engineering Techniques, risks, and controls. EDPACS, 37(4–5), 32–46. https://doi.org/10.1080/07366980801907540
 [^10]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
 [^11]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
+[^12]: CrowdStrike. (2023, August 11). What are Indicators of Compromise? IOC Explained - CrowdStrike. crowdstrike.com. https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/
+[^13]: What are Indicators of Compromise (IoCs)? - An Easy Guide. (2024, April 4). SentinelOne. https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
+[^14]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
+[^15]: Incident Response Training | CISA. (2024, April 2). Cybersecurity and Infrastructure Security Agency CISA. https://www.cisa.gov/resources-tools/programs/Incident-Response-Training
+[^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation.
+[^17]: Isles, A. (2023, May 23). Where to Focus Your Company’s Limited Cybersecurity Budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
