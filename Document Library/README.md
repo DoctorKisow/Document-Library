@@ -23,9 +23,7 @@
 - :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
 - [Rage Quit](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#rage-quit) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#doclib-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
-- [Social Engineering Techniques, Risks, and Controls](#doclib-social-engineering-techniques-risks-and-controls) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
-- [Sun Tzu and the Art of Cyberwar](#doclib-sun-tzu) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [There’s No Silver Bullet for Cybersecurity](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#theres-no-silver-bullet-for-cybersecurity) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [Think Like a Hacker](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#cybersecurity-news-and-research-hub-think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos)
@@ -278,19 +276,6 @@ Threat Intelligence Platforms (TIPs) are emerging technology-supporting organiza
 [^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
 
 ---
-### <a id="doclib-social-engineering-techniques-risks-and-controls"></a>Social Engineering Techniques, Risks and Controls ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-📄 [Social Engineering Techniques, Risks and Controls](Social%20Engineering%20Techniques%2C%20Risks%2C%20and%20Controls.pdf)<br/>
-
-This article describes typical social engineering threat sources and techniques, analyzes the associated information security risks, and outlines a range of preventive, detective, and corrective controls to minimize social engineering risks [^27].
-
-[[TOC]](#doclib-toc)
-[^27]: Hinson, G. (2008). Social Engineering Techniques, risks, and controls. EDPACS, 37(4–5), 32–46. https://doi.org/10.1080/07366980801907540
-
----
 ### :file_folder: <a id="stuxnet-articles"></a>[Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 <br/>
@@ -302,24 +287,6 @@ The peer-reviewed sources offer rigorous analyses and technical details about St
 On the other hand, the journalistic articles provide a narrative-driven perspective, highlighting the human, political, and historical contexts surrounding the Stuxnet attack. These articles often feature interviews with key figures involved in the incident, detailed timelines of events, and the geopolitical ramifications of the attack. They provide an accessible yet thorough understanding of how Stuxnet came to be, its operational specifics, and its fallout on global cybersecurity policies.
 <br/><br/>
 By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.
-
-
-
----
-### <a id="doclib-sun-tzu"></a>Sun Tzu and the Art of Cyberwar ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-
-📄 [Sun Tzu and the Art of Cyberwar](Sun%20Tzu%20and%20the%20Art%20of%20Cyberwar.pdf)<br/>
-
-Roy Wilson's article, "Sun Tzu and the Art of Cyberwar," explores the applicability of Sun Tzu's timeless strategies from The Art of War to modern cyberwarfare. Wilson, a cybersecurity professor with extensive military experience, argues that Sun Tzu’s 13 strategic chapters contain equally relevant insights in cyber contexts, from proactive planning and adaptability to exploiting adversary vulnerabilities. For instance, tactics like “Laying Plans” and “Attack by Stratagem” resonate with concepts like honeypots and botnets, where cyber forces utilize traps or commandeered resources to outmaneuver adversaries. Similarly, principles around knowing one's strengths and weaknesses and harnessing foreknowledge align with cybersecurity defense strategies like threat intelligence and proactive defense.
-
-Wilson further suggests that cyberwarfare requires resilience, secrecy, and adaptability akin to Sun Tzu's teachings on tactical dispositions and maneuvering. The cyber domain emphasizes rapid, stealthy operations, attacking unguarded points and preparing defensive systems against known and unknown threats. Ultimately, Wilson underscores that while cyber warfare diverges from traditional combat, the ancient wisdom of Sun Tzu provides foundational principles that modern cybersecurity professionals can use to anticipate, withstand, and counteract sophisticated cyber threats [^30].
-
-[[TOC]](#doclib-toc)
-[^30]: Wilson, R. (2018). Sun Tzu and the art of Cyberwar. Defense Acquisition Magazine, January-February 2018, 30–34. Retrieved November 11, 2024, from https://www.dau.edu/library/damag/january-february2018/sun-tzu-and-art-cyberwar
 
 ---
 ### <a id="doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos"></a>U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
