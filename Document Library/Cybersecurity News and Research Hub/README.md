@@ -7,6 +7,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 ### ARTICLES
 - [The Global Surveillance Free-for-All in Mobile Ad Data](#cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [Men Arrested at Courthouse Say They Were Sent to Test Its Security](#cybersecurity-news-and-research-hub-men-arrested-at-courthouse) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
 
 ### PODCASTS
@@ -23,7 +24,6 @@ This resource aims to support research, enhance classroom discussions, and provi
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
 
 ## ARTICLES
-
 ### <a id="cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data"></a>The Global Surveillance Free-for-All in Mobile Ad Data ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -34,7 +34,6 @@ This resource aims to support research, enhance classroom discussions, and provi
 In this article Brian Krebs examines the widespread availability of mobile advertising data and its implications for personal privacy. He highlights a lawsuit filed by Atlas Data Privacy Corp. against Babel Street, a company offering services that allow users to track mobile devices by their Mobile Advertising ID (MAID). This capability enables the monitoring of individuals' movements without their consent, raising significant privacy concerns. Krebs emphasizes the ease with which such surveillance tools can be accessed and utilized, underscoring the urgent need for stricter regulations to protect individuals' privacy in the digital age. [^2].
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
-[^2]: The Global Surveillance Free-for-All in Mobile AD data. (2024, October 27). https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
 
 ---
 ### <a id="cybersecurity-news-and-research-hub-hackers-steal-15000"></a>Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
@@ -49,7 +48,17 @@ A large-scale malicious operation, dubbed "EmeraldWhale," has been identified, t
 Git configuration files, like /.git/config or .gitlab-ci.yml, are essential for defining repository paths, branches, remotes, and sometimes include sensitive information such as API keys and passwords. Developers may inadvertently expose these files, especially if the /.git directory is accessible on a website, making it susceptible to automated scans by threat actors. The EmeraldWhale operation utilized open-source tools to scan approximately 500 million IP addresses, identifying exposed configuration files and environment files in Laravel applications. The campaign resulted in the theft of 15,000 cloud credentials from 67,000 URLs, with 2,000 of these credentials validated as active. This incident underscores the critical importance of securing Git repositories and implementing robust secret management practices to prevent unauthorized access and potential data breaches [^1].
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
-[^1]: Toulas, B. (2024, October 30). Hackers steal 15,000 cloud credentials from exposed Git config files. BleepingComputer. https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/
+
+---
+### <a id="cybersecurity-news-and-research-hub-men-arrested-at-courthouse"></a>Men Arrested at Courthouse Say They Were Sent to Test Its Security
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+📄 [Men Arrested at Courthouse Say They Were Sent to Test Its Security](Men%20Arrested%20at%20Courthouse%20Say%20They%20Were%20Sent%20to%20Test%20Its%20Security%20-%20The%20New%20York%20Times.pdf)
+
+Two cybersecurity professionals, Justin L. Wynn and Gary Demercurio, were arrested for allegedly breaking into the Dallas County Courthouse in Iowa under the claim of testing its security. Hired by Iowa's State Court Administration to assess vulnerabilities in electronic court records, their task allegedly included simulating unauthorized access. However, state officials asserted that physical forced entry was not authorized or anticipated as part of the penetration test. The men, who were found with burglary tools, stated their assignment was to evaluate security and law enforcement response times. Their arrest sparked controversy over the scope and communication of security testing protocols, with the state administration apologizing to local authorities and promising cooperation in the investigation[^3].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
 
 ## PODCASTS
 ### <a id="cybersecurity-news-and-research-hub-defensive"></a>Defensive Security
@@ -154,4 +163,6 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 
 ---
 ### <a id="cybersecurity-news-and-research-hub-references"></a>REFERENCES
-
+[^1]: Toulas, B. (2024, October 30). Hackers steal 15,000 cloud credentials from exposed Git config files. BleepingComputer. https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/
+[^2]: The Global Surveillance Free-for-All in Mobile AD data. (2024, October 27). https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
+[^3]: Hauser, C. (2019, September 16). Men Arrested at Courthouse Say They Were Sent to Test Its Security. New York Times. https://www.nytimes.com/2019/09/16/us/iowa-courthouse-burglary.html
