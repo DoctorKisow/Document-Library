@@ -18,7 +18,7 @@
 - [Indicators of Compromise](#doclib-indicators-of-compromise)
 - [Investigation Into Russian Interference In The 2016 Presidential Election, The](#doclib-investigation-into-russian-interference-in-the-2016-presidential-election-the)
 - [Mirai Confessions, The](#doclib-mirai-confessions-the)
-- [NO SUCH PODCAST](#doclib-no-such-podcast) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [NO SUCH PODCAST](https://github.com/DoctorKisow/Document-Library/blob/main/Document%20Library/Cybersecurity%20News%20and%20Research%20Hub/README.md#no-such-podcast) ![Moved](https://img.shields.io/badge/Moved-blue?style=plastic)
 - [NSA PRISM PowerPoint Slides](#doclib-nsa-prism-powerpoint-slides)
 - :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
 - [Rage Quit](#doclib-rage-quit)
