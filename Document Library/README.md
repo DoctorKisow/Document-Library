@@ -95,7 +95,7 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 [[TOC]](#doclib-toc)
 
 ---
-### 📁 <a id="penetration-testing"></a> [Penetration Testing](./Penetration%20Testing/Penetration%20Testing.md)
+### 📁 <a id="penetration-testing"></a> [Penetration Testing](Penetration%20Testing/README.md)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/>
 
