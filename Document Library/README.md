@@ -2,26 +2,19 @@
 *This GitHub repository **Cybersecurity Document Library**, curated by Dr. Kisow, is an invaluable resource for students seeking to deepen their understanding and application of cybersecurity principles. Within this meticulously organized digital repository, users will find an array of essential materials, including expertly crafted lecture slides, insightful academic papers, and articles authored by leading experts in the field. The collection also features real-world case studies that shed light on the complexities of securing digital systems. Furthermore, the repository includes thought-provoking articles and documents designed to stimulate critical thinking and enhance practical skills. By exploring this extensive repository, students can effectively navigate the dynamic landscape of cyber threats and emerge as proficient defenders of digital security.*
 
 ## <a id="doclib-toc"></a>Table of Contents
+- 📁 [Advanced Cybersecurity Threats and Exploit Research](Advanced%20Cybersecurity%20Threats%20and%20Exploit%20Research/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - 📁 [Advisories and Investigations](Advisories%20and%20Investigations/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
-- [Android Fragmentation](#doclib-android-fragmentation)
 - 📁 [Authoritative Sources and Standards](Authoritative%20Sources%20and%20Standards/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
+- 📁 [Cybersecurity News and Research Hub](Cybersecurity%20News%20and%20Research%20Hub/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- 📁 [Cybersecurity Regulation](Cybersecurity%20Regulation/README.md)
+- 📁 [Penetration Testing](Penetration%20Testing/README.md)
+- 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
+- [Android Fragmentation](#doclib-android-fragmentation)
+- [C<sup>2</sup> Matrix](#doclib-c2-matrix)
 - [CIA Triad](#doclib-cia-triad)
 - [Corporate Policy Development](#doclib-corporate-policy-development)
-- 📁 [Cybersecurity Frameworks](Cybersecurity%20Frameworks/README.md)
-- [C<sup>2</sup> Matrix](#doclib-c2-matrix)
-- 📁 [Cybersecurity News and Research Hub](Cybersecurity%20News%20and%20Research%20Hub/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Cybersecurity Kill Chain](#doclib-cybersecurity-kill-chain)
-- 📁 [Cybersecurity Regulation](Cybersecurity%20Regulation/README.md)
-- [Difference Between Red, Blue and Purple Teams, The](#doclib-red-blue-purple)
-- 📁 [Advanced Cybersecurity Threats and Exploit Research](Advanced%20Cybersecurity%20Threats%20and%20Exploit%20Research/README.md) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
-- [Guide to DDoS Attacks](#doclib-guide-to-ddos-attacks)
-- [Indicators of Compromise](#doclib-indicators-of-compromise)
-- [NSA PRISM PowerPoint Slides](#doclib-nsa-prism-powerpoint-slides)
-- :file_folder: [Penetration Testing](Penetration%20Testing/README.md)
-- [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#doclib-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform)
-- 📁 [Stuxnet Articles](Stuxnet%20Articles/README.md)
-- [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos)
-- [Where to Focus Your Company’s Limited Cybersecurity Budget](#doclib-where-to-focus-your-companys-limited-cybersecurity-budget)
 - [REFERENCES](#doclib-references)
 
 ---
@@ -40,6 +33,20 @@ Android fragmentation refers to the phenomenon within the Android ecosystem wher
 [^2]: How many Android devices are on Android 13? Fewer than Android 11, unfortunately. (2023, April 13). Android Authority. https://www.androidauthority.com/android-13-distribution-2023-3312803/
 [^3]: Bradshaw, K. (2023, April 13). Android 13 has doubled in market share since January, more stats. 9to5Google. https://9to5google.com/2023/04/13/android-13-market-share-stats/
 [^29]: Android Distribution Chart – updated on May 2024. (2024, May 1). Composables UI. https://composables.com/android-distribution-chart
+
+---
+### <a id="doclib-c2-matrix"></a>C<sup>2</sup> Matrix
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+🔗 [C<sup>2</sup> Matrix](https://www.thec2matrix.com)
+<br/>
+
+The C<sup>2</sup> Matrix website is a comprehensive resource for understanding Command and Control (C<sup>2</sup>) frameworks used in cybersecurity. It offers detailed information on various C<sup>2</sup> frameworks, including installation guides, usage instructions, and setup for attack infrastructure in Red and Purple Team exercises. The site features a maintained Google Sheets matrix, lab environment details, and resources for new users. Contributions and feedback are encouraged to enhance the repository [^24].
+
+A link to a Google spreadsheet containing a list of available command control servers with different capabilities is listed in a matrix (p. 354).
+
+[[TOC]](#doclib-toc)
+[^24]: The C2 Matrix | C2 Matrix. (n.d.). https://www.thec2matrix.com/
 
 ---
 ### <a id="doclib-cia-triad"></a>CIA Triad
@@ -68,6 +75,21 @@ The "NIST Cybersecurity Framework Policy Template Guide" provides organizations 
 [^25]: NIST Cybersecurity Framework Policy Template Guide. (n.d.). cisecurity.org. Retrieved July 15, 2024, from https://www.cisecurity.org/-/jssmedia/Project/cisecurity/cisecurity/data/media/files/uploads/2021/11/NIST-Cybersecurity-Framework-Policy-Template-Guide-v2111Online.pdf
 
 ---
+### <a id="doclib-cybersecurity-kill-chain"></a>Cybersecurity Kill Chain
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:link: [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)<br/>
+:link: [Cyber Kill Chain - SANS](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
+<br/>
+
+A cybersecurity kill chain is a framework used to understand the stages of a cyberattack, from initial reconnaissance to the final goal of the attacker. Developed by Lockheed Martin, the Cyber Kill Chain® outlines seven steps: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C<sup>2</sup>), and Actions on Objectives. These steps help organizations identify and counteract threats at each phase of an attack. The model is designed to enhance an organization's defense mechanisms by providing a structured approach to analyze and mitigate cyber threats. The SANS Institute's analysis compares the Cyber Kill Chain with the MITRE ATT&CK framework, emphasizing that while both models aim to improve cybersecurity, the Cyber Kill Chain focuses on the linear progression of an attack, making it a valuable tool for understanding and disrupting the adversarial process.[^4], [^5].
+
+[[TOC]](#doclib-toc)
+[^4]: Cyber Kill chain. (n.d.). Lockheed Martin. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+[^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
+
+---
 ### :file_folder: <a id="cybersecurity-frameworks"></a>[Cybersecurity Frameworks](./Cybersecurity%20Frameworks/Cybersecurity%20Frameworks.md)
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -83,35 +105,6 @@ Cybersecurity frameworks are structured sets of guidelines, best practices, and 
 * OWASP WSTG Testing Framework
 
 [[TOC]](#doclib-toc)
-
----
-### <a id="doclib-c2-matrix"></a>C<sup>2</sup> Matrix
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-🔗 [C<sup>2</sup> Matrix](https://www.thec2matrix.com)
-<br/>
-
-The C<sup>2</sup> Matrix website is a comprehensive resource for understanding Command and Control (C<sup>2</sup>) frameworks used in cybersecurity. It offers detailed information on various C<sup>2</sup> frameworks, including installation guides, usage instructions, and setup for attack infrastructure in Red and Purple Team exercises. The site features a maintained Google Sheets matrix, lab environment details, and resources for new users. Contributions and feedback are encouraged to enhance the repository [^24].
-
-A link to a Google spreadsheet containing a list of available command control servers with different capabilities is listed in a matrix (p. 354).
-
-[[TOC]](#doclib-toc)
-[^24]: The C2 Matrix | C2 Matrix. (n.d.). https://www.thec2matrix.com/
-
----
-### <a id="doclib-cybersecurity-kill-chain"></a>Cybersecurity Kill Chain
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-:link: [Cyber Kill Chain - Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)<br/>
-:link: [Cyber Kill Chain - SANS](https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/)
-<br/>
-
-A cybersecurity kill chain is a framework used to understand the stages of a cyberattack, from initial reconnaissance to the final goal of the attacker. Developed by Lockheed Martin, the Cyber Kill Chain® outlines seven steps: Reconnaissance, Weaponization, Delivery, Exploitation, Installation, Command and Control (C<sup>2</sup>), and Actions on Objectives. These steps help organizations identify and counteract threats at each phase of an attack. The model is designed to enhance an organization's defense mechanisms by providing a structured approach to analyze and mitigate cyber threats. The SANS Institute's analysis compares the Cyber Kill Chain with the MITRE ATT&CK framework, emphasizing that while both models aim to improve cybersecurity, the Cyber Kill Chain focuses on the linear progression of an attack, making it a valuable tool for understanding and disrupting the adversarial process.[^4], [^5].
-
-[[TOC]](#doclib-toc)
-[^4]: Cyber Kill chain. (n.d.). Lockheed Martin. https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
-[^5]: Vandeleur, J. (2024, January 31). Cyber Kill Chain, MITRE ATT&CK, and Purple Team | SANS Institute. https://www.sans.org/blog/cyber-kill-chain-mitre-attack-purple-team/
 
 ---
 ### :file_folder: <a id="cybersecurity-regulation"></a>[Cybersecurity Regulation](./Cybersecurity%20Regulation/Cybersecurity%20Regulation.md)
@@ -133,96 +126,6 @@ Cybersecurity regulation encompasses a set of rules, standards, and guidelines e
 [[TOC]](#doclib-toc)
 
 ---
-### <a id="doclib-red-blue-purple"></a>Difference Between Red, Blue, and Purple Teams, The
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-:link: [The Difference Between Red, Blue, and Purple Teams](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
-
-This article explains the roles of these teams in cybersecurity:
-
-* Red Teams simulate real-world attackers to identify vulnerabilities.
-* Blue Teams focus on defending against these attacks and enhancing security measures.
-* Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
-
-The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^15].
-
-[[TOC]](#doclib-toc)
-[^15]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
-
----
-### <a id="doclib-guide-to-ddos-attacks"></a>Guide to DDoS Attacks
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-:page_facing_up: [Guide to DDoS Attacks](Guide-to-DDoS-Attacks-November-2017.pdf)<br/>
-
-Occasionally, I receive briefings from the Pennsylvania Department of Homeland Security (PADHS); this is one of those rare times I can share this information with you.  This excellent guide to DDoS attacks from PADHS shows how they work and how to prevent them.  This document has been classified ![TLP](https://img.shields.io/badge/TLP-CLEAR-white?style=plastic&logo=gitbook&logoColor=white&color=white) and is permitted to be shared publicly [^6].
-
-[[TOC]](#doclib-toc)
-[^6]: MS-IASC. (2017, November). *TLP: White Guide to DDoS attacks November 2017.* https://www.cisecurity.org/wp-content/uploads/2017/03/Guide-to-DDoS-Attacks-November-2017.pdf
-
----
-### <a id="doclib-indicators-of-compromise"></a>Indicators of Compromise
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-🔗  [IOC Explained - CrowdStrike](https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/)<br/>
-🔗  [What are Indicators of Compromise (IoCs)? - An Easy Guide](https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/)<br/>
-🔗 [IOCS: Indicators of compromise explained](https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html)<br/>
-📄 [Using Indicators of Compromise (IoC) for Incident Response](CISA%20IoC.pdf)
-
-Indicators of Compromise (IOCs) are digital clues indicating potential security breaches within a system or network. These clues, which include unusual network traffic, suspicious file changes, and abnormal user activity, help cybersecurity professionals detect and respond to malicious activities. IOCs are critical for identifying compromised systems and understanding the tactics of attackers. They differ from Indicators of Attack (IOAs), which focus on detecting ongoing attacks and understanding the attackers' intent and methods. Effective IOC monitoring combines human expertise with advanced technologies to enhance detection and response capabilities [^7],[^8],[^9],[^23].
-
-[[TOC]](#doclib-toc)
-[^7]: CrowdStrike. (2023, August 11). What are Indicators of Compromise? IOC Explained - CrowdStrike. crowdstrike.com. https://www.crowdstrike.com/cybersecurity-101/indicators-of-compromise/
-[^8]: What are Indicators of Compromise (IoCs)? - An Easy Guide. (2024, April 4). SentinelOne. https://www.sentinelone.com/cybersecurity-101/what-are-indicators-of-compromise-iocs-a-comprehensive-guide/
-[^9]: IOCS: Indicators of compromise explained | Splunk. (n.d.). Splunk. https://www.splunk.com/en_us/blog/learn/ioc-indicators-of-compromise.html
-[^23]: Incident Response Training | CISA. (2024, April 2). Cybersecurity and Infrastructure Security Agency CISA. https://www.cisa.gov/resources-tools/programs/Incident-Response-Training
-
----
-### <a id="doclib-nsa-prism-powerpoint-slides"></a>NSA PRISM PowerPoint Slides
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-:page_facing_up: [PRISM Case Notations](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Case%20Notations.jpg)<br/>
-:page_facing_up: [PRISM Collection Dataflow](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Dataflow.jpg)<br/>
-:page_facing_up: [PRISM Collection Details](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Collection%20Details.jpg)<br/>
-:page_facing_up: [PRISM Dates Began](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Dates%20Began.jpg)<br/>
-:page_facing_up: [PRISM Introduction](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Introduction.jpg)<br/>
-:page_facing_up: [PRISM Overview](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Overview.jpg)<br/>
-:page_facing_up: [PRISM Tasking Process](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tasking%20Process.jpg)<br/>
-:page_facing_up: [PRISM Tips](NSA%20PRISM%20PowerPoint%20Slides/PRISM-Tips.jpg)<br/>
-:page_facing_up: [PRISM FAA702 Operations](NSA%20PRISM%20PowerPoint%20Slides/Prism-faa702Operations-washingtonpost.jpg)<br/>
-:page_facing_up: [PRISM FAA702 Operations PG4](NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_04.jpg)<br/>
-:page_facing_up: [PRISM FAA702 Operations PG7](NSA%20PRISM%20PowerPoint%20Slides/prism-entier_Page_07.jpg)<br/>
-
-These are copies of National Security Agency (NSA) PowerPoint slides about its PRISM program, leaked by Edward Snowden. They come from two sources:
-
-1. The Washington Post [^11]
-1. Le Monde [^12]
-
-For additional NSA slides leaked by Edward Snowden [^13], see:
-
-1. XKeyscore: http://archive.org/details/NSA-Powerpoint-Slides-XKeyscore
-1. BOUNDLESSINFORMANT: http://archive.org/details/NSA-Boundless-Informant-Slides
-1. Smartphone Encryption: http://archive.org/details/NSA-Smartphone-Encryption-Slides
-1. Brazil and Mexico: http://archive.org/details/NSA-Brazil-Mexico-Greenwald-Snowden
-1. France: http://archive.org/details/NSA-Powerpoint-Slides-France
-1. Netherlands, Italy, Spain, and Germany: http://archive.org/details/NSA-Boundless-Informant-Europe
-1. Indonesia: https://archive.org/details/Australia-NSA-Indonesia
-1. Defense Cryptologic Platform: http://archive.org/details/NSA-Defense-Cryptologic-Platform
-1. Global Heat: http://archive.org/details/NSA-Global-Heat-Map-Surveillance
-1. Released by Brazilian TV: http://archive.org/details/NSA-Slides-O-Globo-Brazil
-
-[[TOC]](#doclib-toc)
-[^11]: NSA slides explain the PRISM data-collection program. (n.d.). *The Washington Post.* http://www.washingtonpost.com/wp-srv/special/politics/prism-collection-documents/
-[^12]: Monde, L. (2014, March 21). Espionnage de la NSA : tous les documents publiés par “Le Monde.” Le Monde.fr. http://www.lemonde.fr/technologies/article/2013/10/21/espionnage-de-la-nsa-tous-les-documents-publies-par-le-monde_3499986_651865.html
-[^13]: U.S. National Security Agency (NSA). (2013, July 2). *NSA PRISM PowerPoint slides : U.S. National Security Agency (NSA): Free Download, borrow, and streaming.* Internet Archive. https://archive.org/details/NSA-PRISM-Slides
-
----
 ### 📁 <a id="penetration-testing"></a> [Penetration Testing](./Penetration%20Testing/Penetration%20Testing.md)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 <br/>
@@ -230,55 +133,6 @@ For additional NSA slides leaked by Edward Snowden [^13], see:
 Penetration testing and penetration testing tools are essential components in evaluating and enhancing an organization's cybersecurity defenses. This folder contains a wealth of information, including detailed methodologies, best practices, and standards for conducting effective penetration tests. It outlines systematic approaches for identifying vulnerabilities, exploiting weaknesses, and assessing the security posture of digital assets. Additionally, the folder includes comprehensive guides on various penetration testing tools, offering insights into their functionalities, configurations, and use cases. By leveraging these resources, cybersecurity professionals can strengthen their ability to identify and mitigate potential threats, ensuring robust protection of critical systems and data.
 
 [[TOC]](#doclib-toc)
-
----
-### <a id="doclib-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform"></a>Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-:page_facing_up: [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](Seven%20Ways%20to%20Apply%20the%20Cyber%20Kill%20Chain%20with%20a%20Threat%20Intelligence%20Platform.pdf)<br/>
-
-Threat Intelligence Platforms (TIPs) are emerging technology-supporting organizations as they consume and then act on cyber intelligence. Lockheed Martin believes that a TIP helps an organization transition from relying solely on external intelligence sources to producing their intelligence based on what is observed in their environment. The  result is elevated cyber maturity and improved resilience against attackers [^16].
-
-[[TOC]](#doclib-toc)
-[^16]: Corporation, L. M. (2015). Seven Ways to Apply the Cyber Kill Chain® with a Threat Intelligence Platform. In L. M. Corporation (Ed.), (p. 12): Lockheed Martin Corporation. 
-
----
-### :file_folder: <a id="stuxnet-articles"></a>[Stuxnet Articles](./Stuxnet%20Articles/Stuxnet%20Articles.md)
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-<br/>
-
-Stuxnet Articles contains a comprehensive collection of articles focused on Stuxnet, the infamous computer worm that targeted Iran's nuclear facilities. These articles are carefully curated from peer-reviewed academic sources and reputable journalistic publications. The selection ensures a balanced and credible exploration of Stuxnet, providing insights from both scholarly research and investigative journalism.
-<br/><br/>
-The peer-reviewed sources offer rigorous analyses and technical details about Stuxnet's design, deployment, and impact on cybersecurity. These articles delve into the sophisticated nature of the worm, its mechanisms of propagation, and the unprecedented ways it exploited vulnerabilities in industrial control systems. Additionally, they examine the broader implications of Stuxnet for cybersecurity, international relations, and the future of cyber warfare.
-<br/><br/>
-On the other hand, the journalistic articles provide a narrative-driven perspective, highlighting the human, political, and historical contexts surrounding the Stuxnet attack. These articles often feature interviews with key figures involved in the incident, detailed timelines of events, and the geopolitical ramifications of the attack. They provide an accessible yet thorough understanding of how Stuxnet came to be, its operational specifics, and its fallout on global cybersecurity policies.
-<br/><br/>
-By compiling articles from both peer-reviewed sources and esteemed journalistic outlets, this folder aims to offer a multidimensional understanding of Stuxnet. It is an invaluable resource for students, researchers, and professionals seeking to grasp the complexities of this landmark event in cybersecurity history.
-
----
-### <a id="doclib-us-programmer-outsources-own-job-to-china-surfs-cat-videos"></a>U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
-![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-<br/><br/>
-:link: [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
-
-In 2013, a story emerged about a U.S. software developer who outsourced his job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the Internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^21].
-
-[[TOC]](#doclib-toc)
-[^21]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
-
----
-### <a id="doclib-where-to-focus-your-companys-limited-cybersecurity-budget"></a>Where to Focus Your Company’s Limited Cybersecurity Budget
-![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
-![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
-<br/><br/>
-:page_facing_up: [Where to Focus Your Company’s Limited Cybersecurity Budget](Where%20to%20Focus%20Your%20Company%E2%80%99s%20Limited%20Cybersecurity%20Budget.pdf)<br/>
-
-Please consider reading this article. Even though this article is only seven pages long, it contains a lot of good information about how small companies can tailor their limited cyber security budget to protect their organizations [^22].
-
-[[TOC]](#doclib-toc)
-[^22]: Isles, A. (2023, May 23). Where to Focus Your Company’s Limited Cybersecurity Budget. Harvard Business Review. https://hbr.org/2023/05/where-to-focus-your-companys-limited-cybersecurity-budget
 
 ---
 ### <a id="doclib-references"></a>REFERENCES
