@@ -8,6 +8,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [The Global Surveillance Free-for-All in Mobile Ad Data](#cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Men Arrested at Courthouse Say They Were Sent to Test Its Security](#cybersecurity-news-and-research-hub-men-arrested-at-courthouse) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [Mirai Confessions, The](#cybersecurity-news-and-research-hub-mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
 
 ### PODCASTS
@@ -56,6 +57,15 @@ Git configuration files, like /.git/config or .gitlab-ci.yml, are essential for 
 📄 [Men Arrested at Courthouse Say They Were Sent to Test Its Security](Men%20Arrested%20at%20Courthouse%20Say%20They%20Were%20Sent%20to%20Test%20Its%20Security%20-%20The%20New%20York%20Times.pdf)
 
 Two cybersecurity professionals, Justin L. Wynn and Gary Demercurio, were arrested for allegedly breaking into the Dallas County Courthouse in Iowa under the claim of testing its security. Hired by Iowa's State Court Administration to assess vulnerabilities in electronic court records, their task allegedly included simulating unauthorized access. However, state officials asserted that physical forced entry was not authorized or anticipated as part of the penetration test. The men, who were found with burglary tools, stated their assignment was to evaluate security and law enforcement response times. Their arrest sparked controversy over the scope and communication of security testing protocols, with the state administration apologizing to local authorities and promising cooperation in the investigation[^3].
+
+---
+### <a id="cybersecurity-news-and-research-hub-mirai-confessions-the"></a>Mirai Confessions, The
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+📄 [The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.](The%20Mirai%20Confessions-%20Three%20Young%20Hackers%20Who%20Built%20a%20Web-Killing%20Monster%20Finally%20Tell%20Their%20Story.pdf)<br/>
+
+This article details how three teenage friends created Mirai, a potent malware that hijacked IoT devices to execute massive DDoS attacks. This culminated in a significant disruption on October 21, 2016, affecting major websites and services like Twitter, Netflix, and PayPal, causing widespread outages across the United States. The hackers initially used Mirai to target rival Minecraft servers, but the malware spiraled out of their control, leading to unforeseen consequences. Eventually, they were apprehended and cooperated with the FBI, reflecting a rare case of restorative justice in cybersecurity​ [^4].
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
@@ -166,3 +176,4 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^1]: Toulas, B. (2024, October 30). Hackers steal 15,000 cloud credentials from exposed Git config files. BleepingComputer. https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/
 [^2]: The Global Surveillance Free-for-All in Mobile AD data. (2024, October 27). https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/
 [^3]: Hauser, C. (2019, September 16). Men Arrested at Courthouse Say They Were Sent to Test Its Security. New York Times. https://www.nytimes.com/2019/09/16/us/iowa-courthouse-burglary.html
+[^4]: Greenberg, A. (n.d.). *The Mirai Confessions: Three Young Hackers Who Built a Web-Killing Monster Finally Tell Their Story.* Wired. Retrieved November 28, 2023, from https://www.wired.com/story/mirai-untold-story-three-young-hackers-web-killing-monster
