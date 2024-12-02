@@ -5,7 +5,8 @@ This resource aims to support research, enhance classroom discussions, and provi
 
 ## <a id="cybersecurity-news-and-research-hub-toc"></a>Table of Contents
 ### ARTICLES
-- [The Global Surveillance Free-for-All in Mobile Ad Data](#cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+- [Difference Between Red, Blue and Purple Teams, The](#cybersecurity-news-and-research-hub-red-blue-purple) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [Global Surveillance Free-for-All in Mobile Ad Data, The](#cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Hackers Steal 15,000 Cloud Credentials from Exposed GIT Config Files](#cybersecurity-news-and-research-hub-hackers-steal-15000) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Men Arrested at Courthouse Say They Were Sent to Test Its Security](#cybersecurity-news-and-research-hub-men-arrested-at-courthouse) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Mirai Confessions, The](#cybersecurity-news-and-research-hub-mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
@@ -14,6 +15,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Sun Tzu and the Art of Cyberwar](#cybersecurity-news-and-research-hub-sun-tzu) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [There's No Silver Bullet For Cybersecurity](#cybersecurity-news-and-research-hub-theres-no-silver-bullet-for-cybersecurity) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Think Like A Hacker](#cybersecurity-news-and-research-hub-think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#cybersecurity-news-and-research-hub-us-programmer-outsources-own-job-to-china-surfs-cat-videos) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
 
 ### PODCASTS
@@ -30,12 +32,30 @@ This resource aims to support research, enhance classroom discussions, and provi
 ### 📁 [Back to Document Library](../../Document%20Library/README.md#doclib-toc)
 
 ## ARTICLES
-### <a id="cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data"></a>The Global Surveillance Free-for-All in Mobile Ad Data ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+---
+### <a id="cybersecurity-news-and-research-hub-red-blue-purple"></a>Difference Between Red, Blue, and Purple Teams, The
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
 <br/><br/>
-:link: [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
+:link: [Difference Between Red, Blue, and Purple Teams, The](https://danielmiessler.com/p/red-blue-purple-teams/)<br/>
+
+This article explains the roles of these teams in cybersecurity:
+
+* Red Teams simulate real-world attackers to identify vulnerabilities.
+* Blue Teams focus on defending against these attacks and enhancing security measures.
+* Purple Teams facilitate collaboration between Red and Blue Teams, integrating their findings to improve overall security.
+
+The article emphasizes that effective security relies on the continuous interaction between Red and Blue Teams, with Purple Teams acting more as a dynamic function than a permanent fixture [^11].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+### <a id="cybersecurity-news-and-research-hub-the-global-surveillance-free-for-all-in-mobile-ad-data"></a>Global Surveillance Free-for-All in Mobile Ad Data, The ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [Global Surveillance Free-for-All in Mobile Ad Data, The](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
 
 In this article Brian Krebs examines the widespread availability of mobile advertising data and its implications for personal privacy. He highlights a lawsuit filed by Atlas Data Privacy Corp. against Babel Street, a company offering services that allow users to track mobile devices by their Mobile Advertising ID (MAID). This capability enables the monitoring of individuals' movements without their consent, raising significant privacy concerns. Krebs emphasizes the ease with which such surveillance tools can be accessed and utilized, underscoring the urgent need for stricter regulations to protect individuals' privacy in the digital age. [^2].
 
@@ -137,6 +157,17 @@ This article emphasizes that no single solution can fully address cybersecurity 
 :page_facing_up: [Think Like a Hacker](Think%20Like%20a%20Hacker.pdf)<br/>
 
 Cyber-lawyer Scott Shapiro believes there is more to beating hackers than getting better at programming. He tells David Adam why online security is as much about humans as technology and how understanding both can keep us safer online [^5].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
+### <a id="cybersecurity-news-and-research-hub-us-programmer-outsources-own-job-to-china-surfs-cat-videos"></a>U.S. Programmer Outsources Own Job to China, Surfs Cat Videos
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+:link: [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html)<br/>
+
+In 2013, a story emerged about a U.S. software developer who outsourced his job to China. The developer, referred to as "Bob," worked for a critical infrastructure company and earned a six-figure salary. He hired a Chinese firm to do his job for about one-fifth of his salary, allowing him to spend his workdays surfing the Internet, including watching cat videos on YouTube and browsing social media. This scheme was discovered during a security audit when unusual VPN activity from China was detected. Bob had even sent his RSA security token to China to facilitate the login process for the outsourced workers. Despite receiving excellent performance reviews, Bob was eventually fired for violating company policy when the deception came to light​ [^10].
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
@@ -253,3 +284,5 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^7]: Gallagher, S. (2016, March 25). Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet.” Ars Technica. https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/
 [^8]: Wilson, R. (2018). Sun Tzu and the art of Cyberwar. Defense Acquisition Magazine, January-February 2018, 30–34. Retrieved November 11, 2024, from https://www.dau.edu/library/damag/january-february2018/sun-tzu-and-art-cyberwar
 [^9]: Hinson, G. (2008). Social Engineering Techniques, risks, and controls. EDPACS, 37(4–5), 32–46. https://doi.org/10.1080/07366980801907540
+[^10]: Inocencio, R. (2013, January 17). U.S. programmer outsources own job to China, surfs cat videos. https://cnn.com. Retrieved June 24, 2024, from https://www.cnn.com/2013/01/17/business/us-outsource-job-china/index.html
+[^11]: Miessler, D. (n.d.). The difference between red, blue, and purple teams. Unsupervised Learning. https://danielmiessler.com/p/red-blue-purple-teams/
