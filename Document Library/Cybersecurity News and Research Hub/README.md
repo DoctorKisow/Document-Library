@@ -23,6 +23,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [There's No Silver Bullet For Cybersecurity](#cybersecurity-news-and-research-hub-theres-no-silver-bullet-for-cybersecurity) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Think Like A Hacker](#cybersecurity-news-and-research-hub-think-like-a-hacker) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [U.S. Programmer Outsources Own Job to China, Surfs Cat Videos](#cybersecurity-news-and-research-hub-us-programmer-outsources-own-job-to-china-surfs-cat-videos) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [Users Really Do Plug in USB Drives They Find](#cybersecurity-news-and-research-hub-users-really-do-plug-in-usb-drives-they-find-paper) ![New Content](https://img.shields.io/badge/New_Content-SP25-green?style=plastic&logo=Apachespark&logoColor=white)
 - [Where to Focus Your Company’s Limited Cybersecurity Budget](#cybersecurity-news-and-research-hub-where-to-focus-your-companys-limited-cybersecurity-budget) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [REFERENCES](#cybersecurity-news-and-research-hub-references)
 
@@ -286,6 +287,18 @@ In 2013, a story emerged about a U.S. software developer who outsourced his job 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 ---
+### <a id="cybersecurity-news-and-research-hub-users-really-do-plug-in-usb-drives-they-find-paper"></a>Users Really Do Plug in USB Drives They Find ![New Content](https://img.shields.io/badge/New_Content-SP25-green?style=plastic&logo=Apachespark&logoColor=white)
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:page_facing_up: [Users Really Do Plug in USB Drives They Find](users-really-do-plug-in-usb-drives-they-find-paper.pdf)<br/>
+
+This study investigates the effectiveness of using USB flash drives as a social engineering attack vector by conducting a controlled experiment on a university campus. The researchers dropped 297 flash drives, observing that 45%–98% of drives were connected by users within a median time of 6.9 hours. Findings revealed that users often acted out of altruism or curiosity, despite understanding the potential risks. The research highlights a critical gap in user awareness and behavior, emphasizing the continued threat of simple, non-technical attacks in cybersecurity. The study calls for improved defenses and better user education to mitigate such risks[^25].
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
 ### <a id="cybersecurity-news-and-research-hub-where-to-focus-your-companys-limited-cybersecurity-budget"></a>Where to Focus Your Company’s Limited Cybersecurity Budget
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
 ![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
@@ -423,3 +436,4 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^22]: Fruhlinger, J. (2022, August 31). Stuxnet explained: The first known cyberweapon. CSO Online. https://www.csoonline.com/article/562691/stuxnet-explained-the-first-known-cyberweapon.html
 [^23]: Piggin, R. (2011). Control network security lessons from Stuxnet: a UK expert describes how Stuxnet and other threats to industrial infrastructure cyber security are prompting national and international action. Knowledge is power. Control Engineering, 53+. https://link-gale-com.ezproxy.ccac.edu/apps/doc/A260943634/GBIB?u=pitt92539&sid=ebsco&xid=6d94f1f0
 [^24]: Kushner, D. (2024, May 24). The real story of Stuxnet. IEEE Spectrum. https://spectrum.ieee.org/the-real-story-of-stuxnet
+[^25]: Tischer, M., Durumeric, Z., Foster, S., Duan, S., Mori, A., Bursztein, E., & Bailey, M. (n.d.). Users really do plug in USB drives they find. University of Illinois at Urbana-Champaign, University of Michigan, and Google. Retrieved December 4, 2024.
