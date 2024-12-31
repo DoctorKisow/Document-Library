@@ -14,6 +14,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Men Arrested at Courthouse Say They Were Sent to Test Its Security](#cybersecurity-news-and-research-hub-men-arrested-at-courthouse) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Mirai Confessions, The](#cybersecurity-news-and-research-hub-mirai-confessions-the) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [NSA PRISM PowerPoint Slides](#cybersecurity-news-and-research-nsa-prism-powerpoint-slides) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
+- [Impact of Vulnerability Disclosure and Patch Management](#cybersecurity-news-and-research-patch-management) ![New Content](https://img.shields.io/badge/New_Content-SP25-green?style=plastic&logo=Apachespark&logoColor=white)
 - [Rage-Quit](#cybersecurity-news-and-research-hub-rage-quit) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
 - [Real Story of Stuxnet, The](#cybersecurity-news-and-research-hub-real-story) ![Moved](https://img.shields.io/badge/Moved-FA24-blue?style=plastic)
 - [Seven Ways to Apply the Cyber Kill Chain with a Threat Intelligence Platform](#cybersecurity-news-and-research-hub-seven-ways-to-apply-the-cyber-kill-chain-with-a-threat-intelligence-platform) ![New Content](https://img.shields.io/badge/New_Content-24FA-orange?style=plastic&logo=Apachespark&logoColor=white)
@@ -35,6 +36,7 @@ This resource aims to support research, enhance classroom discussions, and provi
 - [Ars Technica](#cybersecurity-news-and-research-hub-ars)
 - [BleepingComputer](#cybersecurity-news-and-research-hub-bleepingcomputer)
 - [EFF Sector](#cybersecurity-news-and-research-hub-eff)
+- [Exploit Database](#cybersecurity-news-and-research-hub-exploitdb)
 - [Krebs on Security](#cybersecurity-news-and-research-hub-krebs)
 - [WIRED Magazine](#cybersecurity-news-and-research-hub-wired)
   
@@ -174,6 +176,27 @@ For additional NSA slides leaked by Edward Snowden [^20], see:
 1. Defense Cryptologic Platform: http://archive.org/details/NSA-Defense-Cryptologic-Platform
 1. Global Heat: http://archive.org/details/NSA-Global-Heat-Map-Surveillance
 1. Released by Brazilian TV: http://archive.org/details/NSA-Slides-O-Globo-Brazil
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
+### <a id="cybersecurity-news-and-research-patch-management"></a>Impact of Vulnerability Disclosure and Patch Management ![New Content](https://img.shields.io/badge/New_Content-SP25-green?style=plastic&logo=Apachespark&logoColor=white)
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+<br/><br/>
+📄 [An Empirical Analysis of Software Vendors' Patch Release Behavior: Impact of Vulnerability Disclosure.](An_Empirical_Analysis_of_Software_Vendors_Patc_Release_Behavior.pdf)<br/>
+📄 [Does Information Security Attack Frequency Increase with Vulnerability Disclosure?](Does_information_security_attack_frequency_increase_with_vulnerability_disclosure_an_empirical_analysis.pdf)<br/>
+📄 [Impact of Vulnerability Disclosure and Patch Availability—An Empirical Analysis.](Impact_of_vulnerability_disclosure_and_patch_availability_an-empirical_analysis.pdf)<br/>
+
+The three research articles provide significant insights into the impact of vulnerability disclosure and patch release dynamics on software security, vendor behavior, and attacker activity.
+
+Arora et al. analyze the relationship between software vulnerability disclosures and patch release behavior. Their study finds that disclosure accelerates patch releases, with vendors being nearly 2.5 times more likely to issue patches after disclosure. Open-source vendors are particularly responsive, releasing patches faster than closed-source counterparts. Additionally, the study highlights that the severity of vulnerabilities influences patch timelines, with more critical issues addressed more quickly. The research underscores the importance of organizations like CERT in fostering timely patch releases through structured communication and credibility[^26].
+
+In exploring whether vulnerability disclosures impact the frequency of attacks, Arora, Nandkumar, and Telang reveal a nuanced relationship. While patching known vulnerabilities reduces attacks over time, disclosure without accompanying patches can initially lead to a spike in attacks. This spike is attributed to attackers leveraging disclosed information before users apply fixes. However, the study also suggests that the availability of patches and user awareness reduces attack frequencies over time, demonstrating the dual-edged nature of vulnerability disclosures[^27].
+
+Another perspective is provided by Arora et al., who empirically assess how disclosure policies influence both vendor and attacker behavior. Their findings indicate that instantaneous disclosure encourages quicker patch releases from vendors and temporarily increases attack attempts on disclosed vulnerabilities. The study emphasizes that open-source vendors and larger organizations tend to patch vulnerabilities more swiftly than smaller or closed-source entities. It further identifies that older vulnerabilities are less likely to be exploited, emphasizing the temporal dynamics of risk[^28].
+
+In conclusion, these studies collectively illustrate the complex interplay between vulnerability disclosure, patching behavior, and security outcomes. They highlight the need for balanced disclosure policies that encourage prompt vendor responses while mitigating attackers' exploitation risks.
 
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
@@ -379,6 +402,18 @@ The organization also maintains an Action Center, encouraging individuals to par
 [[TOC]](#cybersecurity-news-and-research-hub-toc)
 
 ---
+### <a id="cybersecurity-news-and-research-hub-exploitdb"></a>Exploit DB
+![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
+![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
+![CIT-282](https://img.shields.io/badge/282-CIT?style=plastic&logo=Educative&logoColor=white&color=FF9633)
+<br/><br/>
+:link: [Exploit-DB](https://exploit-db.com)
+
+Exploit-DB.com is a comprehensive archive of public exploits and software vulnerabilities, serving as a vital resource for cybersecurity professionals, researchers, and ethical hackers. Maintained by Offensive Security, it provides a searchable database of exploits, including proof-of-concept code, along with details about associated vulnerabilities. The platform supports ethical cybersecurity practices by offering tools for penetration testing, vulnerability analysis, and learning. Exploit-DB is also integrated with other Offensive Security projects, such as the Kali Linux distribution, making it a central hub for the cybersecurity community to access up-to-date information and resources.
+
+[[TOC]](#cybersecurity-news-and-research-hub-toc)
+
+---
 ### <a id="cybersecurity-news-and-research-hub-krebs"></a>Krebs on Security
 ![CIT-182](https://img.shields.io/badge/182-CIT?style=plastic&logo=educative&logoColor=white&color=3358FF)
 ![CIT-254](https://img.shields.io/badge/254-CIT?style=plastic&logo=Educative&logoColor=white&color=B833FF)
@@ -437,3 +472,6 @@ Wired.com also hosts several blogs and podcasts, facilitating discussions on eme
 [^23]: Piggin, R. (2011). Control network security lessons from Stuxnet: a UK expert describes how Stuxnet and other threats to industrial infrastructure cyber security are prompting national and international action. Knowledge is power. Control Engineering, 53+. https://link-gale-com.ezproxy.ccac.edu/apps/doc/A260943634/GBIB?u=pitt92539&sid=ebsco&xid=6d94f1f0
 [^24]: Kushner, D. (2024, May 24). The real story of Stuxnet. IEEE Spectrum. https://spectrum.ieee.org/the-real-story-of-stuxnet
 [^25]: Tischer, M., Durumeric, Z., Foster, S., Duan, S., Mori, A., Bursztein, E., & Bailey, M. (n.d.). Users really do plug in USB drives they find. University of Illinois at Urbana-Champaign, University of Michigan, and Google. Retrieved December 4, 2024.
+[^26]: Arora, A., Krishnan, R., Telang, R., & Yang, Y. (2010). An Empirical Analysis of Software Vendors' Patch Release Behavior: Impact of Vulnerability Disclosure. Information Systems Research. DOI: 10.1287/isre.1080.0226​.
+[^27]: Arora, A., Nandkumar, A., & Telang, R. (2006). Does Information Security Attack Frequency Increase with Vulnerability Disclosure? Information Systems Frontiers. DOI: 10.1007/s10796-006-9012-5​.
+[^28]: Arora, A., Krishnan, R., Nandkumar, A., Telang, R., & Yang, Y. (2004). Impact of Vulnerability Disclosure and Patch Availability—An Empirical Analysis. Proceedings from Carnegie Mellon University. DOI unavailable​.
